@@ -1,0 +1,1001 @@
+CustomerID,RiskTolerance,PreferredInvestment,PortfolioDiversification
+482a6749-b62c-4d56-b92c-4f4755d70974,High,Bonds,0.32
+2a245696-4cbb-45e9-83f4-6a588596d49b,Medium,Stocks,0.6
+69e0e788-783f-4e6a-8254-9114aba4363a,Medium,Bonds,0.15
+17a76137-405a-41bf-b01d-a8c8df08b871,High,Mutual Funds,0.32
+5adc663b-37e1-4eb7-9ecf-edda16346c92,High,Mutual Funds,0.74
+31a1f4bf-3154-4abf-9079-e80671dc6cb2,Medium,ETFs,0.96
+f19c8437-b8db-419e-a4ce-2d4942aaede9,High,Stocks,0.56
+fdbf632b-afb4-4b9e-9661-dca3824c8f1e,High,Mutual Funds,0.39
+e1e64bac-5c98-41eb-be30-1023acddd079,High,Mutual Funds,0.26
+f2a728c1-64c0-4623-8321-96c9eb60a50a,Low,Real Estate,0.86
+38841680-6130-44e6-bc6a-a120197db6e8,Low,Real Estate,0.34
+5e65e990-917c-4538-9ae8-8ebc4191bfef,Low,ETFs,0.22
+23737cbe-8a6b-44c7-b248-91992efa91ca,Medium,ETFs,0.36
+640f2c89-09c5-4f89-8afd-953b149bd619,Medium,Mutual Funds,0.66
+cf72b62d-2bd2-4b27-95d6-ba619ae8414a,Low,Real Estate,0.49
+1dcdb9a7-31ce-4fd9-96c1-5be4ea7d4111,High,ETFs,0.86
+8a1e59ac-7217-41d9-9b9f-be90348faeab,Medium,Bonds,0.54
+95f08d59-847d-4161-a898-2f8feac30cb3,High,Mutual Funds,0.17
+2346157e-2094-402b-b936-7c0630f73707,High,Stocks,0.11
+3a12e897-0ed0-4494-8e35-4e7f32cffeb7,Low,Mutual Funds,0.75
+8877d956-4536-403c-a2fd-298c5eb8952d,Low,Bonds,0.59
+8119a587-79fe-4ae8-9403-8071da61e6f9,Medium,Mutual Funds,0.12
+119a0352-7a7c-407c-904e-0daa1a787ab7,Low,Real Estate,0.45
+dadb0272-c667-4d1a-ab88-7bb9f87c497e,High,Stocks,0.79
+0a925788-ed28-40f3-b883-f4bb459d6bab,High,ETFs,0.82
+999b4cef-d1bc-4aaf-b868-ddec9248ca59,Medium,ETFs,0.87
+2b9d7eb5-8616-4215-9c51-8612b2a91a57,Medium,Stocks,0.36
+0f7c221e-a9b8-41ee-8719-fd592282822b,Medium,Real Estate,0.52
+ca1a18a0-1b64-4278-840e-5e2a922a4405,Medium,Stocks,0.23
+f2db351e-613a-4fb7-9e3f-6d540102d7b0,Low,Mutual Funds,0.35
+98110a9a-3dca-46ae-8dbd-671330c2ad13,Low,Real Estate,0.96
+4d204088-89ea-4f88-9e9b-9fdfde1f3db8,Medium,Mutual Funds,0.71
+1906b1d0-e075-437a-b6d0-3ce8824ed3a7,High,Bonds,0.49
+91404b0d-51ae-435b-a304-14c79e0b89cc,Low,Stocks,0.92
+2e46d7b7-e3d7-48f3-b37e-525bf57343e9,High,Stocks,0.46
+173aea69-0eec-4257-a684-8c177daa9143,Low,Real Estate,0.46
+48c99cf4-dc27-4d7f-ae0d-f45da305bb9d,High,Stocks,0.47
+c4018885-d0da-4e87-a6f7-01f22866838d,Low,Real Estate,0.85
+d02da1a8-5813-4a6a-ac1f-dec6c624956d,High,ETFs,0.29
+7af4cbae-68a4-4aa2-9f85-1bba1b11c238,Low,Stocks,0.95
+c0888459-0689-4b29-bd2f-efdff9936d4e,High,Bonds,0.24
+e20970ef-cd90-45f4-a1fc-c87b812973ed,Low,ETFs,0.82
+82fbba3e-8b54-419d-980c-ab3d7ad99508,Medium,Bonds,0.17
+c5ede80b-2439-4f78-b075-39a1901fcf47,High,Real Estate,0.78
+661ac4bf-5573-4a7d-bf43-53f4403715c7,Low,Bonds,0.44
+b0c95ec9-987c-46f3-aed5-19e0fc9b388c,High,Stocks,0.11
+f4a0275f-c416-4896-a75d-87ce13300c3b,Medium,Mutual Funds,0.49
+60c67320-180f-4fe6-99bf-22473fb4e6e9,Medium,ETFs,0.44
+e7a8f0de-93fc-4e03-80bf-ab1581822ed6,Medium,Stocks,0.38
+c462ca24-6896-4eff-ba9b-02478b74d44d,High,Real Estate,0.37
+40ff197c-03cd-40d5-9143-9042139534f2,Low,Real Estate,0.82
+80cd63c1-a899-43cf-9be6-3ce72e32a499,Low,ETFs,0.88
+89aefdaf-58ff-4564-9119-10e9b6352c53,Low,Real Estate,0.21
+b2656e13-f220-4ef6-82b9-5ff546b13550,High,Mutual Funds,0.24
+0d2e97f4-4778-4edd-86a9-e2603463470f,Medium,ETFs,0.99
+ae8dd551-8fb2-4770-a711-67888fb00f65,Medium,Bonds,0.23
+695557b3-fb7c-41da-8d16-2fb63cb24313,High,Stocks,0.54
+9369c48f-0742-4eb0-ba03-bfb87ef4a84c,High,Mutual Funds,0.8
+c9a65340-8a4e-4c85-ba60-685e8164e085,High,Stocks,0.42
+88546bae-354c-4d7c-a04d-852af38d9455,Low,Bonds,0.58
+0872cd68-6d29-42cd-9a65-f1f0f2cec658,Low,Real Estate,0.16
+612ab2e5-5663-4c03-bde6-78c805338cba,Low,Mutual Funds,0.54
+c8b7dec3-8841-4351-a78a-29b0d3631afa,Medium,Mutual Funds,0.64
+e46b0b2d-2152-423f-adb7-dceda7554f23,Medium,Mutual Funds,0.97
+e30939c8-69ac-4ea2-a716-2f846be75ad3,Medium,Real Estate,0.82
+8a516c00-e470-45b4-a3d3-2f2e90fe2c6e,Medium,Stocks,0.52
+ebf708ef-cb1f-4486-b074-dbc7a8ca20e7,High,Mutual Funds,0.78
+2eedef45-dcc3-40a7-a144-b9c63a0c562c,Low,Stocks,0.95
+4dfbc807-712c-424b-92ba-75e2571fb0f2,Medium,Mutual Funds,0.98
+e2e5c362-119e-45e3-a8b3-604171d00ba7,High,Bonds,0.99
+37ee9c8f-23f0-45ac-aa94-e9555287a887,High,Bonds,0.67
+7b1cf55e-0ab0-445a-94f9-6996662f2cdb,Medium,Mutual Funds,0.42
+8210c1a3-3a70-419c-8593-af046e36f1a9,Low,Mutual Funds,0.45
+ddc60d2f-2654-4f66-854f-a97d4d22c2a2,High,Real Estate,0.34
+0815e39b-c57f-4d00-9e6a-194c38de9b29,High,Real Estate,0.43
+df7a0383-53d0-45e9-b4e0-5d0b80b64769,Medium,Real Estate,0.3
+80faba8f-a1e2-4fee-9b56-f198d2a0b21e,High,Mutual Funds,0.32
+976c5cae-0874-4bfa-bbfc-9be786a74fdd,Medium,Stocks,0.46
+bfa3bbe8-4f66-4a36-a386-1592b9ae0f1f,High,Stocks,0.42
+278a9cba-77be-471b-946a-1a9daa3d4311,Low,Stocks,0.6
+5cf02204-7340-410e-91a3-c307c6769f3a,Medium,Stocks,0.88
+7af9a887-22e5-4806-9998-934b4621aef0,High,Real Estate,0.28
+96993efa-11bf-4d4b-896b-389cc0414e94,Medium,Stocks,0.83
+3e41b25c-115d-40b5-88fa-f06e651da8fd,Medium,Mutual Funds,0.29
+51a8f94e-f632-460e-af71-e95db8fceac4,Low,ETFs,0.94
+5c76d7ae-48f2-4d47-a40b-57593df439ee,High,Stocks,0.28
+e72fd2c1-10c0-433b-964d-3a5cf6eb464c,High,ETFs,0.18
+86aafcb6-236a-4c9c-8178-f5281260e308,Low,Real Estate,0.12
+501563d6-0195-44d2-a953-580c10c51d04,Medium,Real Estate,0.75
+a6c7fd44-be7c-4d9f-8863-d1a9c8e3e270,Medium,Bonds,0.56
+fe2eee6f-0ce6-4c67-86c5-f1796d56c8de,Medium,Stocks,0.21
+ad39d8ef-ae5a-4f70-95e9-afa003357ae0,High,Stocks,0.36
+37886663-c9a5-4d2d-aeb1-6d71ba07d4bd,Low,Stocks,0.68
+8336672c-d04b-4ff9-8e7a-8496fb8e109d,Medium,Real Estate,0.66
+0227a817-edf1-447e-b3ae-e519c1b6a26d,High,Bonds,0.93
+88634434-d7f7-4818-8764-c962fbac783a,High,ETFs,0.88
+39e38a69-2bdf-426b-94ec-52a789aa612d,Low,Mutual Funds,0.95
+04418c40-0aa8-4878-ab2d-2f08a6bd8a24,Low,ETFs,0.74
+04e3800a-d03a-4132-ab5a-2e6667481dae,Low,Bonds,0.73
+3f7f1f0a-0470-439d-ad35-ab2e2fb83bd9,High,ETFs,0.2
+c6b916fc-59e9-4e16-a952-bc0e36542a88,Low,Bonds,0.35
+6c6e357f-dc61-4451-9a82-b64b6e34fa18,Low,Stocks,0.82
+b77771ab-6cb3-454c-91e0-c251d417e710,High,Real Estate,0.34
+6ba9f655-f1b0-4170-9a07-f485dd537de4,Medium,Bonds,0.3
+73d584f0-cdd4-4f9b-bcf9-cf61e19175cd,Medium,Bonds,0.16
+8dad531d-e901-43bb-a1ca-b6043c6c15f3,Low,Stocks,0.57
+1ddb2e0a-c806-4b1a-ab90-6aafa850c6c2,Low,Real Estate,0.72
+9fa1c4e9-ba02-4489-883c-10cee690fc73,Low,ETFs,0.15
+ad8b557e-2379-4b82-bfa3-577bea2417e0,Medium,Real Estate,0.84
+ff4dd0ef-ae01-413e-8302-082b164c9f2b,Low,ETFs,0.62
+4ef87ddd-e3b0-45e5-b83b-6aac5f92c1e6,Medium,Real Estate,0.43
+6464a77b-aa8d-4faf-bed9-c3b3e600de75,High,Bonds,0.84
+85e5bbb6-6fde-496d-87c8-ada4d1465974,Medium,Bonds,0.34
+49b5c9ba-97d5-4270-8deb-6816444eaf4f,Low,Mutual Funds,0.1
+76006b9c-65d9-4132-9b96-1391c4b4f741,High,ETFs,0.48
+3d8f5ab7-ee90-44b1-bef7-0033810b0daf,Medium,Real Estate,0.83
+133481e9-347c-4e58-8865-2b36d577fa80,Low,ETFs,0.42
+542ec4f3-7e35-4b48-857d-6d34fedf7a97,High,Real Estate,0.44
+e5740390-fc15-4d3a-96d8-62b144b7acbc,Low,Mutual Funds,0.59
+870f16be-1b93-496d-aecc-c54658dc9840,Low,Mutual Funds,0.6
+83d23ade-9080-4ca1-abf6-4e029418e0bb,Medium,Bonds,0.59
+33b41f2a-d8d8-4b3b-94b1-421021b462af,High,ETFs,0.27
+e37c809e-54c5-4e30-a675-a9b7d1d55862,Low,ETFs,0.95
+3eaba330-aac8-4568-8816-f50483e6bd68,High,Stocks,0.53
+c3622195-59f1-4cf1-961d-4a1e7ac054e2,Low,ETFs,0.95
+5c40d6cb-bfc5-427b-81ec-39d39a16e326,High,ETFs,0.47
+cef5cee6-31c7-4206-8f3f-1b8197cd714c,Low,ETFs,0.35
+370d74b3-1701-4d31-8810-d995ebb534c2,High,Mutual Funds,0.64
+8db34e33-9d8e-4c69-a719-343b7804b63d,High,Real Estate,0.45
+02c7dc43-49fe-440c-b721-60b572434549,Low,Mutual Funds,0.78
+0a91278d-5235-4f28-951c-f74e0f95d592,High,Bonds,0.32
+8afc3ead-70b8-4dec-9d89-60d3c60e98ac,Medium,Bonds,0.86
+cb5859ba-3f30-4001-bb62-8b55a33a1c78,High,Mutual Funds,0.71
+b9cde4b5-703a-4939-8c1f-c28599e86d24,Low,ETFs,0.21
+3ae881ce-163e-4909-b5ef-6d566acf5122,Low,Bonds,0.54
+98e7bb9e-feae-4da9-ad15-2682cc5aea65,High,Real Estate,0.58
+1d0bd9fc-d5f7-4861-99b7-51ce0ba0f4b8,High,ETFs,0.39
+2d712613-20ac-4bac-8712-30c00c75906d,Medium,Mutual Funds,0.11
+f78d3e7e-1834-4463-8a59-018d1f99f9d4,Low,Bonds,0.56
+f3b7614b-e63c-498b-8749-f1575676dc8d,Medium,Mutual Funds,0.32
+49702d74-5ecb-484f-84e1-941f40fea59a,Low,ETFs,0.23
+422d98d6-a8ec-4343-b09c-5f346009d75b,Medium,Real Estate,0.5
+bcd23da2-22c1-4f0b-a304-1ba3414dd8e8,High,Mutual Funds,0.52
+a89096ad-9593-4f9c-a758-9772d37d8689,High,Bonds,0.39
+128244d2-02d9-4444-a147-723f0b6a917f,High,ETFs,0.93
+fa87095c-752c-4182-bfb9-f5a97ab4b224,Medium,Bonds,0.23
+dd2bc34a-0933-49ff-b882-c2eec0383391,Low,ETFs,0.12
+5966c3e1-4a86-4f98-8ecb-0f397f818f18,Low,Real Estate,0.31
+80756fea-42c8-4992-9b3c-893be72095d6,Low,Bonds,0.7
+e1172200-828f-4db0-8a2a-897321f01771,Low,Bonds,0.58
+a74b184e-c544-4fa8-89c3-052c07d38938,High,Stocks,0.91
+7700c1fd-06de-40e2-a268-758712e16d04,High,Stocks,0.96
+156af81b-6da2-4250-a6ed-2997479603f6,Low,ETFs,0.35
+97ecb127-56f7-45b8-a66f-bc98c61e4fd8,Low,Bonds,0.88
+0bdbee06-9441-4c3b-9a78-5210a3267414,Low,Real Estate,0.95
+56906c38-43a2-4d1f-ae40-2bafbdcaac53,Low,Stocks,0.93
+a57f28d1-ef39-4ec6-9ec3-5a987a2223bd,High,Stocks,0.59
+c11de79a-1674-4bb1-98b6-4cc18fac8354,Low,ETFs,0.13
+7302d20f-4f3c-4781-a842-ea5e7f493e86,High,ETFs,0.25
+97e7e548-a156-4d31-9527-fca4f02ef9ce,High,Mutual Funds,0.18
+4e55d63c-8eb7-4ea1-85f1-d08cdf580e08,Low,Real Estate,0.12
+dc62a7f8-7dba-4dfb-bffd-d4cd06449703,Medium,Mutual Funds,0.11
+b48e35c6-8b4d-4232-aa10-33247e5ce455,Medium,ETFs,0.15
+b40ea51a-623e-4864-a038-7062164cd183,Medium,Mutual Funds,0.17
+b4bd9b10-329e-4cbf-bcc3-33b74dd1d012,Low,Real Estate,0.14
+ef3c9ec0-6e03-4ffb-b8d4-9000490c8b67,High,Bonds,0.66
+a95cf878-3036-40b4-8158-957257674bc9,Medium,ETFs,0.63
+37a84331-5ca4-414b-9cdb-97b4627804f4,Medium,Bonds,0.89
+4697bc82-40a8-4b64-96f9-0af8c208919c,Low,ETFs,0.22
+e0a9faf7-a5e4-42a7-bd88-d1ea9cef916c,High,Mutual Funds,0.56
+64074639-5e39-4daf-9f56-ea9a83be93c5,Medium,ETFs,0.95
+c390011f-6bca-48e0-92bb-8b80b3a990aa,Low,ETFs,0.13
+b25e5a18-195b-41c1-979c-bdcf13c1f5c2,Low,Bonds,0.39
+33a4dc18-4a9d-4e71-861b-b54e44b0d21a,High,Real Estate,0.89
+21d11ddb-7d8e-4674-b08b-2195a7aab50e,Medium,Mutual Funds,0.92
+dc5634c4-b9b6-4a50-bb2b-936f4199c793,High,Bonds,0.63
+3d17e2bb-1971-43d6-91a8-d6b91c1e3b4a,Low,ETFs,0.39
+ddcac199-6c99-4c99-910c-01ae3e7b5574,Medium,Bonds,0.14
+4ffb9447-8e67-4e0e-acdd-ecc747008bf6,Low,Bonds,0.5
+8a340702-497d-4f99-b126-d2e4109a8f75,Low,Stocks,0.31
+fc0a4929-e98d-4c30-be98-39e779effff7,High,Bonds,0.29
+d775de6a-ea7d-4515-bd70-762bcd34624c,High,Real Estate,0.28
+f904e550-c66d-405f-b95c-1d803100efe4,High,Real Estate,0.99
+8507c836-7792-48e3-a727-519b5153495b,High,Stocks,0.36
+47994ef5-a358-49ea-b498-091d6fb92993,Medium,ETFs,0.33
+92f242c8-623c-4b93-bd7a-11b837a0626e,Low,ETFs,0.91
+33c36ae1-3325-4851-9a23-fa5a009fac41,High,Bonds,0.89
+2b030b31-32a9-4c96-831a-415217123753,Low,Mutual Funds,0.67
+1535928f-f725-493f-90a8-861b8ed205d9,Medium,ETFs,0.85
+29497d62-aca5-4527-928c-7197d0786cea,Low,Real Estate,0.42
+5ff44b99-767a-4b38-a366-624985b6e8ac,High,Real Estate,0.46
+940e81a2-acc4-49f0-846c-1bff516e34d6,Medium,Stocks,0.31
+72f80162-f93f-4785-8b0c-7dc552de7ba4,Low,Bonds,0.67
+84bc28b1-f0c1-4306-8b38-d81419dd8426,Medium,Stocks,0.39
+d2755e21-9cc2-467e-b2c5-529f0e3b1e57,High,Stocks,0.3
+68c173bd-872a-4166-a86a-3ba68387178d,High,Mutual Funds,0.2
+eb5839ad-9c91-4baf-97c3-7a92553888da,High,Bonds,0.35
+3c642358-2c7a-4070-a276-883f99e393b7,High,ETFs,0.83
+429a2459-596d-4626-8b42-60fc9b04e44d,Low,ETFs,0.13
+c180b404-9e51-4983-8b7f-16448fb1fcf7,Low,Mutual Funds,0.7
+95a1c3b1-ce6d-4b2b-95ad-598540a77245,High,Stocks,0.5
+61aa6b2e-5e7d-4132-a320-e5a31062b443,High,ETFs,0.53
+76c1a110-6a5a-489f-8142-623ca51b3986,Medium,Real Estate,0.22
+c8751e43-f13a-4e34-8c95-8d012326e2a7,Low,ETFs,0.36
+8aa201ef-c9bc-442b-ad5c-de6e997d70af,Low,Bonds,0.37
+465a3205-91ca-4bfe-a821-19b8d6bc510f,High,Real Estate,0.13
+8c555a0a-722c-44d8-9829-d4cf535845ed,Low,Bonds,0.67
+63005f4f-9b24-4b78-b12c-d4aaa3ba2e73,Medium,Real Estate,0.58
+f6029a5a-8c16-4e43-b400-a9801cab7a50,Medium,Bonds,0.53
+8915bc0b-6050-466b-bf83-d056eb15f5eb,Low,Bonds,0.26
+d9ae2ba4-fa52-4abe-ade3-66f3cce83a84,High,Real Estate,0.29
+b5809002-511e-4226-9045-b58068c22e8a,Medium,Real Estate,0.98
+df2cc8be-b26e-4275-a522-5b89427416ec,Low,Mutual Funds,0.12
+3679089b-a4f6-498e-a437-ee3e28d0095b,High,Mutual Funds,0.88
+26a815b9-6e39-4026-85ea-ecca3f9d1038,Medium,Stocks,0.27
+ec23abec-ba5f-47e1-9589-e3298f8bb5d2,Low,ETFs,0.14
+c2ed68f3-f4f8-44ef-bdcc-bcaefe31f2e0,High,Stocks,0.52
+1b9d1590-8882-435e-83cb-0aeb4eb596b2,Medium,Bonds,0.2
+f3f7a8ec-9396-4a70-90ab-49f65fa41d93,High,Stocks,0.75
+f71927bf-b42f-4107-9a8b-1ecfbf000185,High,Mutual Funds,0.26
+514c3d99-e793-4e40-bc54-398e8ef77826,Low,Stocks,0.42
+bcb17bd5-a1ff-499c-93f1-0c110bfc4d28,Low,Bonds,0.6
+970757d8-59fb-4ef3-b902-37d9d0ae6e29,Medium,Bonds,0.24
+7f0cc662-0b14-4a9b-87d1-c9182e8c237a,Low,Bonds,0.43
+fc560354-3e00-4f19-b6ee-58b52196bc5f,Medium,Bonds,0.42
+82c2432d-e82f-4e44-bb44-2c8781571c1e,Medium,Stocks,0.83
+2472a1e2-51af-4ae0-848d-a75fd4bd02eb,High,ETFs,0.66
+cc53a2e1-5ecf-4f47-b42c-a17bb9f69477,Low,Stocks,0.96
+18b7e20c-ece2-4678-bec5-5937ebaf4c15,Low,ETFs,0.98
+10a2b40e-2f7f-43c0-8098-d5dc5f393a7e,High,Stocks,0.22
+f8ee76bd-0ea0-4d2d-aed9-a2c0749fad94,Low,Bonds,0.94
+43f6bac0-e112-441d-82df-c11378520b32,Medium,Bonds,0.9
+b3083c9d-cbff-4be5-8c14-ac58c6d40b6d,High,Stocks,0.6
+b3069086-768c-4415-887c-66ba260f1381,High,Mutual Funds,0.99
+61d5e1b1-0bde-4720-9add-6ef87b1f0ea3,High,ETFs,0.56
+c724ad1e-6657-4498-8028-570b2cc69431,Medium,Real Estate,0.97
+75c9e80e-452c-49cd-bf39-f4fe79444a72,Low,Real Estate,0.83
+9a574568-2fef-4370-a820-01ed6a7c1019,High,ETFs,0.45
+cad2f5f8-6339-4d75-afc4-909b965b51a2,Medium,Stocks,0.94
+af44be40-3691-4dd9-85e5-41ab61f51e9b,Medium,Mutual Funds,0.41
+71a0741d-6725-4233-81ea-629869de4c88,Low,Real Estate,0.85
+d041685b-78c5-44d5-80ef-60f78a8e4c85,Low,Mutual Funds,0.39
+87cde8d4-1804-4463-8b07-e950a6ff454f,Low,ETFs,0.4
+3d909ade-f351-4cc8-acac-f926a33b36d2,Low,Stocks,0.41
+21b14b9a-7d2f-405e-bcd8-4906675fb0ae,Low,ETFs,0.2
+316ba95a-7be3-4cd3-a504-fac8e683b94d,High,Mutual Funds,0.72
+1dbcfbc1-508e-40a3-a921-e67b81442d4b,Medium,Bonds,0.94
+584b4dfc-687f-4bba-9e0c-74b84ac40c44,Low,ETFs,0.6
+402ae6dd-6636-4de9-964d-287b01f79fa7,Low,Real Estate,0.56
+730b8a74-8d79-4a5b-ae10-17e902347233,High,Stocks,0.82
+07450fe9-ae1d-4988-9216-f190e42f0dcb,Low,Mutual Funds,0.28
+82c46e59-7954-45c9-a71d-6c11e3585f45,High,Stocks,0.12
+8dc480da-a125-4ab8-be4b-8e71d00fcd99,Low,Bonds,0.58
+2e8b6fc7-9966-4677-82fe-23e737e91c9e,High,Real Estate,0.37
+b62a17e5-75d8-4bbd-87e9-d1c57230154b,Medium,Mutual Funds,0.21
+3ef1764d-3c1c-4319-92ed-7fe23d44cffe,Medium,ETFs,0.34
+1dea0bdb-5d0a-4476-b375-7564da2cb1a6,High,Real Estate,0.1
+652e31e4-b3f1-4b91-9588-f2415aa2c36d,Low,Bonds,0.15
+7812cee2-3b3e-426a-ba41-a5ee38024364,High,Real Estate,0.16
+50a2d547-dde3-4c9e-b2bd-900d0afdbc25,Medium,Real Estate,0.42
+d49dfd8f-c808-416a-bc7a-1175976d576d,Low,Stocks,0.65
+3a87e7a6-8c9b-4531-8537-40c85906bba9,Low,Bonds,0.84
+b5bb3d92-974e-4b16-9894-a04adde1463a,High,Stocks,0.15
+cc8c5888-ebc9-402b-a771-255dd38a8760,High,ETFs,0.69
+f8167a3c-7ed7-4dfd-9eac-b196bd7b1186,Low,Stocks,0.88
+554d4f62-6206-4079-875e-1c4c5a8c6867,High,Stocks,0.26
+8687eccb-6e12-40c3-b536-4ee4b0a7cbe7,Medium,ETFs,0.35
+5d34b176-ebce-4b1c-94e0-54e826fa7f03,Low,Real Estate,0.26
+070edc1e-8beb-4e4f-939e-33b53c3baf5d,Low,Mutual Funds,0.78
+d22da3c7-ab52-47ad-8128-5ac0cc48c931,High,Real Estate,0.77
+ca72f696-1160-4e61-b4c8-936237fc1f2f,High,ETFs,0.5
+0aad8c2b-3bcc-4108-9f01-15d0d5ef9091,High,Real Estate,0.64
+52e22bed-5b64-4282-9ece-1c909addaeb4,Low,Real Estate,0.5
+9caeb599-8ac0-4a3d-b422-135c1d209797,High,Stocks,0.28
+2c821d54-6450-46ae-b30d-5c71de626ecd,Medium,Stocks,0.88
+6393b297-1d3a-4213-91ea-113834532aa2,Low,Real Estate,0.18
+5b3e4b0b-1898-4677-8a9f-84557df90cad,Medium,Mutual Funds,0.49
+cc1cc50c-c1db-4b59-8214-76c645bba1b1,High,Stocks,0.66
+23772a55-83ab-4236-97f9-a487aa033250,High,Real Estate,0.37
+83dd23b5-8f1f-42e0-b4d0-3727dae28f68,High,ETFs,0.64
+1d921483-d3ba-4cee-b90d-7d4c71996d8f,Medium,ETFs,0.93
+8144b948-0cb8-40fe-ab81-0819702404bb,Medium,Real Estate,0.49
+5b8eb539-66bd-4f1d-b454-eee1078143cd,High,Real Estate,0.43
+b766278c-e21e-457d-8afa-7ebf5f62a394,Low,Stocks,0.13
+1b69f755-738d-4930-8005-242efe99a67d,High,ETFs,0.13
+0ced0c35-16b8-4da4-9bf6-ee34c35f62d2,High,Mutual Funds,0.94
+e89bbbeb-3807-4611-a3c7-db52020e3fd7,Medium,Bonds,0.77
+ffb9c3f0-a105-4845-9631-ea833355003d,Medium,Mutual Funds,0.22
+b23187ac-6c15-433e-b104-2fdc81da6587,Medium,Real Estate,0.34
+7ae36fbe-ad28-44d0-9ee6-35051c938a6d,Low,Mutual Funds,0.13
+174b7051-ee24-48f9-8433-ed5a1ebb856c,Medium,Mutual Funds,0.82
+bce8f2cf-82fd-43b7-83dd-e456bc47d959,Low,ETFs,0.56
+3232f4ca-87d3-41eb-9258-38fd1a5ddb7b,High,ETFs,0.99
+0dcabb22-f1e3-4b91-ba02-c69a4b8be81c,Low,Mutual Funds,0.97
+5d4d84ee-296f-459d-9b93-2ae69758bd7f,High,Stocks,0.87
+c8904be3-dff0-452d-bcaf-57f1fcd4c34a,High,Real Estate,0.76
+4356f23e-fd15-4c84-9bf3-607bdb1b63fc,High,Stocks,0.86
+5a0c4f61-5356-475e-b020-9eb87f29ce8f,Medium,ETFs,0.9
+78279fac-664e-43da-a538-400479b710cd,Low,ETFs,0.64
+01845742-9559-4177-9510-251ac9e3a461,Low,Bonds,0.57
+300f6a95-0b25-44d4-ab0d-0b35ab9a12f4,Low,ETFs,0.95
+f3945e0c-c52a-4777-b893-0addeeb6bb34,Medium,Real Estate,0.96
+cafe3df4-bd09-4e7e-bd85-a82207cd7a76,Medium,Real Estate,0.67
+696df4f3-d523-4473-83b5-6dd837c2532d,Medium,Real Estate,0.18
+daa3940d-5e68-4294-9957-db59a7ce7426,Medium,Stocks,0.37
+82061546-649b-411f-a1bc-8df63298f4ba,Low,Stocks,0.52
+b82f0392-2c27-4f59-8593-8400a26af245,Low,Real Estate,0.62
+e0393bad-c232-412d-8854-43f00cfb24e5,Low,Mutual Funds,0.35
+403f670a-4973-4b3f-b7c6-03435d762c2d,Low,Stocks,0.71
+ee0fc971-864a-4e85-aff9-aa29ef256e23,Medium,Real Estate,0.14
+710345f7-cfbe-4501-954a-89d85835963c,Medium,ETFs,0.23
+78cbff7d-9b3f-4f1d-9fc0-1977930e1315,Medium,Mutual Funds,0.17
+f42b836e-e841-4d43-899b-02e3fd0fc4c8,Low,Real Estate,0.35
+3a01e713-9315-4739-b804-fd64e8b71a1d,High,Stocks,0.96
+42866730-38cc-426f-b8b3-2ba1f062f177,High,Bonds,0.89
+917a5a95-74e9-4952-82db-a745a4f3df08,High,Real Estate,0.12
+15078128-3105-44a0-8a55-5d6c4fefe070,Medium,Bonds,0.55
+0e1fee6b-ac14-47ee-bec0-cee9b072a9c3,Low,Real Estate,0.15
+2b50935f-2521-423d-9b3d-6eae041bf5e3,Low,Bonds,1.0
+5847e4e0-4385-4120-855e-3245b1af31a5,Low,ETFs,0.61
+abf995ef-9653-4885-8e54-b0312e308ef2,Low,Bonds,0.29
+2ed9e3b1-d66f-42a2-bd69-a3311fbb27ff,Medium,Stocks,0.27
+e19d6955-88fd-4f84-bdea-7a0c097dc72f,High,Real Estate,0.9
+3f33d302-18d1-4bad-9523-aeb710d53c29,Low,ETFs,0.67
+7bc85f52-872b-4e05-9716-24ee8188c6c8,High,ETFs,0.41
+b9191aec-7947-4f37-b4d2-fc35f7e52243,Medium,Mutual Funds,0.6
+c0ee186f-b558-45fc-b114-df9035db840c,Medium,Mutual Funds,0.79
+19bffbbf-6088-4c03-957f-ea0f926b7652,Medium,Real Estate,0.73
+72fa5ebe-564f-47f9-9960-6162a821ba78,High,Bonds,0.81
+39e4ec39-5ca9-4716-a423-d61a6e119bec,Low,Real Estate,0.79
+f38219b2-800c-4b70-b625-56f62be6de80,High,Bonds,0.31
+d107a860-86ba-4530-b009-89d77415b5d8,Low,Bonds,0.87
+7eaf7fd2-67b1-477a-9926-bad96eb13fda,Medium,Bonds,0.78
+fbfdf680-e8c8-4000-9f19-05b343e7eeae,Medium,Stocks,0.48
+12611a1b-15e4-4bf2-9e81-272dc498773b,Medium,Stocks,0.79
+e587368a-a9da-453d-8900-4f0d7ed31e1c,Medium,ETFs,0.3
+2b6a12a4-e81b-4b2d-8954-52058014eb18,Low,Stocks,0.94
+ab776258-6ef6-4fc0-860d-7f393d51d78a,High,Mutual Funds,0.99
+862b645b-ca14-4f22-969a-eb9bff876b6c,Low,Stocks,0.74
+43589012-520e-4fa8-a51d-954613fcdcfa,Low,Bonds,0.83
+f7236a77-0133-4fee-bbe4-612fbfa0af92,High,Real Estate,0.71
+82cdd725-d144-4243-9632-4e84974bdc7a,High,Mutual Funds,0.3
+68583977-2bdf-4dd3-8921-a7c55358eb14,Medium,Mutual Funds,0.22
+9031be61-c85a-425b-a629-768c9cb3251e,Low,Real Estate,0.42
+296a64a9-aeb4-4df0-808b-5e050a9772b2,High,Stocks,0.18
+1e378320-f2d0-4a94-9cbf-4c6df05c241e,Medium,Bonds,0.34
+8d78a2d7-8729-4cb3-bd95-8e5024290f0f,Medium,Bonds,0.81
+555ae518-3217-43fb-87c9-ef937e123056,High,Stocks,0.21
+b8d8d115-fc22-4403-83e8-1cd3f867d789,High,Stocks,0.14
+db08d3b7-40c4-4f42-8a26-b5beace7e234,Medium,ETFs,0.84
+664c2628-d8bf-4632-983c-c114dc99b92c,High,Bonds,0.55
+00decb65-9042-48ef-81af-30c23c4de94a,Medium,Real Estate,0.23
+2fecb7c0-13e7-4f9a-a575-3d0eac89b307,Medium,ETFs,0.87
+d3072787-2162-41ff-b8b4-de294856c375,Medium,ETFs,0.15
+9e6097c4-b65e-46bb-a384-609a1fcff809,Low,Stocks,0.65
+06edee64-fe71-4ad0-abcd-85214189c8e9,High,Stocks,0.97
+d734c468-3a18-4941-98a2-245ddd52b1a3,Low,Real Estate,0.37
+eead14ce-a95c-425d-b75c-f8e1b96992e7,Medium,Stocks,0.5
+000c3391-b196-447f-9b35-3fec1cce61d4,High,Mutual Funds,0.13
+6846ac36-275a-4cbe-be31-2d0a95a1a0dc,High,Real Estate,0.7
+59ebc65e-358f-45e8-a8f4-b0a617205280,High,Stocks,0.15
+9b003e39-5f79-4374-a8e0-8abcb011bc0b,Low,ETFs,0.63
+703c6c8c-996c-4598-864a-f5f39503819b,Medium,Mutual Funds,0.65
+1051dc88-ec16-4675-bcc5-50490551e3f6,Low,Real Estate,0.54
+21f7ef26-2537-454a-8783-e924663ff23b,Low,ETFs,0.91
+d9ad91ed-32fc-4233-b830-8939a624049d,High,Stocks,0.16
+de596213-9f25-4681-8707-29a3b20c141c,Low,Stocks,0.95
+7993e897-0c51-4507-b194-d1bd9f0a04d4,Low,Stocks,0.5
+72d18c54-3793-4efe-9b28-cdae47d89aeb,Medium,Stocks,0.53
+b7a75cb6-ee7e-4543-97a9-ceff61286f8b,Low,ETFs,0.79
+f6194934-7242-4831-84bf-0b528b0c23b4,Low,Bonds,0.19
+2499fb90-fa6e-4262-a3d5-2f054fc6c834,High,ETFs,0.54
+469ee5de-6736-4363-ac0e-5778b51ad916,Low,ETFs,0.79
+72e8cb10-9298-4a82-92d8-a199894784fa,Medium,Real Estate,0.92
+2bb4cd70-8652-4535-ae6d-8c5256441f35,Low,ETFs,0.17
+7358c433-168b-4d5c-b9e1-1798b563b464,High,Stocks,0.91
+0c94c04e-f951-41c3-ba7e-51c589fba642,Medium,Mutual Funds,0.63
+dcf74cfa-09c3-457a-85d9-f6bb3428e53e,Low,Stocks,0.54
+9b206b0e-2576-4ef6-a44a-2c95c44ed7e1,High,Bonds,0.25
+7cfbfe7b-dd41-4bb1-9402-d3c7a8855a93,Low,Mutual Funds,0.92
+2c01087f-8bd4-48ee-a6fa-589ee66e797f,Medium,Bonds,0.84
+0cc123d9-e658-4ae0-83d2-e6274efb78c8,Medium,ETFs,0.64
+faa83706-d5f6-4fdb-a08f-3576f036a505,High,ETFs,0.19
+3e4fb106-9786-4624-b52d-b20799938f5a,High,Stocks,0.44
+6ef807f2-5fe0-469f-8e78-78ae4fb3c6ed,Medium,Mutual Funds,0.3
+329fc5ee-57da-4025-b665-c07e29ce355d,Low,Mutual Funds,0.83
+b392de09-13e1-41f7-af02-cb8f210e90c2,Medium,Bonds,0.76
+f53c6215-1050-48b2-9a87-a5692d7242a8,Low,ETFs,0.49
+c81cba7e-941d-434a-ba99-2ed185a228fc,Low,Stocks,0.82
+4988ca1a-d32c-484c-ba73-64e55741d98b,Medium,Real Estate,0.69
+b24b81fb-c780-4970-af0d-f6c4744513a1,Low,Real Estate,0.72
+1dbbf423-325c-41d5-8082-2eee7138aedb,High,Bonds,0.25
+5bf4129d-bf9b-4907-9914-6234a4d80f31,High,Bonds,0.69
+094e9631-4c56-4324-99fa-140d9ae20913,Low,Stocks,0.71
+4be8254c-1533-4763-b26a-b1413bfb4d55,High,ETFs,0.17
+1e44b322-ad3e-4a68-a31c-64f7de4f44d1,High,Stocks,0.26
+bdb64594-b162-4ab9-90ec-509e445f7767,High,ETFs,0.64
+c295a456-8202-447b-95b4-118b16eea41f,Low,Mutual Funds,0.14
+a7ee176e-8250-40ee-a4db-19a2dbb5d76b,Medium,Bonds,0.28
+3ec3228d-ad5c-48b2-87ab-6b7960d0b9a8,Low,Mutual Funds,0.72
+706f8981-5e84-4860-bda3-bc90048735eb,Low,Bonds,0.88
+2121dc40-96e1-4dee-8504-3780e43630d8,Low,Mutual Funds,0.77
+13477e00-4fc4-4706-bb69-20fe1a0bb906,High,Real Estate,0.26
+52c37bcc-d47c-4ae7-8d6b-961ea873929c,Medium,ETFs,0.3
+fae9d9b3-bc8a-438c-a2ca-34de0f1c27e6,High,ETFs,0.21
+e0d5812c-eaab-42d1-89b3-6dcf5ff39b20,Medium,Real Estate,0.76
+edeb8dd7-413d-4cb9-b19f-1fa60d6f3ad9,Medium,Mutual Funds,0.22
+b73d4399-afd8-43f3-8a09-9a23ef288369,High,ETFs,0.61
+ab2710e4-c27f-4d1c-946d-c70fdf4b8d59,High,ETFs,0.99
+fc5eb79c-4568-4d6a-9dab-647cc2543fef,Medium,Mutual Funds,0.92
+3ee0102e-9ff6-4f01-b467-aeeb044fb9b4,Low,Stocks,0.19
+a0095175-be7a-409b-8e13-c6eec5917575,Low,Real Estate,0.83
+38cb0a78-caa7-4134-826f-03c121eb977a,Low,Mutual Funds,0.59
+ec452a9c-ebe9-485b-807c-7549890fc8a9,Low,Real Estate,0.6
+4c16907b-aacf-4eeb-ab8b-fc60d8e3a4cc,High,Bonds,0.98
+96e9fb41-d508-4a7d-8af7-26b5e8deea3e,Medium,Real Estate,0.14
+6f8d98d8-bf74-42f0-83f3-6cd071f911fe,High,Bonds,0.42
+c7fc71b5-d705-4bff-907f-08578c480a57,Low,ETFs,0.74
+f592ffb8-27e3-4a61-bddb-3ffc2d487317,High,ETFs,0.91
+2442d2c2-0671-4722-9423-2363fa734ead,Low,Real Estate,0.63
+2fd4b97b-b182-4e6c-81f1-bb9e3ea7cd4f,High,Stocks,0.13
+750a35b1-69e6-4c7a-9525-a63c7a9e1116,High,Mutual Funds,0.96
+753f07d9-a342-448c-9fd8-ab3c0f174c45,Low,Mutual Funds,0.99
+f6dbc567-9ced-4ad1-91ed-e7351832aa21,Medium,Bonds,0.2
+e3413f25-905a-4537-b046-845c74c482a8,Medium,ETFs,0.23
+87c287d1-0447-4b70-a052-e4f0af188dce,High,Real Estate,0.81
+1a71a700-189c-4eef-a407-1f3b917b5fcb,Medium,Stocks,0.39
+0012414d-b602-4ff9-9842-64355de6388e,Medium,Stocks,0.22
+68ba8175-c6a4-45d1-818d-ffde74903832,High,ETFs,0.77
+3cddf61e-55f5-4a66-bffa-ef2ede122a76,Medium,Bonds,0.84
+3029c470-28a3-48de-ae07-20865b212bfc,Medium,Real Estate,0.26
+8a842ff9-d2e4-4225-a99e-3ca15a9c1dda,High,Mutual Funds,0.57
+de30e964-7993-4540-96e7-1aae7ce6bd55,High,ETFs,0.97
+6bbb3923-c482-4f13-9a5d-9f5a74b8d77d,Medium,Bonds,0.95
+3e1a99b1-7187-4d65-b363-772c8e539efb,Low,Real Estate,0.93
+ddbdb6e9-52ba-499e-9aff-35fbfbcbeaf4,Low,Bonds,0.39
+d6120701-aaca-4b5f-b30c-6e9b72a03606,High,Bonds,0.59
+a7f657f9-e212-40f0-b793-6b364ed62067,High,Real Estate,0.32
+673035a8-8095-4158-9948-b1c6a683d49e,High,ETFs,0.5
+48c9e338-38b1-412b-9039-40c716e6c36b,Medium,ETFs,0.92
+571a22ea-b990-43d2-879d-2d72b485e2a4,Medium,Mutual Funds,0.32
+a19e5a86-dce8-48c7-9300-97d202ee07b6,Low,Mutual Funds,0.79
+999e5abe-82f5-4e8b-bb56-7d04a11397a1,Medium,Mutual Funds,0.24
+b015ad39-48b2-4657-8cff-b92ac3b2128b,Low,ETFs,0.35
+45d41074-62e2-4c0a-a704-256fffd85176,Medium,Stocks,0.63
+649047df-977c-47f6-adb3-8039bf7dc35b,Low,ETFs,0.61
+e812aa18-d338-4371-bd33-0e058f0b91f1,Low,ETFs,0.9
+b6021915-503a-45a1-880c-240844e670b2,Medium,Real Estate,0.57
+2f8bc40a-d1c1-4de0-ba81-435aebf9eb34,Low,Bonds,0.8
+9502a505-7ab5-4092-bfd2-c0810ee6223d,Low,Stocks,0.91
+44fe2173-5ee3-4748-998e-47b36ba9c3e0,Low,Stocks,0.62
+35742065-d287-43c8-998e-0e592cacbbce,Medium,ETFs,0.49
+6ef40246-ad34-4258-b77a-ee0e3e39e301,Low,Bonds,0.63
+3b0e0414-9447-4dd0-8b26-ad65fa656ecd,High,ETFs,0.28
+7abc8cb2-7948-4e06-a190-9b27fe8f00ad,Medium,Real Estate,0.78
+7fc9b553-6095-4b43-9915-b0e124ce9b0b,Low,ETFs,0.2
+4fa57c53-83e2-4747-a883-5b6fa1d23ecd,Medium,Stocks,0.42
+e2c921c2-63c6-4b93-9835-c34192691281,Low,ETFs,0.55
+c51892f8-4396-45e9-9df0-dd753f3c5567,Medium,Mutual Funds,0.57
+ed824da6-94a9-4e59-9d80-5567b870473d,High,Bonds,0.13
+af6bbbdf-4f26-4297-8a55-c8da5e5b7c81,Medium,Stocks,0.33
+c5aa15c2-a2e2-44ed-b412-d7b747a51476,Low,Mutual Funds,0.68
+a16f6741-bea2-4dd3-8905-1dc616349abf,Medium,ETFs,0.55
+59815efd-8ba5-4baf-8b6d-bb84c19c4a51,Medium,ETFs,0.26
+2c8cf1c4-ca77-4986-ac0f-e8a8a9f540f3,Low,Bonds,0.71
+223ee772-bfa6-4361-9f5b-b56e51b32a1b,High,Bonds,0.19
+0a6d4a5d-591b-4515-a19b-708f362e37d2,High,Stocks,0.18
+f69fd931-97cc-49de-8ea0-d02217625af6,Low,ETFs,0.61
+8712621f-c7ff-4e70-af56-06f65a12f6ff,Low,Mutual Funds,0.55
+77cd40f5-1446-4865-b9e0-7b399b2dae39,Medium,Bonds,0.5
+812fd783-ae90-4ff0-b0eb-aedc0d7758ab,Low,ETFs,0.54
+3185eb03-8880-4ddf-89ef-3b900b9c1972,High,ETFs,0.2
+e3b85530-c35e-4e55-ba2a-5fd58f62f3f6,Medium,Stocks,0.23
+05129363-5c08-4966-b680-ccbdc10e66fc,Medium,Bonds,0.1
+d08366c9-c6e5-406a-bf3c-20085e79f5bb,High,Real Estate,0.39
+fd85fcc1-d335-4a87-902c-6011db4c4559,Low,Mutual Funds,0.56
+7ee14c22-2bd0-4048-9e87-79098c18c310,Low,ETFs,0.58
+74c4c72f-f460-4172-82e6-649be2e8450f,Medium,Real Estate,0.76
+c0d7fdd4-d519-4554-a7a2-dd6367305f7d,High,ETFs,0.35
+a33b8134-1c21-4c11-a2c5-b27648e881c6,High,ETFs,0.75
+971ee576-486f-4ded-a2da-f1110bd09652,Low,Stocks,0.24
+b1f3f780-f641-421b-b440-1fe9b042ca8d,Medium,Mutual Funds,0.6
+f0a04223-aa54-4a90-823f-1d6e894383cb,High,Stocks,0.18
+ffa42881-c3dd-4df4-bcb6-423a1c3042fe,High,Stocks,0.45
+f3f3eb1b-bf9c-4bc5-b2ec-a6b959e7e587,High,Stocks,0.46
+c9cfe912-b9c2-4755-a593-1c824f100106,Medium,Stocks,0.86
+57493c6b-52ee-45ea-bb9c-c5ad7f1bd287,Low,Bonds,0.34
+40ef8f87-1427-49d1-b7a1-34674d0af4fb,Low,Mutual Funds,0.29
+3cff9119-97d1-45d1-a6d4-c8fdcc673bff,Medium,Real Estate,0.74
+2e4c088c-5a97-4863-ba56-54f894b2ae2f,Medium,Mutual Funds,0.96
+08776a15-41c5-4987-8b68-296c746b695e,Medium,Mutual Funds,0.17
+27a57d61-1f81-48a8-ae49-f3281eef5f69,Low,Stocks,0.41
+53d4bf5a-c723-4ff8-8aa5-857af2254083,High,Real Estate,0.31
+07699fb0-836d-448b-8d3d-e33812e65bc9,High,Stocks,0.23
+171eb2db-8d5a-4236-8588-ad8af5ac624e,Low,Mutual Funds,0.35
+96f10550-467a-46da-8c6d-1558ca9ec98f,Medium,Stocks,0.98
+b85a7c6d-450b-42bf-99cd-6b06a6902be1,High,Bonds,0.38
+66b75ffc-1b35-4631-b4bf-a482100a1d46,Low,Bonds,0.92
+515f1b7f-9ed5-4cae-a058-fefa2099a428,Medium,Mutual Funds,0.12
+3b561a30-504c-4f3a-aa4c-03b94306316c,Medium,ETFs,0.52
+99cebcde-4240-45a0-88c5-db9d11795872,Low,Real Estate,0.99
+f13f1d02-27e5-40ed-a594-7fe25d22c0b0,Low,Bonds,0.2
+4a3e1bbb-fb5d-4c9c-818d-d9e97c674f1b,High,Real Estate,0.76
+5905517c-d0a3-4ba2-8d48-b99bffa950b5,Low,ETFs,0.83
+21d47ad7-f953-4522-b8f8-a9008331b199,Medium,ETFs,0.86
+111c06ce-1c3f-417c-b9f5-d68d88c9cfa2,High,Mutual Funds,0.42
+344d8eef-e879-4973-aa4a-4be3c8ed3055,Low,Stocks,0.59
+a791dd27-5882-4948-bbf6-2c71fe5531db,Medium,Bonds,0.43
+45e75225-e7fb-487c-be72-26fce8938f08,High,Real Estate,0.46
+60266831-7eb0-479c-851c-6cca483fe7fb,Low,ETFs,0.98
+bb679201-c4be-473e-b85d-7ef086b8d352,Low,Bonds,0.13
+d5ef258d-4bc7-47b3-bcb6-495705664cb9,High,Bonds,0.72
+953082d2-4ac8-4586-8f0f-da154b28c370,Medium,ETFs,0.72
+130057a3-ac5e-48ac-9d75-65deb71d733d,Medium,Bonds,0.79
+cab85062-2295-4080-a4eb-0beb37b5c3ef,Medium,Real Estate,0.52
+9e388309-36ab-463f-9320-b2046bfc3d69,Low,Stocks,0.57
+e509316c-31a1-4cdb-a2fd-27d88f09618c,Medium,Mutual Funds,0.36
+c314e075-7c5c-4b8d-bc02-6167e0e50c63,Low,Mutual Funds,0.33
+d31a4076-ce73-4b5b-943f-55064fc128c6,Low,Bonds,0.76
+3ffe6642-224a-41d8-99ca-07e10a334411,Low,Real Estate,0.55
+807b7d7e-cb66-4e5d-8159-59f1f2b354b0,Low,Real Estate,0.78
+debe913c-239e-400c-84b9-21f06d904ba6,Medium,Mutual Funds,0.36
+d40ffdb1-dec5-4775-8087-6b6df1e3b162,High,Stocks,0.37
+9838bf2f-80f5-4edb-93d0-9e7a3bf553da,Medium,Mutual Funds,0.44
+278a0091-db06-4c24-98bd-64c9afb8bf14,Low,Mutual Funds,0.6
+d28c6f4b-1ba5-4bad-8c21-8c9e9a80aa52,Medium,Bonds,0.35
+16939145-da39-47fc-a52e-169c64646c7d,Medium,Real Estate,0.5
+a289d698-d3ee-4e27-8d3e-a407c0782a99,Low,Stocks,0.19
+58f9e0b2-f70d-441b-ba0a-5f09c5853fb1,Low,Real Estate,0.35
+7f995948-9f7f-4e9e-9d58-01db4ea709dd,Medium,Stocks,0.34
+3b541c3d-ecbc-4599-88a5-8fa0d351f95c,Low,Mutual Funds,0.53
+46924606-d165-478f-8ef9-51f9b5ac9b6b,Low,ETFs,0.23
+adf877e8-079a-401c-8699-9c1290c7fae8,Low,Real Estate,0.36
+164e0e82-2cb7-48af-9628-2f019d487b53,High,Bonds,0.26
+042cc5d1-a739-4752-88af-548a8725d64b,High,Bonds,0.64
+3232d006-6ade-4b96-b05b-c17804fbb4e7,Low,Real Estate,0.52
+c7e4ca8b-871d-4df9-ba9c-6e140461461d,High,ETFs,0.7
+0603ffed-1a3e-4747-95b2-8abd6e2a613d,Low,Stocks,0.72
+432d8949-7512-42b6-a4ab-aed22cae9126,Medium,Stocks,0.48
+0fb4b1b8-55d9-49f1-bd89-532a890440d7,Medium,Bonds,0.46
+2e3a0d6f-9cde-4168-adfd-31668c1f5deb,High,ETFs,0.82
+21ae5018-4e7e-49d1-bd98-32a1944a5f85,Medium,Mutual Funds,0.8
+d24d3a60-b26b-48b7-9175-84283e6c4896,Medium,Real Estate,0.66
+548f4331-7dd9-4d9f-ba62-f6a33479b40a,High,Bonds,0.45
+6c6df058-ec4b-461d-8c6b-de3eb0ca94eb,Low,Stocks,0.54
+0792f43a-98ad-4d1e-918d-122e56a9e624,Medium,ETFs,0.96
+25313de1-8296-4000-a56a-eee62e434298,High,ETFs,0.77
+0a6f0378-88fd-4837-b3ca-9aff5d601a88,Medium,Stocks,0.65
+9c233a47-eb81-4894-9513-6e842d838220,High,Bonds,0.43
+c426c399-aef7-4473-9734-6ea61130220c,Medium,Stocks,0.26
+dc2a5a9b-005a-42d6-89ce-790751ea03e7,High,Mutual Funds,0.16
+330cfa05-510e-49dc-9663-2f6204a3fed5,Low,Stocks,0.95
+37df9c0e-b925-45b5-8c47-04012c897890,Medium,Mutual Funds,0.78
+64c79e4b-74ff-4a61-8093-79a7dbfe64f6,Medium,Stocks,0.27
+009bf231-6ba9-44f0-95cf-a8447040780b,High,Bonds,0.35
+6c267692-4cf9-4284-b96e-74dcd0984f36,High,Real Estate,0.45
+ac4c405e-4b32-42b2-9f00-c62e6bf27443,Medium,Mutual Funds,0.85
+d1b5eac1-a1fb-4dda-9dd2-06ebdb2e8fde,Medium,Stocks,0.74
+1145104c-c9e2-45a5-ba26-6ef89cbd0f90,High,Real Estate,0.19
+96deea4f-1226-4496-a1f1-416304e4d595,High,Bonds,0.19
+c27ae6e3-9521-46bf-9f26-4d167bca8e22,Low,Mutual Funds,0.59
+d3b49b88-b1a0-456b-b5f4-45cd63a31a09,High,Bonds,0.31
+c5c416a3-b879-477a-a445-b5a2cf6218b0,High,Bonds,0.17
+ba7db5d6-3fc7-4fd5-86ec-1687bdbc4692,Medium,ETFs,0.24
+bf137cc1-8b49-4e40-af49-c34b23874afc,High,Mutual Funds,0.98
+79095309-c913-438b-9fc0-ab32de848a61,Medium,Bonds,0.73
+d68678a5-a260-4615-adbd-6d2662d8c775,Low,ETFs,0.37
+7ce430f0-3026-4def-bb93-d5e31b50d508,Medium,ETFs,0.16
+5b3d9fe3-b456-41dc-adb7-6b83a62e2dc4,Medium,Stocks,0.47
+8a23c7be-5252-49e1-837b-1507e608764e,High,Real Estate,0.66
+91aecc9b-a7d5-490b-b6fa-5615ff6c8e3e,High,Real Estate,0.95
+1d86d2cc-86f6-470a-91d5-6672552e4771,Low,ETFs,0.28
+5b7d1d60-da41-4e7f-bcf0-3afd315267a9,Low,ETFs,0.63
+dee9f80b-e6f7-425b-8683-c74217b6b63d,Low,Bonds,0.41
+aa352040-6774-416e-b2ca-f9fccaee0924,High,ETFs,0.64
+2a2f09fd-ec4d-4a18-9268-ca9571c691f6,Low,Stocks,0.18
+fe51f27a-b0c9-4d07-a9a8-ce590e8b5577,Medium,Mutual Funds,0.14
+cbd7359d-c295-4673-a5b2-edaaa51d761f,Low,ETFs,0.25
+aecd3ee9-693e-4ea2-bf22-7e661e98f995,Medium,Mutual Funds,0.22
+2692e25f-0ff8-4166-a5ad-06edb2458506,High,ETFs,0.11
+53a6d803-7e34-4d72-a4d2-273c818a13bd,High,Stocks,0.51
+6e373640-3a3e-431a-a8eb-4cd47f2084ae,Medium,Stocks,0.36
+64655b16-569d-4c6b-a85c-4643c288903b,Medium,Mutual Funds,0.27
+8f23de14-0d9a-4acb-9103-a0d6b451e304,Medium,Stocks,0.7
+c246c157-1ba0-4c28-b50a-fcfea624ad61,Low,Mutual Funds,0.61
+01811ef4-2e92-47fb-b83c-6ab43fdc769f,High,Real Estate,0.27
+4da960ea-8fe5-4e2f-b253-6a25d2bb44ac,High,Mutual Funds,0.84
+40f87ec5-f9d2-410e-8e74-31c13663f872,Medium,Real Estate,0.24
+624b18eb-6e4f-45c7-a1fa-7230d1bf3c5a,Low,Real Estate,0.58
+54481866-e808-4c34-9990-2c3387bfd929,Low,Bonds,0.78
+22f5fdc9-c8ce-421a-aa9d-d62db0b324e6,High,Mutual Funds,0.68
+35acd300-8804-4e58-a24a-abcb72be5ebc,Low,Stocks,0.83
+456a6635-c6f7-4f9b-a580-7ba22bc07aba,Medium,Stocks,0.83
+76d7ac20-b9ff-4012-9585-98ac1d337858,High,Stocks,0.29
+7135f36a-c57c-4e6f-ad78-dfcfac27b19b,Medium,Stocks,0.98
+88a85769-e3d6-4890-9eb2-cec9b14a33e9,High,Real Estate,0.62
+a5156235-d8f6-47ad-a5b7-30ee20ff5efa,High,Stocks,0.3
+03617f5e-992f-442f-a473-b5ac9fde3f8e,Medium,Stocks,0.72
+ada9fcf2-984c-4987-a4f9-c8181b5c23fe,Medium,Mutual Funds,0.55
+a3fb1f7e-78a4-4e5d-8769-55b3688fd87d,Low,Bonds,0.95
+23bf8b75-6640-45ad-aed5-fa3885acf037,High,ETFs,0.9
+49f92d56-d914-4cdd-81b4-c2dd153b1e8f,High,Mutual Funds,0.56
+15d9a80d-47b5-4554-9190-8533589799bb,Medium,Bonds,0.21
+a11dc43a-76c8-41cf-a105-1bd7980e3483,High,Bonds,0.69
+a7040ae7-5653-4499-91d7-0ed6e3667c98,Low,ETFs,0.56
+5b347852-cd73-42f8-bf7b-99caf8151233,Medium,Real Estate,0.67
+fe7273ea-0d34-4830-bede-bdba9211f05a,High,Real Estate,0.67
+b27b554e-77bd-4019-acc4-76de89f03a2c,High,Mutual Funds,0.11
+ce5bb761-f59e-41b8-8a56-31edf9258ac3,Low,Bonds,0.86
+ea5363a0-a1d3-4500-af1f-e2313aaa2f65,Low,Bonds,0.35
+307e16b4-e286-4b13-95dd-585205838ea0,High,Real Estate,0.8
+33013edd-b0b6-49ee-a9b8-7d6e164dade9,High,Bonds,0.87
+8318f344-d026-42f1-957c-b5a213387310,High,Bonds,0.16
+8743c0c7-6577-403d-bad5-b322e29be421,High,Stocks,0.46
+9e7d3e7e-ca50-43d7-97e4-dfce47777d2c,High,Stocks,0.11
+75362e51-e5e4-4808-b409-824dbab40a14,High,Stocks,0.76
+6c40769b-3d60-4958-b18e-365da1a2f7ef,Low,ETFs,0.61
+39df10b0-00b1-4d5f-bb78-bb012646f208,Low,Stocks,0.65
+9941d652-ce42-424d-ac4b-3b14e2f9727c,Medium,ETFs,0.56
+618d5ce6-9c3f-4702-bdb6-c9017245c5c3,Medium,Mutual Funds,0.67
+147c149b-d43a-4bfb-860d-7c24a4f7e73f,High,Real Estate,0.18
+496f024f-7cf8-4177-bb33-360e6a3dc56b,Medium,Real Estate,0.82
+1b7210e9-abf1-4246-ac77-aff2fff8d1cc,Medium,ETFs,0.81
+9d41691d-b330-4fd9-9d5e-d950c343ee92,High,Real Estate,0.3
+8b8c0743-4dd2-44d5-8720-79c326ca9fc3,Low,ETFs,0.4
+cb659dbe-100d-45ae-8a49-c7b2776518f1,High,Mutual Funds,0.59
+41bbc694-7b19-4df1-90b2-7d3d602217d5,Medium,Stocks,0.11
+ca519aa8-b717-479e-99bb-063f3d2b75ad,Low,ETFs,0.19
+0fdba47a-e40b-414a-94d1-70fdcb62deef,Medium,Stocks,0.21
+6f85c0ee-cce6-489e-82ba-99170ff522c6,High,Stocks,0.54
+a187c027-d116-4aee-ba6a-fb3bbe127522,Low,ETFs,0.47
+ffe03021-60b0-49c7-99f3-0fd4806639c4,High,Real Estate,0.26
+213a0f68-2fc3-4f4d-8b0c-232b212d6f11,Low,Bonds,0.94
+de93c220-8e8a-4990-a989-3e66c645971d,Low,Bonds,0.59
+645d956c-3058-4dff-89ea-fd8fb9a7af68,Low,Bonds,0.23
+0a13acfa-1e99-4808-a065-4925b41e0706,Low,Bonds,0.69
+202064b8-e1e4-46eb-a72a-b58d69b3a942,Medium,Bonds,0.48
+a4a297ed-0dd8-4489-bb1a-9669fa6eeba1,High,Mutual Funds,0.38
+a978ce66-4166-40a4-a0a5-02c7be44d910,Medium,Mutual Funds,0.9
+a49cd16e-60f7-47d5-a79a-98a86767c48f,High,Mutual Funds,0.33
+ca921bd2-debb-4c49-8182-66224b0a85d8,Low,Mutual Funds,0.48
+57542b7f-9c4b-4d39-9e2b-cd3f2b7f16ce,High,Stocks,0.77
+a27c0a65-a30c-415b-aadf-1db1d1b01379,Medium,Real Estate,0.18
+7503b763-b6e7-4b20-a4ef-9e54c61fa167,Medium,ETFs,0.88
+fa2ad463-1ce5-4e3f-9272-0b97c2423902,Low,Stocks,0.3
+59ed9ada-ea6b-4067-9830-4912b492293f,Medium,Mutual Funds,0.15
+2edf019c-b883-4163-83aa-136b3a12a3bb,Low,Stocks,0.98
+f2c1eb91-b0a4-494a-b35e-cfe90564e85d,Medium,Stocks,0.28
+96ebcb1e-17d3-48cb-9f8c-4ae8ce16ff97,High,Stocks,0.36
+7e8cd34a-0fc5-4f82-8614-26cd7b96c3c3,Low,Mutual Funds,0.28
+3295fc2c-780c-47dd-8de1-00593b79b016,Medium,Mutual Funds,0.72
+ae83c183-5f45-4e35-bdc3-25f6de6bc91d,Low,Bonds,0.22
+2265204a-596d-416b-9625-036a94b508ca,Medium,Real Estate,0.64
+b3d90854-c6c5-486c-8dea-2030d4fea1c2,Low,Mutual Funds,0.93
+af28f234-ba7a-42fb-ba53-6d2c1a8e8ba5,Medium,ETFs,0.14
+a1212b14-fe58-43c5-aa2e-9257d62d9aa4,Medium,Stocks,0.11
+6e0c5ecc-72fc-4a51-9bb7-b9ddef48fa7a,Medium,Bonds,0.56
+f71193e3-4889-49aa-9eae-6a83de3a661f,Medium,Real Estate,0.69
+4e3f4da5-1fec-461f-8d87-48715bdc2332,Low,ETFs,0.8
+aeeef13f-ffe4-4ef8-a6be-c7925b6cb53d,High,Real Estate,0.56
+6c7b7951-17f5-4639-982f-4d306394c2b8,Low,Real Estate,0.88
+31365ebf-6b59-4c3a-ab87-1046ab322403,Low,Mutual Funds,0.25
+82070197-959b-4f08-b1c9-91ea7d36215e,High,ETFs,0.98
+68b93030-6c3f-4bd2-9cc7-f17759adfaf4,Medium,Stocks,0.3
+3b4ac2a1-10d9-4a17-99aa-06ffda21292b,High,ETFs,0.42
+5ba178e6-be4e-4db5-87fd-e8b433fd48b1,Medium,ETFs,0.23
+9fae4801-389e-4faa-a57a-06431857e7a2,High,Bonds,0.74
+075b17a0-f134-49cb-b68b-e0af97f0e83e,High,Bonds,0.91
+1b5c8a26-6691-47b8-96e6-26fabb55bb03,Medium,ETFs,0.48
+95f1b9e1-4138-4213-b5e8-5c33fb6ef60f,Low,ETFs,0.92
+85ed7869-ecbb-40ad-8e92-fd4276e6ad14,Medium,Mutual Funds,0.77
+ad5c3b21-7ced-4e36-b467-b27d76330915,Medium,Real Estate,0.56
+3e88759a-6a47-4bfe-b8cc-4c67463ead44,Medium,Bonds,0.81
+7c5f95e7-eaff-4de5-b773-8a73512c869a,Medium,Real Estate,0.99
+595b3c19-090a-451d-91bd-fb38d0a6eb5f,High,ETFs,0.82
+882c5d21-82ea-4714-9232-0120d7957375,Low,Real Estate,0.22
+b21a5ce4-058c-41fe-a460-71f3aad8234b,High,Stocks,0.8
+0b6a41fc-9c46-453e-96a4-0fb4bbfed303,Medium,Bonds,0.91
+0fdd0327-c160-4f7f-8922-ec88cb7dc9d6,Medium,Real Estate,0.87
+e46de719-f0c4-4396-bb37-191188afc320,Medium,ETFs,0.48
+41782313-7f39-4a81-b0bf-d6d22fc64e80,High,Bonds,0.14
+6157e085-d56e-47b7-b61a-7852148c04ac,Low,Real Estate,0.65
+9fa1c75e-47b8-49c3-833c-3444c2f4010b,Low,Stocks,0.87
+db9eaf5e-2b4f-404a-9727-9bfb18710386,Low,Real Estate,0.97
+62643df3-d9fa-42da-b5f4-42dada99d135,High,ETFs,0.66
+2a54ea37-36be-44c3-8758-25888417abe6,High,Stocks,0.76
+7a69dd60-7fef-42b1-84e6-5805c5e33e83,High,Real Estate,0.89
+73af4f95-66d5-4e02-b727-88d16d55c2db,Medium,Real Estate,0.9
+49138d63-12bb-4d65-af6e-f4a24e78c3ff,Low,Stocks,0.86
+feae10b1-2bc8-4ccb-b6cb-c5b00b2f6847,Low,ETFs,0.46
+b54252b2-e15b-49de-bbc1-0f3a0499fe5c,High,Real Estate,0.58
+fa93ec6a-3bfd-4767-9c51-6d88908be9b5,High,Mutual Funds,0.53
+0d79a4be-fae3-42f0-b574-02f2154993f6,High,Mutual Funds,0.25
+b41a55d1-6190-43e3-a83d-a520cfd068a8,Low,Real Estate,0.33
+5ea1e6a7-5b96-4127-91f0-a315f8a62ca0,High,Bonds,0.58
+a79ab4ad-a21c-4e26-aac4-295c5b44fa2f,High,Real Estate,0.37
+c92c8115-fb30-4b08-bcf3-9a10667e9ba8,Medium,Stocks,0.86
+302965e2-796c-4b10-8c83-11b5b0b148f0,Medium,ETFs,0.91
+dd877fa1-af4e-457b-9fdc-b26c566eb303,Low,Bonds,0.51
+68bd2ccf-bff0-480f-bb1a-b2eaec18ddb9,High,Bonds,0.44
+62bed4a1-e68a-4215-b117-96d71040aa4e,Low,Mutual Funds,0.19
+692d414c-27d7-4ef1-a81c-de14316218c0,High,Bonds,0.55
+86cc32ce-4b86-48ec-80f2-b6c5b0f3f7d8,Low,Mutual Funds,0.73
+619b72e2-7d4e-440d-91ab-9df409bf53a8,Low,Bonds,0.13
+e438b6f9-1e37-4bab-a9a9-04261d7109cf,High,Bonds,0.42
+93291292-c146-46f7-96f1-c4c17859f14e,Low,Bonds,0.64
+de456144-5531-4e26-afef-ef79771c65f6,High,Mutual Funds,0.17
+73191d63-e557-46ef-8d5c-4b09c3d482c4,Low,Real Estate,0.86
+fd642464-f881-4c61-9391-e9d1ef1c1895,Medium,ETFs,0.15
+b34db589-310c-4c6f-a472-c67ead6cecab,Medium,Mutual Funds,0.61
+fbc9623f-3f14-4b0d-9ba2-e9effcc0eaa5,High,Real Estate,0.48
+e82fc301-e71d-4c6d-b0b0-fe31b8111aa7,Low,Stocks,0.8
+6a70c8fe-7d30-433c-896e-334cb909140e,High,Stocks,0.43
+ca42034a-1640-449a-ac8c-dc22ac6c420c,Low,Mutual Funds,0.63
+108fadb3-452a-456d-877f-6df7863aa2a9,Low,ETFs,0.98
+3799da08-7ea2-477e-81cc-8477756b9a2d,High,Mutual Funds,0.72
+92b8f88f-4b97-4b72-9479-f56193e37d08,Medium,Real Estate,0.15
+2f4bcaee-91e8-46dd-8829-f9ae25e5ac69,High,Mutual Funds,0.22
+7c8a2fff-b9ac-4654-9e83-7562076d636c,Medium,Stocks,0.43
+409a7ee5-d049-4fc2-848e-7f877db1bf6b,Low,Bonds,0.46
+7c72083d-41b1-407c-9d30-11ea9f9ab36e,Low,Stocks,0.48
+1a68717b-f9e8-4846-a02b-41344503fe97,Low,ETFs,0.18
+fc339944-7f1c-44ed-8ab8-197e7fe73ab1,High,Bonds,0.35
+51a576c3-384e-442c-9b16-2a5677cc4a22,Medium,ETFs,0.21
+c866d882-5eaa-492b-aba4-1e294ec8c39c,Low,Mutual Funds,0.97
+3ffb0711-75ba-47f0-974a-420859018f44,Medium,Mutual Funds,0.74
+e6634fcb-16c6-4fcf-a0d0-6234277918e0,High,Mutual Funds,1.0
+ec77a0a3-6fdd-4963-b908-635761051416,Medium,Mutual Funds,0.6
+749b721f-1314-46b2-8178-a035fcc2c1b5,Medium,ETFs,0.99
+1932a53b-d038-419e-9dc5-03180cfeeaee,Medium,Bonds,0.61
+bbae57fa-090a-4975-87e7-61b44f48c61f,High,Mutual Funds,0.21
+58a7d8ff-7533-43ee-8752-91d1ca4b8210,Low,Mutual Funds,0.82
+29cb7319-811a-44f4-b6c9-91b672f864c5,Low,Stocks,0.35
+54ef67db-f859-44dc-ac6f-f06dc74a3f4f,High,Stocks,0.91
+09fea437-a85a-44b1-a7bc-03cfb5fd11d8,High,Mutual Funds,0.58
+7819b2af-87e5-4168-887c-254f1408f1c9,High,Mutual Funds,0.75
+b7900af8-37b6-4127-ac06-49e4a0855803,High,Bonds,0.61
+f2ce0415-5f3c-464e-8785-b5e26277afe5,Medium,Bonds,0.99
+f635f064-fcdc-47b8-91ca-3dffda4763bb,High,Stocks,0.16
+9778efbe-0262-4e0f-8f70-1d85fd4e24e7,High,Stocks,0.62
+0694959d-2988-411f-9d70-7a0531a20f19,Medium,ETFs,0.37
+8c02475c-36a2-4754-a03a-5f9cb341cd97,High,Mutual Funds,0.12
+e2866131-d681-422e-8e57-3eb47dfbe9df,Low,Real Estate,0.83
+63c43aa2-5919-4017-9828-a5b819168e45,High,Stocks,0.45
+c1027754-4f94-4cca-9ac5-5a4308f282e3,High,Bonds,0.39
+73671ece-caf1-4bc0-956b-ba1989df90c3,Medium,Bonds,0.16
+6afe2237-284a-48f1-9fa0-65f62bf4e1e4,Medium,Mutual Funds,0.38
+2b807519-f3e2-4d4f-9e80-50722ce38dcb,Low,Bonds,0.73
+f998a09a-aebc-42c2-9338-66f89f474d82,Medium,Stocks,0.92
+79ed576a-d039-4979-97e2-de2f1593eba7,High,Bonds,0.87
+206114cd-f401-4607-9612-8fd1a4d5d4a2,High,Mutual Funds,0.81
+d47c235e-7067-47c3-b9a1-1de2a17b7035,Medium,ETFs,0.86
+a2ba33e9-2ea4-4879-9a59-96547d56627e,Medium,Bonds,0.99
+c07528a1-7de6-4106-92e6-80b8369b8dcf,Low,Stocks,0.15
+622b6bda-4d52-4f4e-8b4e-5e43d0fddf84,Medium,Mutual Funds,0.92
+ae2b530f-b549-4a65-87a0-dbf233a9dc31,Medium,Bonds,0.32
+9805a4dc-fa96-491c-9e63-521a2658001d,High,ETFs,0.63
+518e6146-d5e9-43b5-a6ad-050f552e43f9,Low,Real Estate,0.63
+a818d378-d931-47de-ac96-1277a6cfc76f,Low,ETFs,0.88
+bcec56ca-c9b3-446b-be01-f746fca43364,High,Bonds,0.97
+2c3abd41-07fb-4b18-a194-9b4feb9a2fa9,High,ETFs,0.78
+a2b8db68-1b35-4c93-ab90-fbac7201eb0d,Low,ETFs,0.55
+8fc05df5-b80d-4817-9ce4-a17cd50ae0e4,Medium,Stocks,0.74
+a72bde96-fa1b-42bb-a615-057311259e3b,Medium,Mutual Funds,0.65
+cdc6aa88-3da9-405e-847e-53135d531d4e,Low,Mutual Funds,0.15
+c174b945-1ee4-446f-895b-1e2acd695583,High,Stocks,0.44
+f11b4f97-008f-47bf-ab8f-09de7913834c,Low,Mutual Funds,0.32
+c4ecf979-3628-49d6-a77b-2536297d8ed0,Low,ETFs,0.79
+7ae61d9e-3a7e-46b8-a978-5b867c66052a,Medium,Bonds,0.65
+e5ee0201-23f7-438e-b674-59268dc027bd,Medium,Stocks,0.82
+332a1169-8388-4992-8eb4-b382bfcf346e,High,Real Estate,0.77
+744406fa-b47a-4af3-a487-f29c2bbce9e0,Low,Mutual Funds,0.54
+6ddcb6b3-a909-4175-96a5-9aee5e3f6d19,Low,ETFs,0.42
+e544ae65-8915-4b76-936f-692fc6c71176,Medium,Mutual Funds,0.96
+947190ab-655b-42fc-9696-d84d22f83e30,Low,Bonds,0.46
+cef1e506-2f3f-4dad-8814-18f7ba818f3b,Medium,Stocks,0.59
+f60bf02b-dc1a-44ef-87f2-6a61aa3d0dca,Low,Bonds,0.43
+c5cd28a2-69dc-4e96-badc-694c612d56a5,Low,Mutual Funds,0.46
+252e7fb2-7c17-4d08-9b11-5bb1b304fdb4,Medium,ETFs,0.74
+10cd5db6-0ab5-4f80-b5b6-affbdac81062,Medium,Mutual Funds,0.62
+219a7a10-257a-444e-bd1f-40169437334f,Medium,Bonds,0.26
+00265631-e0d2-4711-b041-bc759565b628,Low,Real Estate,0.81
+b3d31bc9-4cc7-43e9-ba70-2c4290c323d7,High,Bonds,0.18
+d2a613ef-17ec-45cc-bdc5-f64a834678e1,Medium,Real Estate,0.82
+2c116ee3-7809-4d15-b31e-d3c9172b9426,Low,Mutual Funds,0.14
+55674935-7678-4a3a-a219-17181eaa7a90,Medium,Stocks,0.63
+254ca463-7f30-4d08-9215-24ce65d5edde,High,ETFs,0.67
+ae6034d1-cd18-47a7-b21d-65d2aedb147e,Low,ETFs,0.94
+7b3b44a1-0467-4129-99fb-12803287938c,High,Bonds,0.8
+be7e77c7-02ee-414a-ba0a-cd04603c2f80,High,Real Estate,0.8
+b5a3daaa-9c79-4cad-8a58-1d1d55d27378,Medium,ETFs,0.41
+d1702193-8d41-4961-8027-401de7b8afed,High,Mutual Funds,0.52
+466e3b44-8d5e-4847-b3c6-d1168b83cfa1,Low,ETFs,0.56
+89a6bd32-98b5-4524-96fd-0d2b3cea539a,Medium,ETFs,0.89
+789997e5-eb7a-465b-bf35-be922e4caa17,Low,ETFs,0.1
+cb17a7ac-b484-4583-b380-dc8adb318328,Medium,Real Estate,0.95
+92437dfc-2911-45de-b873-1e484ad327f9,High,Stocks,0.21
+6538f8ca-1bf8-440a-b570-692ebd65df1d,Medium,ETFs,0.22
+e2b0643d-d19f-49a6-aa3d-c1a49abfe86a,Medium,Bonds,0.95
+e5037d5a-e2f7-48bc-845a-b67bd9989128,High,ETFs,0.16
+98e3d762-e748-4896-aad9-08ef1bf35ad3,High,Stocks,0.99
+5b9e2414-77eb-4557-b987-a07cebaab37e,Low,Stocks,0.48
+343122ba-c027-41d0-9b2a-4fd11674b8f4,Low,Stocks,0.58
+a7a0528b-fc13-47de-82e0-60c0df824ed2,Medium,Mutual Funds,0.91
+78d68e31-37e9-4d3a-91c0-9cbc67653308,Low,Real Estate,0.85
+3f374f16-d351-4910-9aab-61da9e688d43,High,Real Estate,0.42
+00571c6a-f3b1-4ea6-84d4-240c2f4d7561,Low,Bonds,0.22
+467cb14f-565d-4ee2-8988-1c3f03460ac0,Medium,ETFs,0.84
+c528d8c4-d7ab-4456-80a5-815fe76502e6,High,Bonds,0.61
+722a5ff4-e076-493e-ab7b-c6c4cecbd003,Low,ETFs,0.93
+7dde988b-efea-4080-a439-1ad8ee956e19,Low,ETFs,0.55
+5328cce6-0c0b-4432-9ed9-9f73d17b3a7d,Low,ETFs,0.91
+19f5fee7-2c1c-4bd0-98ef-e92d20c26b02,High,Stocks,0.8
+01ad2d81-501d-44ca-b84c-54a149cc8dbc,Medium,Real Estate,0.52
+846b6854-b5e8-4888-912f-218e41a5af26,High,Stocks,0.19
+47915035-7e45-4818-9d7c-21f951e87e8e,Medium,Mutual Funds,0.46
+3333bacb-8de4-4786-b1df-26976ddad934,Low,Mutual Funds,0.24
+c5da3c96-5ec3-4f2a-b76c-06b4d38f18f7,Low,ETFs,0.66
+ef029a14-2491-4bdb-aff0-1961549c78d5,Medium,ETFs,0.94
+b9dc89a9-2b50-4ba9-99a0-a568f78ad629,Low,Real Estate,0.12
+783ac3f9-1b60-4084-8c95-417abffe4255,High,Real Estate,0.79
+10aa1447-ebb7-4a31-8c2e-d20f84bc44ec,High,Bonds,0.73
+ab2a9262-eb94-4c3a-89f2-66e6d635e201,Medium,Stocks,0.2
+5738f298-f9b5-4440-b423-17a7da1522a0,Medium,Stocks,0.56
+662a21be-d7d9-4fea-9ac8-9a683aa870d0,High,ETFs,0.64
+5042c595-acf2-4f4d-ac63-0cbcc652a7cd,Medium,Bonds,0.99
+1b0284b0-26c8-4709-8801-558840daed36,Medium,Bonds,1.0
+baad1acd-782a-4524-9637-1c8ab0081eb8,High,Stocks,0.65
+c3f09d9a-5c81-46ab-ab72-70dcc1555923,High,ETFs,0.63
+68787d4d-310b-4c90-940f-b4fb39d238bd,Medium,Stocks,0.89
+444fe8de-428d-4e0e-ae9a-071f6c5f606b,High,ETFs,0.49
+f49ac090-b64a-4f1b-b485-2cbc931a3b11,Low,Bonds,0.25
+380d9a89-4557-4299-9275-25d3439145be,Low,Stocks,0.52
+1414ce2a-bff3-49b0-8f34-0e89b811e8d3,Low,Stocks,0.79
+6822e7cc-35a0-40b2-ae6a-565552ba7312,High,Bonds,0.63
+b1dd803c-5490-4b09-afd0-148621f429f3,Low,Stocks,0.67
+6210483d-8a1a-4a69-8666-105972d01b77,Medium,Bonds,0.19
+0d2d8b42-1b1c-42f9-9e58-9604bfd84ae3,Medium,Real Estate,0.15
+dc60d077-daff-489c-8143-b331cf768fd3,Medium,Bonds,0.58
+79c0023c-1c7d-402b-b07c-572cdb076b73,Medium,Stocks,0.64
+6ee5e836-a51f-44cd-9f07-839e56737082,Medium,Stocks,0.33
+d3c9c5ce-b48d-4898-aed7-621db74bbd69,High,ETFs,0.8
+2fa7c980-1b13-42f9-ad01-9d917e570091,Low,Mutual Funds,0.42
+9f2b2daa-b4cf-426c-9730-d0f76514f7e8,Medium,ETFs,0.34
+e3fdb844-f581-471e-915c-bf892e931d1f,Medium,Stocks,0.59
+0680ecd2-03d3-444a-aab1-7219b23fff6d,Low,Stocks,0.35
+fd5a9c10-9a03-4064-9088-7326812f7f0d,High,ETFs,0.11
+dbf39c65-d4b9-4313-8675-c1aa99c09f0f,Medium,Bonds,0.32
+e8efb945-392c-4894-8ee1-1b6203d1b88d,High,Real Estate,0.87
+ae217206-594b-4eb1-a699-1112cda1d9c7,Low,ETFs,0.97
+c8641ed2-3c34-4814-9e24-19d647109890,Medium,Mutual Funds,0.83
+9b7c6bc4-4b10-4e42-9a99-7ac0385eff53,High,ETFs,0.3
+406d440f-4fe6-409c-bde1-0ad1bfcd6c3e,Medium,Real Estate,0.32
+38ec2090-db53-4c31-9291-7194f0dacdf9,High,Stocks,0.67
+e3173d80-c633-455d-ac85-4b50f12d473e,High,Mutual Funds,0.37
+5f6b4118-00fa-44ca-a410-f8325d3bc730,Medium,Real Estate,0.99
+093b4259-528c-4436-813e-ede46a1288de,High,ETFs,0.22
+44f7d3f0-24a7-46e3-baf9-37d91dfff8d4,High,Real Estate,0.97
+5d75978d-4cec-43ac-834c-fd45102adfc7,Medium,Bonds,0.84
+4e58dce8-4942-45d4-aabd-9c947b452703,Medium,Mutual Funds,0.37
+36d1c0ba-fa7a-4cd6-b5b1-b4238c091c08,Medium,Real Estate,0.46
+52420256-2402-490e-8e71-833d5653cfd0,Medium,Stocks,0.64
+0c553eca-f3ba-4312-b8b9-ea6af3f7a270,High,Real Estate,0.14
+457408ce-32af-4b33-ae76-130aca59bc60,High,Stocks,0.96
+32911d39-f53e-4dce-8bdb-b357531b3374,Medium,ETFs,0.64
+7800181a-b54c-4dba-8cd6-921711a07d5e,High,Stocks,0.67
+c73043ca-3f9a-45c2-82ee-c75b3551cffc,Medium,ETFs,0.98
+e3d5ab62-e7ca-4efe-b006-2064ad24a62c,High,Stocks,0.24
+58036bb0-6a9c-427b-96c9-50015b310846,High,Bonds,0.9
+d5156273-9f81-48a6-856e-fffff4d51ee5,High,ETFs,0.38
+9c9ec215-7a03-4a6b-b2f0-545155a47b65,Low,ETFs,0.51
+0bf62050-4ee2-4ce8-a724-7f20aede5db2,Low,Mutual Funds,0.98
+cab19c7c-bb75-4133-95f5-b915c179cc8c,High,Mutual Funds,0.11
+dafd081d-a24b-440d-b14d-e13c341ee4d3,Medium,Bonds,0.38
+abd56c06-f68c-42b1-956b-068104fa5cef,Medium,Real Estate,0.16
+fa02cfdf-e32e-450d-b26f-7b9ac1e9a556,Medium,Bonds,0.67
+9d7cc090-96fe-475b-8db0-bccfd9851bf4,High,Bonds,0.78
+749a3ca1-eada-4530-ba71-48af360ac01e,High,Real Estate,0.25
+23724081-a93f-4b42-ba85-b66173606e85,High,Real Estate,0.97
+99342bb1-6ae6-4619-8177-fbe611e564a4,Low,ETFs,0.74
+a5aa49c0-92f5-476b-b21e-b2181fc09e9e,High,ETFs,0.66
+223d4c84-846b-4326-801b-f3243e222e87,Medium,ETFs,0.56
+88be3c05-7698-4cd4-bbcb-655a80941c01,High,Mutual Funds,0.81
+c39bfe86-944c-4d57-ab18-69b22925fbee,Medium,Stocks,0.39
+347fed5f-682a-4937-bc44-015f4a1aa4ec,High,Mutual Funds,0.85
+a79ff0ac-8c58-4690-a5b5-9ed3be4de507,High,ETFs,0.51
+15b4c158-a1f1-46d2-adc9-35e563a15c76,High,Bonds,0.71
+a7a0c6be-123d-4b41-be7a-0739c7aeb29e,High,ETFs,0.63
+d2dd3504-470c-4f45-8544-6569b8a9ce12,Medium,Bonds,0.23
+ff9af774-00f6-4e2e-a5cf-771099cfddb8,Medium,Real Estate,0.56
+39385c0e-8eed-49a0-9a11-f917326044ad,Low,Mutual Funds,0.71
+90e0fa65-a854-4a7e-b539-a609138912e4,Low,Real Estate,0.25
+2175d487-ef52-4ec7-b8e6-10ce9b287888,High,ETFs,0.55
+a2a5331d-f6bd-4caf-b3ca-c2f934a982e4,High,Mutual Funds,0.57
+83920624-d5bd-4922-bf8a-edcbe564399d,Medium,Stocks,0.57
+019500c6-6126-4083-9c89-b0f4947bd908,Low,Bonds,0.42
+5279a9b7-e42e-495c-a8b3-3408738e9bd9,Medium,Mutual Funds,0.19
+9e847ee4-c019-4447-97f3-50e8e8da4c62,High,Stocks,0.24
+1518294c-e728-4895-9e06-119213c26199,High,Real Estate,0.85
+49c72906-3f3a-4120-9b47-3b266a1cf93d,Medium,ETFs,0.98
+4ea31e94-6a94-4625-9a4a-457aa253a4ab,Low,Mutual Funds,0.88
+fa3860a4-66a1-4096-b751-347dcb61f00d,High,Real Estate,0.88
+38bd6091-9fca-47f6-a550-56801238a395,Medium,ETFs,0.92
+0d7873bc-5fd5-4767-a00a-b99c9622412a,High,ETFs,0.24
+979c0bd6-c0f0-4fcd-8298-a5ca267851cf,Medium,Bonds,0.21
+3a140f36-59f5-4ad4-aa37-9aeb486b2d54,Medium,Real Estate,0.79
+4698affa-6adf-4387-bb42-3ffbbcef4d45,Medium,Real Estate,0.58
+90c2524e-1089-4da4-afe2-ae7c87e10259,High,Bonds,0.13
+7b1c345e-db66-4fed-99e1-77a64ff14ad4,Medium,Bonds,0.81
+7c62ab46-c4bb-40f4-83ed-2ba70291f1e2,Medium,Stocks,0.27
+c6d85a58-b9c7-4a8e-9d2e-78eb3ccbb25c,Medium,Bonds,0.32
+f5f6623a-fd09-4615-89eb-695de73dd0d2,Low,Bonds,0.3
+0c9d5967-3539-4bc6-8b7a-02c72d53bde0,Low,Bonds,0.73
+9ce41e1d-c7dc-4e32-9947-8ed12b711bb6,Medium,Stocks,0.86
+78fb5851-82ad-4086-a75b-64939dbfd2bd,High,ETFs,0.71
+8c4fe605-9931-4d70-9c02-385e92eb6f26,Low,Bonds,0.75
+a918ecf4-ee8b-469b-af97-6e69498e1cc5,High,Real Estate,0.76
+2f82c600-21c8-45c2-b7a2-06792d0fc65f,Medium,Mutual Funds,0.59
+96c6147f-406b-438f-b4b8-f182c0a7c68c,Low,Stocks,0.39
+2574b414-495a-4676-98fd-c54a63d2aac0,High,Bonds,0.85
+46da19dd-33d2-4e41-9ee9-a91c87a4a1c2,Medium,Stocks,0.39
+875d3c01-304d-4f01-8398-a55a3976c9da,Medium,Mutual Funds,0.83
+5610e208-bc5b-4794-87fc-7375ef9b9e04,High,ETFs,0.78
+c5801802-bc1b-419e-9b4a-c694bab0fc2c,Medium,Stocks,0.98
+dfef3210-c9c0-4084-ab11-ef60d573134d,High,Bonds,0.59
+6d9cd5a4-294e-4767-b772-c42ebe553329,High,Mutual Funds,0.62
+a0da6adb-5eec-4087-b1af-b5c1222ff4d2,Medium,ETFs,0.8
+3575435d-85aa-4cc4-8d05-b5dd2aea70be,Medium,Mutual Funds,0.76
+d9785d4f-efdd-4e6b-b104-be5cbdafd10c,Medium,ETFs,0.85
+4aa955ef-9597-444e-bd84-8c374ff48d7f,Low,Bonds,0.94
+04491ae3-2530-4aa8-8edd-6220bf812120,High,Mutual Funds,0.84
+c8885200-50fb-4d8b-9b8d-81e7800895d9,High,Bonds,0.23
+ac2e42cb-c894-47e5-ab7c-d160517e7529,Low,Real Estate,0.17
+4a15b928-2a73-4901-9b6d-fd4149c95fc3,High,Mutual Funds,0.83
+4a093e8d-c58d-4723-9f53-8c94f8582c60,High,Stocks,0.46
+53f2e611-1be4-4f2a-a6d8-cfa7650fa63c,High,Stocks,0.21
+349e552c-22b5-4fc3-ac24-b540fc174858,Medium,Stocks,0.87
+6f9f998c-213a-4f27-9aa8-ffcceec4be75,Low,Real Estate,0.29
+c85e465e-f7f9-4c80-8f30-5810cb07b3c1,Low,Real Estate,0.76
+798e82f8-c2e1-4381-9755-3003078a26d7,Low,Stocks,0.3
+305266dc-2ecd-4258-ab96-58c539ec822f,Low,ETFs,0.78
+ca691f3f-6d4d-4314-810e-62d2027a0ab2,Medium,Bonds,0.6
+9020b371-e40b-4ae3-959d-82814b9e0e84,Low,Real Estate,0.47
+cc069209-c8cc-411a-9453-45ef7f8ab4ab,Low,Real Estate,0.74
+72155a63-6cb6-4d48-a897-ec6fd9a4672c,Low,Real Estate,0.61
+b3dd5269-b2e2-45b7-9dac-059ef1e48c2b,Medium,Real Estate,0.65
+725450bd-081c-4944-beb1-87cecbced721,Medium,Stocks,0.98
+0ea218ef-651f-4f2c-bf31-eb60d84d41bc,Low,ETFs,0.53
+603b1f69-dcf9-4ff3-8235-d4e00c284677,High,Real Estate,0.88
+15ba5b93-8e79-4a64-a478-94b00c097896,Low,Real Estate,0.4
+b97c1f0c-f83a-444b-8b6c-f5f37650e6f5,Medium,Real Estate,0.84
+4ff91b90-71dd-4ae2-8917-a216eb7b5649,Medium,Real Estate,0.72
+ad9ec039-8423-46bc-8124-0b983fb8a228,Low,ETFs,0.79
+ba6aeaa5-73a7-4233-a471-794eacac31ed,Medium,Stocks,0.86
+8879db07-2ca9-4699-8014-60d51f5a31e1,High,Stocks,0.11
+a7010dcc-ad3a-4792-b8c6-3763feabbc60,Medium,Stocks,0.5
+55614888-ef4d-47d9-8594-7cfbba8bce85,High,Bonds,0.34
+ac52db38-1a1f-462f-a66b-38ab4d330cc6,Medium,Mutual Funds,0.11
+4f982816-af19-4c76-86d8-828dc4ba59ba,Low,ETFs,0.4
+6800f32f-671a-4278-8096-91a5b6b82596,High,Real Estate,0.93
+c0b54476-9476-4644-9be6-53352291b768,High,Mutual Funds,0.33
+de83343c-de8d-4dfc-ab17-8b74d6f2b2c0,High,Mutual Funds,0.11
+e66107c1-37b5-4c10-b698-704819bbcb07,Medium,Mutual Funds,0.15
+f8ec7128-e8ff-4835-8dc4-80630b4ba43d,Medium,Stocks,0.75
+298d9977-d6e6-4f4b-9278-f3b7051e5e21,High,Bonds,0.5
+0d900cd3-8474-407a-b9a1-3feff8102820,Medium,Mutual Funds,0.82
+2bd5c68c-149f-4023-bb3f-77462aee4ce6,Medium,ETFs,0.91
+c6e34c8f-00c4-404c-9a76-38b5d4c76a9b,Low,Mutual Funds,0.38
+18c3cea9-c5fc-4329-af48-258defb3d14f,Medium,Bonds,0.78
+1d77cc16-e4be-43f9-89ba-88e5cc1a8ffc,Medium,ETFs,0.34
+f78b47d5-1268-4ef2-bee7-9655a4bf90ff,Low,Real Estate,0.41
+69c30640-af1c-4faa-ad3d-c226d080f56e,Medium,Bonds,0.53
+0bc36963-3240-4dff-b181-7f36caed67e6,High,Mutual Funds,0.97
+27d98a23-39b9-4495-b3ff-6188a798bfdc,High,Real Estate,0.42
+8ab5541e-3a35-4bb0-b660-3571a7a6c938,Low,Mutual Funds,0.94
+5921cdc2-73f1-4396-8526-41253a38085d,Medium,Bonds,0.17
+9a7c40b3-af08-4f0b-8653-077499cb0035,High,Mutual Funds,0.22
+352965a2-dfe9-45f9-80cd-a4f7890e0ce2,High,Mutual Funds,0.7
+7b7ee5cd-d393-4eb6-9beb-64ef16e9d8c9,Low,Mutual Funds,0.86
+43098e40-fe70-4ae2-baee-7ab532b2a4ec,Low,Stocks,0.21
+499541a0-01ce-44d6-8dbc-df04e2c7e967,Medium,Stocks,0.83
+4fe90064-36de-4f47-8b7c-486e5c758857,High,Real Estate,0.35
+1ae13dfb-89f1-4809-aeb7-a2a7122e651d,High,Mutual Funds,0.97
+59b728cc-5baa-4e90-8085-d4251cde7c04,High,Mutual Funds,0.57
+d6c54871-0379-40c1-9f59-78c56f4eadd5,Medium,ETFs,0.44
+91ccbcc2-789e-4608-a2db-520ad861140a,High,Bonds,0.18
+3b324a04-368e-4488-adc2-2794d5ba20bd,Medium,ETFs,0.57
+50f395d7-fb25-4374-a1a3-89a7ccb0d8ad,Medium,Stocks,0.61
+cf826cf9-83a1-4d91-a9c5-2baed5846ca6,Low,Mutual Funds,0.8
+862e7b00-7500-443c-be9e-59cc55f2703c,Low,Bonds,0.29
+e8fd9a69-f889-4a0a-9338-2f4da87d0a5b,Low,Real Estate,0.57
+acb29041-c552-4615-b614-f0683e27945b,Medium,Bonds,0.68
+7769bdf2-fdcc-49de-8e37-6fb05ddca45f,Medium,Bonds,0.14
+5caa2b91-247d-4d03-a72f-ec84be2f2348,Low,Bonds,0.88
+2e8cef13-02a5-4fb1-8cb5-0555486ee345,Low,Bonds,0.2
+34c17f64-609c-4cad-88ab-eb43abe835ea,Low,Real Estate,0.6
+555168d6-70e1-484f-b453-e32c96807f5f,High,Stocks,0.99
+b59ca27c-02c1-460b-b16e-844beb34d38c,High,Mutual Funds,0.11
+e782585b-fd7d-416c-866a-49f17b7d96c6,High,Real Estate,0.45
+fa26512b-108a-4f1f-bbb7-489432e99501,Low,Stocks,0.48

@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,MaritalStatus,AnnualIncome,RiskTolerance,PreferredInvestment,PortfolioDiversification,RetirementAge,SavingsGoal,InvestmentStrategy,MonthlySavings,SavingFrequency,SavingInstruments,TransactionID,TransactionDate,TransactionAmount,TransactionType
+1,37,Female,Married,69279,Medium,Bonds,Low,65,651890,Conservative,1977,Quarterly,Real Estate,1,2023-01-01,400.56,Credit
+2,39,Female,Married,141474,Low,Mutual Funds,Low,55,1381278,Aggressive,4957,Quarterly,Bank Deposit,2,2023-01-02,6498.19,Credit
+3,60,Male,Single,146570,Medium,Stocks,Medium,64,1239766,Balanced,3653,Quarterly,Bonds,3,2023-01-03,9401.84,Credit
+4,63,Male,Single,144672,Low,Mutual Funds,Low,66,1577935,Conservative,2891,Quarterly,Bonds,4,2023-01-04,9537.55,Credit
+5,56,Male,Married,90318,High,Mutual Funds,Low,65,529307,Balanced,2484,Annually,Real Estate,5,2023-01-05,4321.43,Debit
+6,51,Female,Single,144205,High,Bonds,High,55,283863,Balanced,602,Annually,Bank Deposit,6,2023-01-06,9313.53,Credit
+7,52,Male,Single,95724,Medium,Real Estate,High,69,204142,Aggressive,819,Monthly,Real Estate,7,2023-01-07,2975.16,Debit
+8,53,Male,Single,139265,Low,Stocks,Medium,61,1914040,Balanced,1361,Annually,Bank Deposit,8,2023-01-08,2854.37,Credit
+9,21,Male,Divorced,141586,Low,Bonds,Medium,59,1696095,Aggressive,3022,Annually,Real Estate,9,2023-01-09,5144.27,Credit
+10,57,Female,Married,117302,Medium,Mutual Funds,Medium,67,1115832,Balanced,653,Monthly,Bank Deposit,10,2023-01-10,2003.73,Debit
+11,49,Male,Divorced,37792,High,Real Estate,Low,69,720246,Aggressive,816,Monthly,Real Estate,11,2023-01-11,1370.57,Debit
+12,29,Male,Single,140930,High,Real Estate,Low,61,1213960,Aggressive,2735,Monthly,Real Estate,12,2023-01-12,916.31,Credit
+13,64,Female,Divorced,90057,High,Stocks,Medium,68,531320,Conservative,1630,Quarterly,Bank Deposit,13,2023-01-13,589.94,Credit
+14,27,Male,Divorced,77697,Medium,Mutual Funds,High,67,217290,Conservative,1591,Annually,Real Estate,14,2023-01-14,5984.96,Debit
+15,38,Male,Married,36184,Low,Mutual Funds,Low,57,913647,Balanced,4154,Quarterly,Real Estate,15,2023-01-15,4490.57,Debit
+16,27,Female,Married,71581,High,Real Estate,High,64,502708,Balanced,4663,Quarterly,Real Estate,16,2023-01-16,2541.89,Credit
+17,52,Female,Married,92194,Low,Stocks,Medium,55,1890791,Balanced,2179,Annually,Bonds,17,2023-01-17,2894.15,Credit
+18,44,Female,Married,43605,High,Stocks,Medium,56,166324,Balanced,3955,Quarterly,Real Estate,18,2023-01-18,5255.07,Credit
+19,36,Female,Single,82103,Low,Bonds,Low,55,1296439,Aggressive,1334,Monthly,Stocks,19,2023-01-19,7115.06,Credit
+20,55,Female,Single,38725,Medium,Bonds,Low,66,1472183,Conservative,917,Quarterly,Real Estate,20,2023-01-20,1962.48,Debit
+21,65,Male,Married,57315,High,Real Estate,Medium,62,381414,Conservative,4666,Monthly,Stocks,21,2023-01-21,8292.96,Debit
+22,39,Male,Single,72412,Medium,Real Estate,Low,60,1556418,Balanced,1033,Quarterly,Stocks,22,2023-01-22,2439.43,Debit
+23,50,Female,Married,91832,Low,Bonds,Low,67,792390,Balanced,4478,Quarterly,Stocks,23,2023-01-23,6708.01,Debit
+24,43,Male,Married,81510,High,Stocks,Medium,69,142947,Aggressive,3324,Quarterly,Real Estate,24,2023-01-24,9826.59,Credit
+25,62,Female,Single,91300,High,Real Estate,Medium,56,1230445,Conservative,3332,Monthly,Stocks,25,2023-01-25,7169.8,Credit
+26,49,Male,Divorced,81705,Low,Mutual Funds,Low,64,1088371,Conservative,1883,Quarterly,Bonds,26,2023-01-26,6619.54,Debit
+27,19,Female,Divorced,53264,High,Mutual Funds,High,61,963866,Balanced,1265,Monthly,Bonds,27,2023-01-27,2625.9,Credit
+28,67,Male,Married,104319,Low,Stocks,Medium,55,311214,Balanced,1617,Quarterly,Bank Deposit,28,2023-01-28,9211.85,Credit
+29,35,Female,Divorced,33547,Low,Bonds,High,63,517938,Aggressive,2870,Annually,Bank Deposit,29,2023-01-29,2355.71,Debit
+30,54,Female,Divorced,42838,Medium,Mutual Funds,Medium,56,186842,Balanced,2128,Monthly,Bank Deposit,30,2023-01-30,1537.25,Debit
+31,53,Female,Single,34108,High,Bonds,Medium,63,1342098,Conservative,596,Annually,Stocks,31,2023-01-31,7491.14,Credit
+32,41,Male,Married,46437,Low,Mutual Funds,High,58,916664,Conservative,4593,Annually,Stocks,32,2023-02-01,3922.47,Debit
+33,29,Female,Single,105084,Low,Mutual Funds,High,56,1019628,Conservative,3845,Monthly,Stocks,33,2023-02-02,4357.46,Debit
+34,35,Male,Divorced,79071,Medium,Bonds,Low,57,1191318,Aggressive,3204,Monthly,Stocks,34,2023-02-03,1025.72,Credit
+35,39,Female,Married,101167,High,Bonds,High,58,727327,Balanced,3259,Monthly,Bank Deposit,35,2023-02-04,2982.08,Credit
+36,21,Male,Single,133793,Low,Real Estate,High,65,621558,Aggressive,1947,Monthly,Bonds,36,2023-02-05,2993.08,Debit
+37,22,Male,Single,138216,High,Real Estate,High,61,1243409,Balanced,3030,Monthly,Real Estate,37,2023-02-06,4748.93,Credit
+38,62,Female,Married,93185,Medium,Real Estate,Medium,68,1286040,Conservative,1176,Quarterly,Bonds,38,2023-02-07,9730.26,Debit
+39,54,Female,Divorced,127290,Medium,Real Estate,High,57,667375,Aggressive,1193,Monthly,Bank Deposit,39,2023-02-08,917.88,Debit
+40,39,Male,Married,62270,High,Bonds,Medium,57,1837284,Balanced,2001,Quarterly,Real Estate,40,2023-02-09,7893.67,Credit
+41,37,Male,Married,96353,Medium,Stocks,High,68,1798985,Aggressive,3971,Monthly,Stocks,41,2023-02-10,7389.45,Credit
+42,33,Female,Divorced,70372,High,Real Estate,Low,58,1308509,Balanced,2388,Annually,Bank Deposit,42,2023-02-11,8655.75,Credit
+43,36,Male,Married,52854,High,Real Estate,High,68,730668,Conservative,3426,Annually,Real Estate,43,2023-02-12,3055.76,Debit
+44,41,Male,Single,139334,High,Real Estate,Medium,64,193270,Conservative,3553,Quarterly,Bonds,44,2023-02-13,4089.91,Credit
+45,24,Male,Single,143670,Medium,Bonds,Medium,68,967714,Aggressive,4911,Monthly,Bank Deposit,45,2023-02-14,412.74,Debit
+46,51,Male,Divorced,61444,High,Real Estate,Medium,61,201867,Balanced,3722,Annually,Stocks,46,2023-02-15,6335.46,Credit
+47,42,Female,Divorced,96077,Medium,Bonds,Low,67,425360,Conservative,4033,Annually,Real Estate,47,2023-02-16,410.99,Credit
+48,51,Female,Married,50838,High,Real Estate,High,62,1910817,Balanced,1752,Annually,Bank Deposit,48,2023-02-17,4235.34,Credit
+49,21,Male,Married,37262,Low,Mutual Funds,Medium,57,167044,Balanced,4434,Annually,Real Estate,49,2023-02-18,2491.34,Credit
+50,52,Male,Married,55388,High,Bonds,Low,60,886503,Balanced,734,Monthly,Stocks,50,2023-02-19,1706.34,Debit
+51,51,Male,Married,109938,High,Real Estate,Low,69,347960,Conservative,1879,Monthly,Bank Deposit,51,2023-02-20,7651.83,Debit
+52,63,Female,Married,72271,Low,Stocks,Medium,59,681432,Balanced,3969,Annually,Bonds,52,2023-02-21,9927.92,Debit
+53,37,Female,Married,93515,High,Bonds,High,68,586050,Aggressive,4599,Annually,Bonds,53,2023-02-22,9626.42,Credit
+54,29,Female,Married,74442,Low,Real Estate,Medium,60,437545,Aggressive,1460,Quarterly,Stocks,54,2023-02-23,6255.32,Credit
+55,34,Male,Divorced,106510,High,Real Estate,Low,64,1661011,Aggressive,1860,Annually,Real Estate,55,2023-02-24,9711.97,Debit
+56,47,Male,Married,141994,Medium,Mutual Funds,Low,64,354777,Balanced,1970,Quarterly,Bonds,56,2023-02-25,554.45,Debit
+57,45,Male,Divorced,87755,Medium,Bonds,Low,56,978930,Aggressive,3959,Monthly,Bank Deposit,57,2023-02-26,1059.4,Debit
+58,35,Male,Divorced,85795,Medium,Mutual Funds,High,68,1452112,Conservative,1473,Monthly,Stocks,58,2023-02-27,6115.65,Debit
+59,23,Male,Divorced,63509,Medium,Bonds,Low,62,754845,Conservative,4874,Monthly,Bank Deposit,59,2023-02-28,6566.91,Debit
+60,49,Male,Married,35091,High,Real Estate,High,56,1679586,Balanced,4107,Quarterly,Bank Deposit,60,2023-03-01,5219.28,Credit
+61,34,Female,Single,96751,High,Stocks,High,69,1756798,Balanced,3197,Quarterly,Real Estate,61,2023-03-02,5655.54,Credit
+62,29,Male,Divorced,59480,High,Stocks,Medium,66,157032,Balanced,4476,Monthly,Bank Deposit,62,2023-03-03,9508.01,Credit
+63,62,Male,Divorced,68547,High,Mutual Funds,Low,58,836592,Aggressive,1769,Monthly,Stocks,63,2023-03-04,9788.21,Credit
+64,38,Male,Married,105084,Low,Stocks,High,58,717137,Conservative,1410,Quarterly,Bonds,64,2023-03-05,1776.56,Credit
+65,20,Female,Divorced,34359,High,Bonds,Medium,65,562394,Aggressive,1106,Monthly,Stocks,65,2023-03-06,7863.25,Credit
+66,24,Female,Single,115405,Low,Mutual Funds,High,69,678951,Aggressive,3108,Quarterly,Stocks,66,2023-03-07,5332.26,Credit
+67,53,Female,Married,77348,High,Stocks,Low,69,1413717,Balanced,4571,Monthly,Bonds,67,2023-03-08,9620.09,Credit
+68,55,Male,Divorced,74333,High,Stocks,High,58,1569035,Balanced,4593,Annually,Bank Deposit,68,2023-03-09,6581.06,Credit
+69,24,Male,Single,126998,High,Bonds,High,63,1104350,Balanced,4053,Annually,Bonds,69,2023-03-10,3775.95,Debit
+70,42,Male,Married,84150,Low,Real Estate,Low,58,1285414,Aggressive,1933,Monthly,Stocks,70,2023-03-11,4207.64,Debit
+71,20,Female,Divorced,114830,Medium,Bonds,Low,63,689731,Balanced,2299,Quarterly,Bonds,71,2023-03-12,705.75,Debit
+72,27,Female,Single,141361,Medium,Bonds,Medium,69,1559396,Conservative,4680,Quarterly,Bonds,72,2023-03-13,2240.93,Credit
+73,43,Female,Divorced,146329,High,Bonds,Medium,69,1610324,Conservative,4301,Quarterly,Bank Deposit,73,2023-03-14,5673.99,Debit
+74,24,Female,Married,107625,Medium,Real Estate,Low,55,1842854,Conservative,3430,Monthly,Real Estate,74,2023-03-15,4029.21,Debit
+75,69,Male,Divorced,148361,Low,Mutual Funds,Medium,67,259055,Conservative,4743,Quarterly,Bank Deposit,75,2023-03-16,5268.58,Credit
+76,51,Female,Single,50562,Medium,Bonds,Medium,65,1331572,Balanced,3836,Quarterly,Bank Deposit,76,2023-03-17,3998.34,Credit
+77,38,Female,Single,118511,High,Real Estate,Medium,65,1747916,Balanced,3808,Annually,Bank Deposit,77,2023-03-18,3988.07,Debit
+78,46,Male,Single,136840,Medium,Mutual Funds,Medium,69,1684951,Balanced,1493,Annually,Bank Deposit,78,2023-03-19,2861.12,Credit
+79,61,Male,Single,30997,Medium,Bonds,Low,58,1037127,Balanced,3703,Monthly,Bank Deposit,79,2023-03-20,2163.36,Debit
+80,47,Female,Single,42866,Low,Mutual Funds,Medium,55,461460,Aggressive,4545,Monthly,Real Estate,80,2023-03-21,3866.6,Debit
+81,37,Female,Single,32267,High,Bonds,Medium,55,794094,Balanced,1483,Quarterly,Bonds,81,2023-03-22,9022.02,Credit
+82,30,Female,Divorced,64455,Low,Bonds,Medium,69,286591,Aggressive,4245,Annually,Bonds,82,2023-03-23,748.28,Debit
+83,69,Male,Single,120296,High,Real Estate,High,61,1775654,Aggressive,2120,Monthly,Real Estate,83,2023-03-24,9180.62,Credit
+84,35,Female,Divorced,66044,Medium,Real Estate,Medium,56,500265,Aggressive,3803,Monthly,Real Estate,84,2023-03-25,8839.13,Credit
+85,53,Male,Married,146549,High,Bonds,Medium,62,698448,Balanced,2972,Monthly,Stocks,85,2023-03-26,3303.69,Debit
+86,24,Female,Divorced,101330,High,Stocks,Low,55,769554,Balanced,3021,Quarterly,Stocks,86,2023-03-27,2721.11,Debit
+87,25,Female,Single,149167,Low,Bonds,Low,65,1382699,Aggressive,2135,Monthly,Real Estate,87,2023-03-28,1371.29,Debit
+88,60,Female,Married,59021,Low,Mutual Funds,High,67,1355896,Conservative,2491,Monthly,Bank Deposit,88,2023-03-29,3743.86,Credit
+89,20,Male,Single,116066,Low,Stocks,Medium,59,1408630,Aggressive,2591,Quarterly,Real Estate,89,2023-03-30,2432.65,Credit
+90,21,Female,Divorced,113016,Medium,Bonds,High,60,883932,Conservative,4528,Quarterly,Bank Deposit,90,2023-03-31,4356.15,Credit
+91,34,Male,Married,135263,Medium,Mutual Funds,High,57,916460,Balanced,4968,Quarterly,Bank Deposit,91,2023-04-01,9043.29,Debit
+92,23,Female,Married,126636,Medium,Stocks,Medium,64,1454550,Aggressive,4210,Monthly,Bank Deposit,92,2023-04-02,4395.55,Credit
+93,19,Female,Single,89860,High,Real Estate,Medium,57,124084,Aggressive,4817,Quarterly,Bonds,93,2023-04-03,1964.06,Debit
+94,40,Female,Divorced,51952,High,Real Estate,High,65,591696,Balanced,3366,Quarterly,Bonds,94,2023-04-04,8059.21,Credit
+95,54,Male,Single,104709,Medium,Mutual Funds,Medium,66,1779367,Aggressive,4663,Quarterly,Stocks,95,2023-04-05,2002.71,Debit
+96,27,Female,Divorced,65282,High,Real Estate,High,65,1018736,Conservative,3421,Quarterly,Stocks,96,2023-04-06,8468.16,Credit
+97,40,Female,Single,43199,High,Stocks,Medium,61,1299709,Conservative,4901,Monthly,Bonds,97,2023-04-07,7299.74,Debit
+98,58,Female,Married,145422,Low,Mutual Funds,High,60,1657806,Conservative,3336,Annually,Bank Deposit,98,2023-04-08,6351.39,Credit
+99,42,Female,Divorced,53404,High,Mutual Funds,Medium,67,1696025,Balanced,2997,Quarterly,Real Estate,99,2023-04-09,3120.75,Credit
+100,41,Male,Divorced,119760,Medium,Stocks,Medium,61,269760,Aggressive,4204,Monthly,Real Estate,100,2023-04-10,5547.46,Debit
+101,31,Female,Divorced,117750,Low,Real Estate,Medium,59,1181915,Aggressive,2339,Monthly,Bank Deposit,101,2023-04-11,5260.5,Credit
+102,58,Male,Single,76066,Medium,Bonds,Medium,68,936622,Conservative,2122,Quarterly,Stocks,102,2023-04-12,4196.69,Credit
+103,35,Male,Married,98587,High,Bonds,Medium,64,1679037,Balanced,3599,Annually,Bonds,103,2023-04-13,5981.57,Debit
+104,46,Female,Married,61082,Low,Mutual Funds,Low,66,341152,Conservative,4124,Monthly,Real Estate,104,2023-04-14,8363.46,Debit
+105,39,Female,Married,138750,Low,Stocks,Low,58,1157535,Conservative,638,Quarterly,Bonds,105,2023-04-15,2459.81,Credit
+106,22,Female,Divorced,113192,Low,Bonds,Low,59,1378679,Aggressive,4740,Quarterly,Stocks,106,2023-04-16,7600.86,Credit
+107,25,Female,Divorced,83116,Medium,Bonds,Medium,67,244101,Conservative,2284,Monthly,Bonds,107,2023-04-17,336.92,Debit
+108,53,Male,Divorced,119350,Medium,Stocks,Medium,57,807313,Conservative,612,Quarterly,Real Estate,108,2023-04-18,7680.45,Debit
+109,60,Male,Divorced,44376,High,Mutual Funds,Medium,66,876064,Aggressive,1705,Monthly,Bank Deposit,109,2023-04-19,8374.12,Debit
+110,29,Male,Single,103122,High,Real Estate,High,56,1872182,Conservative,3997,Quarterly,Stocks,110,2023-04-20,9644.54,Debit
+111,68,Male,Single,64326,Medium,Real Estate,High,56,901322,Conservative,4401,Annually,Bonds,111,2023-04-21,9616.74,Credit
+112,40,Male,Divorced,140636,Low,Mutual Funds,Medium,60,937566,Aggressive,821,Quarterly,Real Estate,112,2023-04-22,2862.69,Credit
+113,41,Female,Married,114538,Low,Mutual Funds,High,56,129431,Balanced,669,Quarterly,Bonds,113,2023-04-23,8539.88,Credit
+114,47,Male,Divorced,106645,Low,Real Estate,Medium,64,1667723,Balanced,4057,Quarterly,Stocks,114,2023-04-24,8226.12,Credit
+115,55,Female,Divorced,136910,High,Stocks,Medium,55,935852,Balanced,3600,Quarterly,Real Estate,115,2023-04-25,2195.05,Credit
+116,60,Female,Married,143356,Low,Stocks,Medium,65,388516,Aggressive,3041,Quarterly,Bank Deposit,116,2023-04-26,2942.07,Debit
+117,32,Female,Divorced,41529,Low,Bonds,Low,60,1905148,Conservative,1166,Annually,Bank Deposit,117,2023-04-27,1415.6,Debit
+118,28,Female,Divorced,65650,Medium,Mutual Funds,Low,60,669191,Aggressive,1953,Monthly,Stocks,118,2023-04-28,9279.46,Debit
+119,32,Female,Divorced,72362,Medium,Real Estate,High,61,1770928,Aggressive,3006,Annually,Real Estate,119,2023-04-29,4798.25,Debit
+120,51,Female,Divorced,144772,High,Real Estate,Low,56,553761,Balanced,2040,Quarterly,Bank Deposit,120,2023-04-30,1384.25,Debit
+121,53,Male,Married,96850,High,Stocks,Medium,63,114069,Conservative,2946,Annually,Bonds,121,2023-05-01,4843.75,Debit
+122,44,Male,Single,115054,Medium,Stocks,Medium,56,930450,Aggressive,1965,Monthly,Bonds,122,2023-05-02,8438.3,Debit
+123,22,Male,Divorced,62995,Medium,Stocks,High,68,1860933,Aggressive,540,Monthly,Bank Deposit,123,2023-05-03,2863.83,Credit
+124,30,Female,Divorced,45983,Medium,Stocks,High,61,1520199,Balanced,1598,Quarterly,Stocks,124,2023-05-04,4222.31,Credit
+125,61,Male,Married,92515,Low,Stocks,High,57,487112,Balanced,1984,Annually,Bank Deposit,125,2023-05-05,5562.42,Credit
+126,59,Male,Single,141909,High,Bonds,Medium,58,777356,Aggressive,2323,Monthly,Bonds,126,2023-05-06,2395.08,Debit
+127,45,Female,Married,113497,Medium,Real Estate,Low,68,187501,Conservative,1029,Annually,Stocks,127,2023-05-07,3950.76,Debit
+128,67,Female,Single,129338,High,Real Estate,High,57,401328,Conservative,2552,Quarterly,Bank Deposit,128,2023-05-08,3480.04,Credit
+129,35,Male,Divorced,146114,High,Bonds,Medium,69,341416,Balanced,2486,Quarterly,Stocks,129,2023-05-09,5264.66,Debit
+130,67,Female,Divorced,113916,Low,Stocks,Medium,59,1676951,Balanced,4876,Annually,Stocks,130,2023-05-10,6621.44,Credit
+131,61,Male,Single,76682,Low,Real Estate,High,64,1069390,Aggressive,1382,Quarterly,Stocks,131,2023-05-11,694.11,Credit
+132,25,Male,Divorced,140215,Medium,Mutual Funds,Medium,59,1816415,Conservative,4952,Quarterly,Stocks,132,2023-05-12,7740.35,Debit
+133,52,Male,Single,88402,Medium,Stocks,Low,68,1223698,Balanced,2728,Monthly,Bank Deposit,133,2023-05-13,6383.82,Debit
+134,43,Male,Divorced,69207,High,Mutual Funds,Medium,59,730824,Aggressive,3971,Annually,Bonds,134,2023-05-14,6354.33,Debit
+135,57,Female,Married,98704,Medium,Stocks,Medium,56,274216,Conservative,4053,Annually,Real Estate,135,2023-05-15,3629.06,Debit
+136,36,Male,Married,96584,Medium,Stocks,Low,58,198023,Aggressive,1804,Annually,Bonds,136,2023-05-16,4176.01,Credit
+137,65,Male,Divorced,45561,High,Bonds,Low,61,1650868,Conservative,2135,Quarterly,Bonds,137,2023-05-17,8268.31,Credit
+138,59,Male,Married,100899,Low,Stocks,Low,65,955299,Balanced,1562,Monthly,Stocks,138,2023-05-18,8415.73,Credit
+139,41,Male,Single,111084,High,Bonds,Low,57,1400180,Conservative,3150,Quarterly,Bank Deposit,139,2023-05-19,4307.15,Debit
+140,69,Male,Married,73077,Medium,Mutual Funds,High,57,568823,Balanced,1563,Quarterly,Bonds,140,2023-05-20,1078.56,Credit
+141,48,Male,Married,127775,Medium,Bonds,High,62,1071343,Balanced,4271,Quarterly,Real Estate,141,2023-05-21,5603.33,Credit
+142,57,Female,Single,79202,High,Stocks,High,66,1961583,Aggressive,3899,Annually,Stocks,142,2023-05-22,3798.35,Debit
+143,58,Male,Married,88143,High,Bonds,Low,62,436054,Balanced,3047,Monthly,Bank Deposit,143,2023-05-23,3910.76,Credit
+144,39,Male,Divorced,82884,Low,Bonds,High,57,882348,Conservative,3872,Quarterly,Real Estate,144,2023-05-24,5298.35,Debit
+145,19,Female,Divorced,128868,Low,Real Estate,Low,63,145268,Balanced,1121,Annually,Real Estate,145,2023-05-25,9499.87,Credit
+146,40,Female,Divorced,57064,Medium,Bonds,High,69,1717613,Balanced,930,Annually,Bonds,146,2023-05-26,5181.26,Credit
+147,32,Male,Married,61617,High,Stocks,Medium,66,1943646,Conservative,4013,Quarterly,Bonds,147,2023-05-27,7000.77,Debit
+148,27,Male,Divorced,149261,Low,Real Estate,High,59,681838,Balanced,4481,Monthly,Real Estate,148,2023-05-28,7065.72,Debit
+149,38,Female,Single,40230,Low,Real Estate,Medium,60,202246,Aggressive,3592,Monthly,Stocks,149,2023-05-29,9204.19,Credit
+150,65,Female,Divorced,94830,Low,Mutual Funds,High,61,581915,Balanced,1624,Quarterly,Bonds,150,2023-05-30,2886.79,Credit
+151,67,Female,Single,123961,Medium,Stocks,Low,63,471004,Aggressive,1039,Quarterly,Bonds,151,2023-05-31,7133.17,Credit
+152,32,Female,Single,64630,High,Bonds,High,66,568415,Conservative,3253,Quarterly,Bank Deposit,152,2023-06-01,174.06,Credit
+153,61,Female,Married,63309,Low,Bonds,Medium,63,776075,Conservative,2661,Monthly,Stocks,153,2023-06-02,5642.55,Debit
+154,55,Male,Single,80355,Low,Bonds,High,61,1172657,Conservative,1521,Monthly,Real Estate,154,2023-06-03,4854.93,Debit
+155,34,Male,Single,63028,Low,Stocks,High,66,1310083,Conservative,1216,Annually,Stocks,155,2023-06-04,4653.54,Debit
+156,51,Male,Single,132633,Medium,Stocks,Medium,58,685254,Conservative,3846,Annually,Bank Deposit,156,2023-06-05,7530.59,Debit
+157,52,Female,Married,35296,Medium,Mutual Funds,Medium,55,763386,Aggressive,2536,Monthly,Stocks,157,2023-06-06,9681.06,Credit
+158,33,Female,Divorced,66402,Medium,Real Estate,Medium,57,770427,Aggressive,1870,Annually,Stocks,158,2023-06-07,3110.9,Credit
+159,38,Male,Married,111179,High,Bonds,Low,69,777062,Conservative,2509,Annually,Bonds,159,2023-06-08,7047.25,Credit
+160,22,Female,Single,110567,High,Stocks,High,60,972087,Aggressive,4822,Quarterly,Stocks,160,2023-06-09,776.71,Credit
+161,30,Male,Single,86953,Medium,Bonds,High,56,1774059,Conservative,4729,Annually,Stocks,161,2023-06-10,80.61,Credit
+162,38,Female,Single,126238,High,Stocks,Low,69,1966327,Balanced,3628,Annually,Stocks,162,2023-06-11,1806.07,Credit
+163,19,Male,Divorced,125287,High,Mutual Funds,Low,56,793344,Aggressive,1529,Monthly,Real Estate,163,2023-06-12,1651.06,Debit
+164,38,Female,Married,138598,Low,Real Estate,Medium,55,406932,Aggressive,1350,Annually,Stocks,164,2023-06-13,7856.5,Debit
+165,33,Male,Divorced,104531,High,Real Estate,High,56,564871,Aggressive,1845,Annually,Real Estate,165,2023-06-14,719.44,Debit
+166,25,Male,Married,33545,Low,Real Estate,Medium,67,1867303,Balanced,4535,Quarterly,Real Estate,166,2023-06-15,8695.25,Credit
+167,33,Male,Divorced,94308,Medium,Real Estate,Medium,60,881323,Balanced,1890,Quarterly,Real Estate,167,2023-06-16,5255.0,Debit
+168,47,Male,Divorced,92603,Medium,Mutual Funds,Low,56,193265,Aggressive,788,Annually,Bank Deposit,168,2023-06-17,408.58,Debit
+169,42,Male,Married,120479,Medium,Stocks,High,57,1061215,Conservative,4661,Annually,Stocks,169,2023-06-18,1681.25,Debit
+170,36,Male,Married,76289,High,Bonds,Medium,55,1121135,Conservative,3692,Monthly,Real Estate,170,2023-06-19,6543.14,Debit
+171,26,Male,Single,126963,Medium,Real Estate,Medium,56,1653252,Aggressive,2104,Annually,Bonds,171,2023-06-20,4197.54,Debit
+172,34,Female,Married,93492,High,Stocks,Low,58,960863,Aggressive,1130,Quarterly,Stocks,172,2023-06-21,7815.0,Debit
+173,56,Male,Married,79351,Medium,Real Estate,High,63,960792,Conservative,4193,Quarterly,Real Estate,173,2023-06-22,9585.25,Credit
+174,25,Male,Single,95718,Medium,Real Estate,Low,58,230373,Conservative,3655,Monthly,Bank Deposit,174,2023-06-23,7342.3,Credit
+175,55,Male,Married,57094,Medium,Real Estate,Low,63,385138,Balanced,1074,Quarterly,Stocks,175,2023-06-24,6863.57,Debit
+176,43,Male,Married,45245,Medium,Mutual Funds,Low,67,748695,Aggressive,1658,Annually,Stocks,176,2023-06-25,9209.11,Debit
+177,32,Male,Divorced,109770,Medium,Mutual Funds,Low,65,155015,Balanced,1959,Monthly,Bank Deposit,177,2023-06-26,4686.1,Credit
+178,63,Male,Married,68901,Low,Stocks,Low,57,777595,Balanced,895,Monthly,Bonds,178,2023-06-27,5948.35,Credit
+179,18,Male,Single,90560,Medium,Mutual Funds,Medium,59,647390,Balanced,3114,Annually,Stocks,179,2023-06-28,4490.81,Credit
+180,61,Female,Divorced,76243,Low,Mutual Funds,Low,68,1325846,Aggressive,2307,Annually,Real Estate,180,2023-06-29,8690.74,Debit
+181,44,Male,Married,99627,High,Mutual Funds,Low,66,199313,Aggressive,2231,Monthly,Bonds,181,2023-06-30,467.46,Credit
+182,42,Female,Divorced,142992,High,Bonds,High,67,1078583,Conservative,4654,Monthly,Bank Deposit,182,2023-07-01,9708.24,Debit
+183,66,Male,Single,143030,Low,Mutual Funds,Medium,65,1251541,Balanced,1783,Monthly,Real Estate,183,2023-07-02,5574.47,Credit
+184,61,Female,Divorced,147302,Low,Mutual Funds,Medium,65,747726,Conservative,2741,Monthly,Stocks,184,2023-07-03,5097.98,Credit
+185,29,Male,Divorced,81963,High,Real Estate,Medium,68,1473187,Aggressive,1218,Quarterly,Real Estate,185,2023-07-04,751.51,Debit
+186,48,Male,Divorced,88552,Low,Mutual Funds,Low,69,1949465,Conservative,4305,Annually,Bonds,186,2023-07-05,1203.2,Debit
+187,68,Female,Married,126130,Low,Bonds,High,63,814471,Conservative,2885,Monthly,Bank Deposit,187,2023-07-06,1355.44,Debit
+188,49,Male,Single,90956,High,Stocks,High,60,1901240,Conservative,3723,Quarterly,Bonds,188,2023-07-07,4959.93,Credit
+189,58,Male,Divorced,60389,Low,Mutual Funds,Medium,56,1308130,Aggressive,1667,Quarterly,Bonds,189,2023-07-08,7756.44,Debit
+190,53,Male,Divorced,42573,Low,Mutual Funds,Low,59,805764,Aggressive,676,Monthly,Bank Deposit,190,2023-07-09,2061.63,Debit
+191,24,Female,Divorced,96043,Medium,Bonds,Low,58,1501678,Aggressive,1546,Annually,Stocks,191,2023-07-10,6795.18,Credit
+192,23,Male,Divorced,134564,Medium,Bonds,Medium,69,1249189,Conservative,1810,Annually,Stocks,192,2023-07-11,3040.93,Debit
+193,50,Female,Divorced,129121,Low,Bonds,Low,56,1971263,Conservative,1808,Annually,Stocks,193,2023-07-12,7207.51,Debit
+194,39,Female,Single,58448,High,Stocks,High,58,444250,Aggressive,3010,Annually,Bonds,194,2023-07-13,8072.68,Credit
+195,56,Male,Divorced,148927,Medium,Mutual Funds,Medium,60,908941,Balanced,4183,Monthly,Bank Deposit,195,2023-07-14,6346.45,Credit
+196,69,Female,Married,110288,Low,Mutual Funds,Medium,61,1493993,Aggressive,2956,Monthly,Stocks,196,2023-07-15,1357.77,Credit
+197,39,Male,Married,97858,Low,Real Estate,Medium,60,1756099,Balanced,3489,Quarterly,Bonds,197,2023-07-16,7329.94,Debit
+198,42,Male,Married,113690,Medium,Stocks,Low,63,1821963,Aggressive,4835,Annually,Real Estate,198,2023-07-17,7759.29,Debit
+199,31,Male,Divorced,91902,High,Bonds,High,59,1728387,Conservative,4041,Annually,Bonds,199,2023-07-18,8949.62,Debit
+200,50,Male,Single,38642,Medium,Bonds,High,63,1054885,Conservative,4799,Annually,Bonds,200,2023-07-19,7926.2,Credit
+201,51,Male,Married,37217,Low,Stocks,High,69,711155,Aggressive,3556,Annually,Stocks,201,2023-07-20,3656.16,Debit
+202,53,Female,Divorced,147292,High,Bonds,High,58,643656,Conservative,782,Quarterly,Bank Deposit,202,2023-07-21,3647.31,Debit
+203,51,Male,Divorced,103717,Low,Stocks,High,66,1948005,Aggressive,3787,Quarterly,Bank Deposit,203,2023-07-22,6963.76,Credit
+204,19,Male,Divorced,54892,High,Bonds,Low,63,427112,Balanced,4591,Monthly,Bank Deposit,204,2023-07-23,8987.43,Debit
+205,28,Female,Single,82383,Medium,Bonds,Medium,63,1086957,Balanced,4925,Quarterly,Real Estate,205,2023-07-24,491.09,Debit
+206,43,Male,Divorced,35726,High,Stocks,Medium,58,730791,Conservative,1747,Annually,Bonds,206,2023-07-25,153.56,Debit
+207,61,Female,Divorced,103823,Medium,Real Estate,High,66,1459418,Aggressive,897,Quarterly,Stocks,207,2023-07-26,7820.79,Debit
+208,57,Male,Divorced,140354,High,Real Estate,Medium,56,1337933,Conservative,4309,Monthly,Bank Deposit,208,2023-07-27,1298.82,Credit
+209,51,Female,Single,112683,Medium,Stocks,Low,58,1476140,Aggressive,933,Annually,Bonds,209,2023-07-28,1667.39,Credit
+210,50,Male,Single,67778,High,Real Estate,High,59,773129,Conservative,3172,Annually,Bonds,210,2023-07-29,7972.69,Debit
+211,49,Female,Divorced,83625,Medium,Mutual Funds,Low,57,306964,Aggressive,3750,Quarterly,Bank Deposit,211,2023-07-30,7396.83,Debit
+212,55,Female,Married,119119,Low,Mutual Funds,High,65,1128811,Conservative,1206,Quarterly,Bank Deposit,212,2023-07-31,7230.15,Credit
+213,68,Male,Divorced,79479,High,Real Estate,Low,66,385490,Balanced,4427,Annually,Bonds,213,2023-08-01,5286.65,Credit
+214,65,Male,Divorced,110834,Low,Real Estate,Medium,55,1653393,Aggressive,2055,Quarterly,Stocks,214,2023-08-02,6221.38,Credit
+215,54,Female,Married,54047,Low,Stocks,Medium,68,1806452,Balanced,4939,Quarterly,Stocks,215,2023-08-03,8699.98,Debit
+216,54,Male,Divorced,88154,Medium,Bonds,Medium,63,620195,Balanced,1716,Quarterly,Stocks,216,2023-08-04,5590.18,Debit
+217,64,Male,Single,58299,High,Stocks,Medium,57,1775484,Conservative,577,Annually,Bonds,217,2023-08-05,8203.53,Credit
+218,41,Female,Divorced,68951,Medium,Bonds,Low,58,582939,Balanced,3961,Monthly,Stocks,218,2023-08-06,2501.5,Credit
+219,42,Female,Divorced,120027,Low,Bonds,High,61,901949,Conservative,1678,Quarterly,Real Estate,219,2023-08-07,6236.12,Credit
+220,57,Female,Single,87399,High,Mutual Funds,Medium,69,1976079,Aggressive,2029,Monthly,Real Estate,220,2023-08-08,9736.33,Debit
+221,27,Female,Single,120475,Low,Bonds,Medium,66,1136564,Aggressive,728,Annually,Real Estate,221,2023-08-09,5718.25,Credit
+222,45,Female,Single,45729,Medium,Mutual Funds,High,62,1783356,Aggressive,1336,Quarterly,Real Estate,222,2023-08-10,7463.87,Debit
+223,25,Male,Divorced,132396,High,Stocks,Low,63,1473924,Conservative,1583,Quarterly,Stocks,223,2023-08-11,2260.08,Credit
+224,47,Male,Married,56183,High,Bonds,Medium,66,293499,Conservative,3961,Quarterly,Real Estate,224,2023-08-12,2479.87,Debit
+225,41,Male,Divorced,125538,Low,Real Estate,Low,56,967599,Conservative,1177,Annually,Bank Deposit,225,2023-08-13,8919.84,Debit
+226,56,Female,Married,149822,Medium,Mutual Funds,Low,60,1769787,Balanced,2136,Monthly,Real Estate,226,2023-08-14,5508.15,Debit
+227,46,Male,Divorced,80976,High,Bonds,Low,65,1665503,Aggressive,2704,Monthly,Bonds,227,2023-08-15,1694.46,Credit
+228,29,Female,Single,48966,Low,Real Estate,Medium,69,1742329,Conservative,2880,Annually,Bonds,228,2023-08-16,214.06,Credit
+229,29,Male,Single,70637,High,Real Estate,High,67,1674086,Conservative,3401,Quarterly,Stocks,229,2023-08-17,7650.54,Debit
+230,38,Female,Single,89781,Medium,Stocks,Medium,56,1554784,Balanced,2906,Quarterly,Bank Deposit,230,2023-08-18,1499.61,Credit
+231,30,Female,Single,67429,High,Mutual Funds,Medium,65,801986,Balanced,3430,Quarterly,Real Estate,231,2023-08-19,1606.02,Credit
+232,27,Female,Single,34425,Low,Mutual Funds,Low,64,1213799,Balanced,4609,Quarterly,Stocks,232,2023-08-20,9737.13,Credit
+233,66,Female,Divorced,34029,Medium,Mutual Funds,Low,55,629976,Aggressive,4476,Monthly,Bank Deposit,233,2023-08-21,6629.97,Credit
+234,37,Female,Married,50867,High,Stocks,High,59,1293442,Conservative,1092,Annually,Real Estate,234,2023-08-22,5648.08,Debit
+235,34,Male,Divorced,145702,Medium,Bonds,Medium,67,446474,Conservative,1671,Monthly,Real Estate,235,2023-08-23,8691.87,Credit
+236,32,Female,Divorced,135508,High,Bonds,Medium,58,679391,Balanced,2176,Monthly,Real Estate,236,2023-08-24,2620.68,Debit
+237,54,Male,Divorced,77792,High,Bonds,Medium,63,1079909,Conservative,1256,Monthly,Stocks,237,2023-08-25,3796.83,Credit
+238,18,Female,Single,134378,High,Real Estate,Medium,55,1899100,Conservative,1527,Annually,Bonds,238,2023-08-26,4835.02,Credit
+239,41,Female,Married,92524,Low,Real Estate,Low,69,217735,Conservative,4568,Monthly,Real Estate,239,2023-08-27,811.19,Credit
+240,50,Male,Married,145347,High,Real Estate,Low,66,1951093,Balanced,2335,Quarterly,Stocks,240,2023-08-28,2285.19,Credit
+241,30,Female,Single,48747,Medium,Real Estate,Low,59,461432,Conservative,2470,Annually,Bank Deposit,241,2023-08-29,192.24,Debit
+242,61,Male,Single,112924,High,Bonds,High,62,1774317,Conservative,3093,Quarterly,Stocks,242,2023-08-30,6775.76,Debit
+243,25,Female,Single,54913,Medium,Real Estate,High,57,720369,Conservative,4765,Monthly,Real Estate,243,2023-08-31,9136.09,Credit
+244,43,Female,Single,114640,Low,Bonds,High,64,431345,Aggressive,2217,Monthly,Bank Deposit,244,2023-09-01,4329.41,Credit
+245,32,Female,Married,32715,Medium,Stocks,Low,60,761464,Balanced,4618,Annually,Real Estate,245,2023-09-02,468.56,Debit
+246,52,Male,Single,96796,Medium,Stocks,Low,60,1093529,Balanced,1509,Quarterly,Bank Deposit,246,2023-09-03,3333.29,Credit
+247,21,Male,Divorced,138708,Low,Real Estate,High,62,1880801,Balanced,3008,Quarterly,Bonds,247,2023-09-04,4415.69,Credit
+248,18,Female,Married,116092,High,Mutual Funds,Medium,56,1283380,Balanced,1566,Quarterly,Bonds,248,2023-09-05,3218.08,Debit
+249,57,Male,Single,97283,High,Real Estate,Medium,59,1505818,Aggressive,970,Annually,Stocks,249,2023-09-06,8685.16,Debit
+250,59,Female,Divorced,113418,Medium,Bonds,High,61,495962,Balanced,4891,Monthly,Stocks,250,2023-09-07,8055.8,Credit
+251,52,Female,Divorced,82340,Medium,Bonds,Medium,68,1828845,Aggressive,2832,Quarterly,Bank Deposit,251,2023-09-08,506.88,Debit
+252,43,Male,Married,68376,Medium,Mutual Funds,Medium,56,735273,Aggressive,2967,Annually,Real Estate,252,2023-09-09,6406.12,Credit
+253,49,Female,Married,105213,Low,Stocks,Medium,55,171020,Balanced,3928,Quarterly,Real Estate,253,2023-09-10,7208.91,Credit
+254,23,Male,Married,93430,Low,Stocks,Medium,57,228438,Aggressive,1636,Monthly,Stocks,254,2023-09-11,8343.44,Debit
+255,56,Female,Single,38046,High,Stocks,Low,61,442976,Conservative,1560,Quarterly,Stocks,255,2023-09-12,9922.21,Credit
+256,54,Male,Married,78163,Low,Bonds,Medium,56,610656,Conservative,2048,Quarterly,Real Estate,256,2023-09-13,9333.63,Debit
+257,52,Female,Married,73875,Low,Stocks,Medium,69,885800,Balanced,4176,Quarterly,Bonds,257,2023-09-14,2397.89,Credit
+258,21,Female,Divorced,106731,Low,Mutual Funds,Low,68,1538141,Conservative,2581,Quarterly,Bonds,258,2023-09-15,7854.5,Credit
+259,65,Female,Married,109510,Low,Mutual Funds,High,66,975246,Balanced,2762,Annually,Bonds,259,2023-09-16,4362.75,Credit
+260,46,Male,Divorced,106638,High,Real Estate,High,59,1173631,Balanced,938,Monthly,Real Estate,260,2023-09-17,2327.99,Debit
+261,28,Female,Single,93190,High,Stocks,High,56,830427,Balanced,3994,Quarterly,Bonds,261,2023-09-18,8319.97,Debit
+262,64,Male,Divorced,56720,High,Stocks,High,57,444165,Balanced,2254,Quarterly,Bank Deposit,262,2023-09-19,3746.38,Credit
+263,60,Female,Single,87249,Low,Stocks,Low,56,784462,Balanced,4430,Annually,Stocks,263,2023-09-20,1513.96,Credit
+264,45,Male,Single,38639,Low,Bonds,Medium,62,1778046,Conservative,2179,Annually,Bank Deposit,264,2023-09-21,935.0,Debit
+265,69,Female,Divorced,115552,Low,Stocks,Medium,69,284787,Balanced,655,Quarterly,Bank Deposit,265,2023-09-22,8512.82,Credit
+266,21,Female,Single,140068,Medium,Stocks,Low,57,1427441,Conservative,2393,Monthly,Stocks,266,2023-09-23,7313.33,Credit
+267,44,Male,Single,105974,Medium,Stocks,High,60,409462,Balanced,4778,Quarterly,Bonds,267,2023-09-24,530.79,Credit
+268,24,Male,Divorced,73090,Medium,Stocks,Medium,65,1615913,Balanced,4897,Annually,Stocks,268,2023-09-25,2142.84,Debit
+269,53,Male,Single,101676,Medium,Bonds,Medium,67,1070847,Aggressive,3621,Quarterly,Stocks,269,2023-09-26,7409.59,Debit
+270,56,Female,Married,104688,Medium,Real Estate,Medium,63,1591986,Balanced,4511,Annually,Stocks,270,2023-09-27,4374.55,Credit
+271,48,Male,Single,100942,Medium,Bonds,High,57,1242865,Aggressive,4712,Annually,Bonds,271,2023-09-28,3292.62,Credit
+272,23,Female,Divorced,127989,Medium,Real Estate,High,57,539650,Aggressive,4986,Quarterly,Bank Deposit,272,2023-09-29,8800.7,Credit
+273,30,Female,Divorced,77230,Medium,Mutual Funds,Medium,60,1469163,Aggressive,3079,Quarterly,Stocks,273,2023-09-30,2529.36,Debit
+274,65,Male,Married,79142,Low,Real Estate,High,60,1927484,Aggressive,2233,Annually,Real Estate,274,2023-10-01,9191.05,Credit
+275,50,Female,Divorced,65921,High,Bonds,High,62,803076,Aggressive,2508,Monthly,Stocks,275,2023-10-02,7157.93,Credit
+276,56,Male,Single,95588,High,Mutual Funds,High,69,1000213,Aggressive,4957,Quarterly,Real Estate,276,2023-10-03,6270.18,Debit
+277,34,Female,Divorced,44007,High,Stocks,Low,55,881247,Balanced,1541,Quarterly,Real Estate,277,2023-10-04,2459.73,Credit
+278,68,Male,Divorced,55169,High,Real Estate,Low,61,957272,Balanced,4027,Quarterly,Bonds,278,2023-10-05,8703.81,Credit
+279,55,Male,Single,40015,High,Real Estate,Low,57,1639173,Conservative,581,Quarterly,Bank Deposit,279,2023-10-06,2503.19,Debit
+280,55,Female,Divorced,54460,High,Real Estate,Medium,56,468834,Aggressive,2370,Monthly,Bank Deposit,280,2023-10-07,3254.87,Debit
+281,32,Male,Married,90775,Medium,Bonds,Medium,62,818432,Aggressive,1029,Annually,Bonds,281,2023-10-08,8790.35,Debit
+282,28,Female,Single,57928,High,Stocks,Medium,62,1786653,Aggressive,1218,Monthly,Bonds,282,2023-10-09,4064.9,Credit
+283,24,Female,Married,137276,High,Mutual Funds,Low,62,260217,Balanced,2193,Monthly,Bonds,283,2023-10-10,8296.09,Debit
+284,50,Male,Single,75768,High,Mutual Funds,Low,69,1225925,Conservative,918,Annually,Bonds,284,2023-10-11,9548.75,Debit
+285,22,Female,Divorced,135563,Medium,Mutual Funds,Low,60,1575826,Aggressive,2540,Annually,Bonds,285,2023-10-12,7395.64,Credit
+286,20,Male,Single,106758,High,Real Estate,High,55,634474,Aggressive,3782,Annually,Bank Deposit,286,2023-10-13,1619.2,Credit
+287,55,Female,Single,56918,High,Stocks,Medium,58,1854901,Aggressive,1857,Annually,Bonds,287,2023-10-14,7368.33,Credit
+288,27,Male,Single,143833,High,Stocks,Low,56,1689861,Aggressive,2591,Monthly,Bank Deposit,288,2023-10-15,3235.68,Credit
+289,21,Male,Single,96707,Low,Stocks,High,58,1173364,Balanced,570,Annually,Bonds,289,2023-10-16,6924.99,Debit
+290,25,Male,Divorced,50645,High,Stocks,Medium,63,239151,Conservative,2828,Monthly,Stocks,290,2023-10-17,1863.94,Credit
+291,27,Male,Single,126899,High,Mutual Funds,Medium,59,1334350,Aggressive,3017,Quarterly,Bank Deposit,291,2023-10-18,4144.1,Credit
+292,46,Male,Divorced,136063,High,Mutual Funds,Medium,58,363837,Conservative,2581,Monthly,Bonds,292,2023-10-19,5649.88,Credit
+293,58,Male,Married,116277,High,Real Estate,High,60,1332036,Aggressive,1720,Quarterly,Bonds,293,2023-10-20,1781.28,Credit
+294,39,Male,Married,110029,Medium,Mutual Funds,Low,55,1450223,Balanced,1293,Annually,Bonds,294,2023-10-21,3768.23,Credit
+295,29,Male,Divorced,132438,High,Bonds,High,69,1284107,Balanced,601,Monthly,Real Estate,295,2023-10-22,9916.94,Credit
+296,63,Female,Divorced,68295,Low,Mutual Funds,Medium,68,508856,Aggressive,1006,Annually,Bonds,296,2023-10-23,7233.87,Credit
+297,38,Female,Married,51077,High,Real Estate,Low,56,1218116,Balanced,3594,Monthly,Bank Deposit,297,2023-10-24,2013.77,Debit
+298,21,Male,Married,38497,Low,Real Estate,Medium,58,1732387,Conservative,3196,Monthly,Bonds,298,2023-10-25,4479.14,Credit
+299,34,Female,Married,133870,Medium,Bonds,High,59,922845,Conservative,1185,Monthly,Real Estate,299,2023-10-26,3107.64,Credit
+300,55,Male,Single,34240,Low,Real Estate,High,60,1809674,Balanced,1564,Annually,Stocks,300,2023-10-27,4040.18,Debit
+301,66,Female,Married,64872,Medium,Stocks,Low,59,993781,Conservative,2525,Quarterly,Stocks,301,2023-10-28,2932.52,Debit
+302,67,Male,Single,94283,Low,Stocks,Low,57,498231,Balanced,770,Monthly,Bonds,302,2023-10-29,9324.03,Debit
+303,66,Male,Divorced,56680,Low,Mutual Funds,High,59,1476048,Conservative,1225,Monthly,Stocks,303,2023-10-30,165.33,Debit
+304,20,Male,Divorced,148355,High,Stocks,High,57,1772557,Conservative,706,Monthly,Bank Deposit,304,2023-10-31,4355.86,Credit
+305,19,Female,Married,41950,Medium,Mutual Funds,High,66,1991887,Balanced,2784,Quarterly,Bank Deposit,305,2023-11-01,5900.48,Debit
+306,28,Male,Divorced,52259,Medium,Bonds,High,64,219773,Balanced,4082,Monthly,Bank Deposit,306,2023-11-02,8555.4,Debit
+307,53,Female,Married,95242,High,Stocks,Medium,55,1167627,Conservative,2204,Quarterly,Real Estate,307,2023-11-03,6086.36,Debit
+308,29,Male,Single,58277,Medium,Mutual Funds,Medium,69,358350,Balanced,2518,Annually,Real Estate,308,2023-11-04,9847.4,Credit
+309,61,Female,Single,87260,Low,Stocks,Low,63,510426,Balanced,2603,Monthly,Bonds,309,2023-11-05,6652.41,Credit
+310,49,Female,Married,96245,Low,Real Estate,High,67,618942,Balanced,2204,Monthly,Stocks,310,2023-11-06,4944.52,Debit
+311,44,Male,Single,104318,High,Real Estate,Low,60,438842,Conservative,2304,Annually,Bonds,311,2023-11-07,7835.16,Credit
+312,47,Male,Single,135011,Low,Bonds,High,65,279092,Aggressive,4303,Monthly,Bonds,312,2023-11-08,4741.87,Debit
+313,29,Female,Divorced,47104,Medium,Mutual Funds,Medium,60,1373162,Balanced,3758,Annually,Bank Deposit,313,2023-11-09,2429.28,Debit
+314,27,Female,Single,48825,Low,Real Estate,Medium,60,926693,Balanced,2287,Quarterly,Bank Deposit,314,2023-11-10,9611.09,Debit
+315,21,Male,Married,33674,High,Mutual Funds,Low,56,532079,Conservative,3684,Quarterly,Bonds,315,2023-11-11,3776.88,Debit
+316,32,Male,Divorced,96447,Medium,Real Estate,Low,66,1927460,Aggressive,4653,Quarterly,Stocks,316,2023-11-12,347.37,Debit
+317,19,Female,Married,131824,High,Real Estate,High,64,670211,Balanced,3403,Annually,Bonds,317,2023-11-13,6355.25,Credit
+318,66,Male,Married,39701,Medium,Mutual Funds,Medium,58,242757,Aggressive,1634,Quarterly,Stocks,318,2023-11-14,8705.26,Debit
+319,45,Female,Married,64496,Low,Mutual Funds,Medium,56,1754478,Conservative,1432,Quarterly,Real Estate,319,2023-11-15,9697.19,Credit
+320,29,Female,Married,78546,Low,Mutual Funds,Medium,59,632060,Balanced,955,Annually,Stocks,320,2023-11-16,8463.45,Debit
+321,26,Male,Divorced,32038,Low,Stocks,Low,55,1394425,Aggressive,3338,Monthly,Bank Deposit,321,2023-11-17,3326.32,Debit
+322,39,Male,Divorced,101653,Medium,Mutual Funds,Medium,63,787830,Balanced,2103,Monthly,Real Estate,322,2023-11-18,2853.98,Debit
+323,64,Male,Single,74202,Medium,Mutual Funds,Medium,56,143768,Balanced,2003,Quarterly,Bonds,323,2023-11-19,6468.68,Debit
+324,57,Female,Married,138293,Medium,Real Estate,Low,67,131333,Aggressive,2158,Annually,Real Estate,324,2023-11-20,7032.57,Credit
+325,45,Female,Single,46718,Medium,Bonds,Low,68,196710,Conservative,842,Monthly,Real Estate,325,2023-11-21,2458.51,Debit
+326,58,Male,Single,49634,Low,Stocks,High,55,651569,Balanced,3485,Annually,Bonds,326,2023-11-22,1762.26,Credit
+327,57,Male,Single,128411,Low,Real Estate,Low,61,1206060,Conservative,4874,Monthly,Bank Deposit,327,2023-11-23,911.39,Credit
+328,60,Male,Married,106194,Medium,Stocks,Medium,59,168451,Balanced,4091,Quarterly,Stocks,328,2023-11-24,6034.08,Debit
+329,34,Female,Divorced,42639,Medium,Stocks,High,64,1890292,Balanced,4549,Annually,Stocks,329,2023-11-25,5030.06,Credit
+330,25,Male,Married,97304,Medium,Mutual Funds,Medium,67,583931,Conservative,2471,Monthly,Bank Deposit,330,2023-11-26,1310.63,Debit
+331,65,Male,Single,45619,Low,Real Estate,Low,62,1101599,Balanced,2048,Annually,Stocks,331,2023-11-27,3460.76,Debit
+332,58,Female,Divorced,134006,Low,Mutual Funds,Low,68,1436385,Aggressive,2893,Quarterly,Bank Deposit,332,2023-11-28,6453.02,Credit
+333,44,Female,Married,120514,Low,Mutual Funds,Medium,64,1199826,Balanced,2207,Annually,Bank Deposit,333,2023-11-29,9247.37,Debit
+334,38,Male,Single,125282,Low,Mutual Funds,High,56,1775340,Aggressive,3100,Quarterly,Bank Deposit,334,2023-11-30,8414.49,Credit
+335,25,Male,Single,116106,Low,Stocks,Low,55,1413212,Conservative,2840,Quarterly,Real Estate,335,2023-12-01,5797.39,Credit
+336,67,Male,Divorced,91912,Low,Real Estate,High,67,461513,Balanced,947,Monthly,Bank Deposit,336,2023-12-02,5733.77,Credit
+337,30,Male,Divorced,95828,Low,Mutual Funds,High,65,1605816,Conservative,1340,Quarterly,Stocks,337,2023-12-03,6264.98,Debit
+338,35,Male,Single,68496,High,Mutual Funds,High,56,669979,Aggressive,1575,Quarterly,Bank Deposit,338,2023-12-04,6719.67,Debit
+339,67,Male,Divorced,83281,Medium,Bonds,High,67,1136959,Balanced,2802,Annually,Stocks,339,2023-12-05,6149.08,Debit
+340,65,Female,Married,89257,Medium,Stocks,High,69,680583,Balanced,1034,Annually,Stocks,340,2023-12-06,7747.95,Credit
+341,20,Male,Married,114782,Medium,Mutual Funds,Medium,60,948258,Conservative,4317,Monthly,Bonds,341,2023-12-07,3217.45,Debit
+342,49,Female,Divorced,47045,High,Mutual Funds,Low,63,604394,Aggressive,4139,Annually,Real Estate,342,2023-12-08,7331.8,Credit
+343,21,Female,Married,110435,High,Real Estate,Medium,62,671659,Balanced,2622,Annually,Real Estate,343,2023-12-09,5311.34,Debit
+344,61,Female,Single,143835,Low,Bonds,High,60,1653753,Conservative,4561,Monthly,Bonds,344,2023-12-10,2958.2,Credit
+345,37,Female,Single,115834,High,Bonds,Low,57,122692,Conservative,2363,Quarterly,Bonds,345,2023-12-11,2039.54,Debit
+346,31,Male,Married,78944,High,Real Estate,Low,63,1068926,Balanced,1168,Quarterly,Bank Deposit,346,2023-12-12,799.2,Credit
+347,47,Female,Divorced,147697,High,Bonds,Low,55,1584177,Aggressive,1304,Annually,Bank Deposit,347,2023-12-13,9688.87,Credit
+348,47,Male,Married,40899,Medium,Mutual Funds,High,58,1393986,Balanced,4769,Annually,Stocks,348,2023-12-14,8832.75,Credit
+349,64,Male,Single,45073,Low,Mutual Funds,High,59,1431135,Conservative,2670,Monthly,Bank Deposit,349,2023-12-15,8676.38,Debit
+350,69,Male,Single,40263,Low,Real Estate,Medium,64,1563559,Aggressive,876,Annually,Stocks,350,2023-12-16,9022.5,Credit
+351,62,Female,Divorced,79456,Low,Mutual Funds,Medium,62,1857838,Aggressive,677,Annually,Real Estate,351,2023-12-17,4560.17,Debit
+352,34,Female,Married,44453,High,Stocks,Low,62,472353,Conservative,4851,Monthly,Stocks,352,2023-12-18,629.9,Credit
+353,28,Female,Divorced,95275,High,Mutual Funds,Medium,58,156093,Balanced,1615,Monthly,Bonds,353,2023-12-19,8022.59,Credit
+354,68,Female,Married,86571,Low,Bonds,Low,67,475452,Conservative,1552,Quarterly,Bonds,354,2023-12-20,6639.4,Debit
+355,27,Male,Single,137077,Low,Mutual Funds,High,69,895432,Balanced,1001,Annually,Bank Deposit,355,2023-12-21,2995.29,Credit
+356,60,Female,Single,135127,Low,Bonds,High,68,1290335,Balanced,2206,Quarterly,Bank Deposit,356,2023-12-22,3144.48,Credit
+357,46,Male,Divorced,45376,Low,Stocks,High,59,347064,Conservative,3979,Annually,Stocks,357,2023-12-23,4197.82,Credit
+358,64,Female,Divorced,96314,Low,Real Estate,Low,64,160594,Conservative,4079,Quarterly,Bonds,358,2023-12-24,3002.82,Credit
+359,46,Female,Single,114014,High,Real Estate,Low,69,1039723,Conservative,1766,Annually,Bank Deposit,359,2023-12-25,8050.13,Credit
+360,56,Male,Single,96363,Low,Stocks,Low,62,1884300,Balanced,4229,Annually,Bank Deposit,360,2023-12-26,3493.06,Credit
+361,60,Male,Divorced,109740,Low,Stocks,Low,62,1875922,Aggressive,3700,Annually,Bank Deposit,361,2023-12-27,4574.38,Credit
+362,23,Female,Divorced,94365,High,Bonds,High,56,368841,Conservative,3166,Quarterly,Stocks,362,2023-12-28,1606.79,Debit
+363,60,Male,Married,121134,High,Mutual Funds,Medium,65,1369339,Conservative,4633,Annually,Stocks,363,2023-12-29,4441.91,Debit
+364,22,Female,Divorced,59087,High,Stocks,Low,64,1653922,Aggressive,4241,Quarterly,Stocks,364,2023-12-30,6283.91,Debit
+365,67,Female,Single,107956,Medium,Mutual Funds,High,58,1991366,Aggressive,3972,Quarterly,Bank Deposit,365,2023-12-31,2252.12,Debit
+366,53,Female,Divorced,93015,High,Real Estate,Medium,60,1700803,Aggressive,1606,Quarterly,Stocks,366,2024-01-01,8359.84,Debit
+367,62,Female,Divorced,135707,Low,Real Estate,Low,67,1115160,Balanced,4664,Annually,Real Estate,367,2024-01-02,732.99,Credit
+368,24,Male,Divorced,149623,High,Bonds,High,63,1029308,Conservative,2895,Annually,Bank Deposit,368,2024-01-03,5076.7,Debit
+369,41,Male,Divorced,55449,High,Real Estate,High,60,1421237,Aggressive,3991,Quarterly,Stocks,369,2024-01-04,5972.83,Credit
+370,65,Male,Married,62017,High,Stocks,High,57,327706,Aggressive,3199,Monthly,Bonds,370,2024-01-05,2258.43,Debit
+371,32,Female,Divorced,64559,Medium,Real Estate,High,66,1022364,Aggressive,808,Quarterly,Bank Deposit,371,2024-01-06,9705.73,Debit
+372,51,Female,Divorced,100627,High,Bonds,Low,66,1330154,Balanced,2151,Monthly,Stocks,372,2024-01-07,6424.26,Credit
+373,64,Male,Married,94731,High,Bonds,Low,68,1344868,Balanced,918,Monthly,Stocks,373,2024-01-08,629.74,Credit
+374,42,Male,Divorced,58313,Low,Real Estate,Low,66,1418219,Balanced,1902,Monthly,Real Estate,374,2024-01-09,1606.81,Credit
+375,27,Male,Divorced,47489,Medium,Bonds,Low,68,788747,Conservative,1723,Quarterly,Stocks,375,2024-01-10,3700.01,Credit
+376,61,Female,Divorced,143851,High,Stocks,High,56,731322,Aggressive,3254,Annually,Bonds,376,2024-01-11,9565.24,Credit
+377,46,Female,Single,109533,Medium,Bonds,Medium,59,599661,Conservative,2066,Annually,Bonds,377,2024-01-12,4561.81,Credit
+378,36,Female,Single,132115,High,Real Estate,Low,67,487297,Aggressive,4565,Monthly,Bonds,378,2024-01-13,2683.85,Credit
+379,63,Female,Single,132472,Medium,Bonds,Low,68,1234400,Conservative,1285,Quarterly,Bank Deposit,379,2024-01-14,3166.47,Credit
+380,25,Male,Divorced,108264,High,Stocks,Medium,64,529525,Balanced,3944,Monthly,Real Estate,380,2024-01-15,1438.86,Debit
+381,27,Female,Married,102836,Low,Bonds,High,63,1970560,Balanced,4788,Annually,Real Estate,381,2024-01-16,8668.32,Credit
+382,47,Female,Single,93080,Low,Mutual Funds,Low,60,1488532,Conservative,2930,Quarterly,Bonds,382,2024-01-17,6579.76,Debit
+383,54,Male,Divorced,92298,Low,Bonds,High,63,367123,Aggressive,2225,Annually,Stocks,383,2024-01-18,8451.09,Credit
+384,38,Female,Divorced,133980,Medium,Mutual Funds,High,57,593720,Aggressive,3888,Quarterly,Bank Deposit,384,2024-01-19,3312.89,Credit
+385,28,Female,Divorced,106913,Low,Stocks,Medium,58,778271,Balanced,3418,Annually,Real Estate,385,2024-01-20,6141.46,Debit
+386,37,Male,Single,74633,High,Mutual Funds,Low,60,1325782,Aggressive,4389,Quarterly,Bonds,386,2024-01-21,568.08,Credit
+387,39,Male,Married,101143,Medium,Bonds,Medium,62,312525,Conservative,2638,Annually,Bank Deposit,387,2024-01-22,8248.86,Credit
+388,64,Female,Single,48052,Medium,Stocks,Low,55,1722102,Conservative,3856,Monthly,Stocks,388,2024-01-23,2823.44,Credit
+389,21,Male,Divorced,137528,High,Stocks,Medium,57,1742400,Aggressive,970,Monthly,Bonds,389,2024-01-24,2204.87,Debit
+390,32,Male,Married,117112,High,Stocks,Low,60,472125,Conservative,3449,Quarterly,Stocks,390,2024-01-25,4611.08,Debit
+391,39,Female,Divorced,49153,Medium,Mutual Funds,High,64,623471,Conservative,2465,Annually,Bank Deposit,391,2024-01-26,6824.87,Credit
+392,58,Female,Divorced,80307,Medium,Stocks,High,69,468584,Balanced,1993,Monthly,Bank Deposit,392,2024-01-27,6565.56,Credit
+393,22,Male,Single,70023,Medium,Mutual Funds,Medium,60,1977873,Balanced,3302,Monthly,Bank Deposit,393,2024-01-28,1638.53,Credit
+394,36,Male,Married,135325,High,Stocks,Medium,56,1989247,Conservative,654,Monthly,Bonds,394,2024-01-29,9504.94,Credit
+395,27,Male,Married,52295,Low,Mutual Funds,Low,58,1041987,Aggressive,2251,Monthly,Stocks,395,2024-01-30,8310.65,Debit
+396,47,Male,Married,128713,Medium,Mutual Funds,Low,68,1902444,Aggressive,4457,Quarterly,Stocks,396,2024-01-31,9435.29,Credit
+397,33,Male,Divorced,32748,Low,Stocks,High,67,320917,Conservative,3264,Quarterly,Stocks,397,2024-02-01,1729.44,Debit
+398,38,Female,Married,41318,Low,Stocks,Low,59,915709,Aggressive,3309,Annually,Real Estate,398,2024-02-02,4358.23,Credit
+399,46,Female,Single,90246,Medium,Bonds,Medium,67,313359,Conservative,4027,Quarterly,Bank Deposit,399,2024-02-03,6985.63,Credit
+400,42,Male,Divorced,52852,Low,Real Estate,Low,62,1691208,Balanced,3430,Annually,Stocks,400,2024-02-04,3140.96,Debit
+401,34,Male,Married,109701,Low,Stocks,High,62,1928955,Aggressive,1902,Annually,Real Estate,401,2024-02-05,3762.03,Credit
+402,36,Female,Divorced,32631,Medium,Mutual Funds,High,60,161571,Conservative,632,Monthly,Bank Deposit,402,2024-02-06,8560.94,Credit
+403,59,Male,Single,103038,Medium,Mutual Funds,High,68,1322369,Aggressive,4098,Annually,Bank Deposit,403,2024-02-07,9418.79,Credit
+404,25,Male,Single,50512,High,Mutual Funds,Low,68,1560179,Balanced,4828,Annually,Bank Deposit,404,2024-02-08,7332.22,Debit
+405,28,Male,Single,118213,High,Real Estate,High,67,1939633,Balanced,575,Monthly,Stocks,405,2024-02-09,4890.71,Debit
+406,40,Male,Single,147794,Medium,Bonds,Medium,67,1452433,Conservative,2264,Monthly,Bank Deposit,406,2024-02-10,4387.75,Debit
+407,67,Male,Married,119938,Medium,Real Estate,High,59,265561,Conservative,4227,Quarterly,Bonds,407,2024-02-11,1491.57,Credit
+408,41,Male,Divorced,113085,Medium,Real Estate,Medium,58,610059,Aggressive,2627,Annually,Stocks,408,2024-02-12,142.98,Debit
+409,27,Male,Married,72062,Low,Stocks,Medium,59,1087011,Aggressive,4922,Monthly,Bonds,409,2024-02-13,6702.62,Debit
+410,21,Male,Divorced,39240,Low,Mutual Funds,Medium,55,1767653,Conservative,920,Annually,Bank Deposit,410,2024-02-14,726.15,Credit
+411,29,Female,Divorced,60524,Low,Stocks,Medium,65,1043914,Aggressive,2209,Quarterly,Real Estate,411,2024-02-15,58.85,Debit
+412,61,Male,Married,63469,Medium,Real Estate,Medium,60,1012544,Conservative,1270,Monthly,Real Estate,412,2024-02-16,7534.57,Debit
+413,66,Female,Married,36864,Low,Stocks,Medium,63,402546,Aggressive,1893,Monthly,Stocks,413,2024-02-17,5224.55,Credit
+414,67,Male,Married,81915,High,Stocks,High,66,1394489,Balanced,1167,Monthly,Stocks,414,2024-02-18,800.17,Debit
+415,35,Female,Married,83831,High,Stocks,High,56,616069,Balanced,2354,Monthly,Bonds,415,2024-02-19,4849.03,Debit
+416,50,Female,Married,78256,Low,Bonds,High,60,1334871,Aggressive,4486,Quarterly,Stocks,416,2024-02-20,5874.38,Debit
+417,24,Male,Divorced,77816,High,Mutual Funds,Medium,57,850594,Conservative,4017,Quarterly,Bank Deposit,417,2024-02-21,3055.85,Credit
+418,58,Female,Married,108987,Medium,Stocks,High,59,1221645,Conservative,3510,Quarterly,Stocks,418,2024-02-22,1636.25,Debit
+419,43,Male,Divorced,31712,Medium,Real Estate,High,68,1010133,Balanced,4157,Annually,Real Estate,419,2024-02-23,3042.6,Credit
+420,64,Male,Married,136129,Medium,Real Estate,High,58,1506200,Balanced,4741,Quarterly,Bonds,420,2024-02-24,471.55,Credit
+421,41,Female,Single,110733,Low,Real Estate,Medium,65,958768,Aggressive,4213,Monthly,Real Estate,421,2024-02-25,9983.99,Debit
+422,50,Male,Married,116513,Low,Real Estate,High,55,644566,Conservative,3976,Annually,Bonds,422,2024-02-26,526.12,Credit
+423,57,Female,Single,94844,Low,Bonds,Low,66,1128668,Balanced,1351,Quarterly,Bank Deposit,423,2024-02-27,6951.48,Debit
+424,52,Female,Married,42527,Low,Mutual Funds,High,64,834952,Conservative,2228,Monthly,Bonds,424,2024-02-28,6030.73,Debit
+425,19,Female,Married,38718,High,Bonds,High,57,646934,Aggressive,2222,Quarterly,Real Estate,425,2024-02-29,5737.08,Debit
+426,63,Female,Married,30876,Low,Mutual Funds,Medium,58,795798,Balanced,1031,Annually,Real Estate,426,2024-03-01,9098.67,Credit
+427,49,Female,Divorced,109130,Medium,Real Estate,Low,61,1692106,Balanced,2444,Annually,Stocks,427,2024-03-02,2027.53,Debit
+428,34,Female,Divorced,30907,Medium,Mutual Funds,Medium,65,904609,Conservative,3878,Monthly,Real Estate,428,2024-03-03,8767.05,Credit
+429,54,Male,Married,103676,Low,Real Estate,High,69,417975,Aggressive,3103,Annually,Bonds,429,2024-03-04,8167.09,Debit
+430,45,Male,Single,132950,High,Stocks,Medium,65,1251351,Conservative,1568,Annually,Stocks,430,2024-03-05,4388.45,Debit
+431,43,Male,Married,40701,High,Bonds,Medium,69,648063,Aggressive,878,Annually,Bank Deposit,431,2024-03-06,553.62,Debit
+432,48,Female,Divorced,135450,Medium,Real Estate,Medium,66,262048,Aggressive,4530,Quarterly,Bank Deposit,432,2024-03-07,397.89,Credit
+433,21,Female,Divorced,106348,Low,Stocks,High,63,1632516,Aggressive,3871,Quarterly,Real Estate,433,2024-03-08,9547.47,Credit
+434,44,Male,Single,102688,Low,Mutual Funds,Medium,68,1467374,Aggressive,1766,Quarterly,Real Estate,434,2024-03-09,6845.16,Credit
+435,24,Male,Divorced,133287,Medium,Mutual Funds,High,62,514113,Balanced,1661,Annually,Bonds,435,2024-03-10,5628.49,Debit
+436,46,Female,Married,106644,Low,Mutual Funds,Medium,57,789509,Aggressive,3221,Monthly,Stocks,436,2024-03-11,2349.49,Credit
+437,38,Male,Divorced,132792,Low,Bonds,Medium,60,709435,Aggressive,1531,Quarterly,Bonds,437,2024-03-12,8975.46,Debit
+438,31,Male,Divorced,128395,Medium,Mutual Funds,Low,67,884995,Aggressive,3181,Monthly,Real Estate,438,2024-03-13,394.24,Credit
+439,32,Female,Married,79185,High,Bonds,Low,56,1073663,Balanced,719,Quarterly,Real Estate,439,2024-03-14,1981.61,Credit
+440,22,Male,Divorced,81009,Low,Real Estate,Low,56,1420125,Balanced,2036,Quarterly,Real Estate,440,2024-03-15,7635.86,Credit
+441,66,Female,Single,48318,High,Stocks,Low,58,732863,Aggressive,1191,Monthly,Stocks,441,2024-03-16,1153.78,Debit
+442,51,Female,Single,107265,Medium,Mutual Funds,Low,61,1354640,Conservative,2795,Annually,Bank Deposit,442,2024-03-17,2668.75,Debit
+443,19,Female,Married,89591,Low,Bonds,Medium,61,445075,Balanced,3044,Annually,Bonds,443,2024-03-18,3817.18,Credit
+444,47,Male,Married,95034,Medium,Stocks,Medium,64,1163514,Aggressive,2901,Quarterly,Real Estate,444,2024-03-19,5466.17,Debit
+445,57,Male,Divorced,115985,Medium,Stocks,High,55,1802847,Aggressive,715,Quarterly,Real Estate,445,2024-03-20,120.77,Debit
+446,69,Female,Divorced,149270,Low,Stocks,Medium,68,496987,Balanced,3988,Annually,Stocks,446,2024-03-21,2143.08,Credit
+447,67,Male,Single,30784,Low,Stocks,High,67,237754,Conservative,2976,Quarterly,Bank Deposit,447,2024-03-22,7317.82,Debit
+448,26,Male,Married,81662,Low,Real Estate,Low,69,468081,Balanced,942,Monthly,Bonds,448,2024-03-23,4346.44,Credit
+449,23,Female,Married,111182,High,Real Estate,Medium,65,233631,Aggressive,4589,Annually,Bonds,449,2024-03-24,1754.99,Debit
+450,20,Male,Single,47790,Low,Bonds,Medium,62,1426227,Balanced,4347,Annually,Bonds,450,2024-03-25,2499.67,Credit
+451,31,Male,Divorced,74868,Medium,Bonds,Medium,68,1754741,Conservative,2260,Quarterly,Real Estate,451,2024-03-26,6617.95,Debit
+452,30,Male,Divorced,46579,Medium,Bonds,High,62,561227,Balanced,2394,Quarterly,Bonds,452,2024-03-27,6487.47,Credit
+453,23,Female,Married,85829,High,Stocks,Low,68,1002249,Conservative,1056,Quarterly,Bonds,453,2024-03-28,1968.96,Credit
+454,40,Male,Married,89834,Medium,Stocks,Low,61,553471,Conservative,2260,Quarterly,Bank Deposit,454,2024-03-29,3791.66,Credit
+455,56,Female,Single,142703,Low,Real Estate,Medium,66,1502981,Aggressive,2036,Monthly,Real Estate,455,2024-03-30,3719.98,Debit
+456,32,Male,Single,121654,Low,Real Estate,Low,64,281351,Conservative,2617,Annually,Bank Deposit,456,2024-03-31,2628.18,Debit
+457,48,Male,Single,135095,Medium,Real Estate,Low,69,233511,Conservative,4284,Monthly,Stocks,457,2024-04-01,6892.4,Credit
+458,44,Male,Married,68278,Low,Stocks,Medium,59,500934,Conservative,816,Monthly,Bank Deposit,458,2024-04-02,6144.4,Credit
+459,47,Male,Divorced,66526,Low,Mutual Funds,Low,62,445705,Conservative,4623,Monthly,Real Estate,459,2024-04-03,5835.28,Debit
+460,65,Male,Married,95107,Medium,Real Estate,High,67,334808,Conservative,4973,Quarterly,Stocks,460,2024-04-04,5238.46,Debit
+461,24,Female,Divorced,66134,Medium,Real Estate,Medium,66,1360134,Aggressive,1184,Monthly,Real Estate,461,2024-04-05,5518.46,Debit
+462,60,Male,Divorced,92835,Low,Stocks,Low,55,1536744,Conservative,3205,Monthly,Bonds,462,2024-04-06,3755.53,Debit
+463,65,Male,Divorced,84076,High,Real Estate,Medium,59,134377,Conservative,4906,Annually,Stocks,463,2024-04-07,9968.55,Debit
+464,19,Female,Divorced,71063,Low,Mutual Funds,Low,69,1770208,Conservative,1848,Annually,Bonds,464,2024-04-08,3362.21,Credit
+465,25,Male,Divorced,54739,Low,Stocks,High,67,857338,Aggressive,1311,Quarterly,Real Estate,465,2024-04-09,6267.58,Credit
+466,24,Female,Single,47462,High,Stocks,Medium,56,805496,Conservative,4217,Monthly,Bank Deposit,466,2024-04-10,6582.08,Debit
+467,60,Female,Divorced,45365,High,Bonds,Medium,62,388979,Balanced,2426,Monthly,Real Estate,467,2024-04-11,927.71,Debit
+468,63,Female,Married,42395,Low,Bonds,Low,60,531532,Balanced,2287,Quarterly,Stocks,468,2024-04-12,7839.19,Debit
+469,33,Male,Single,51175,Medium,Mutual Funds,High,58,275959,Conservative,2045,Monthly,Stocks,469,2024-04-13,4171.86,Credit
+470,39,Male,Single,143460,High,Real Estate,Medium,66,1941456,Balanced,3436,Annually,Bank Deposit,470,2024-04-14,4229.31,Credit
+471,39,Female,Divorced,111187,Medium,Mutual Funds,Low,66,1618925,Aggressive,1767,Quarterly,Real Estate,471,2024-04-15,8508.25,Credit
+472,47,Female,Married,85397,Low,Bonds,High,65,525308,Balanced,4323,Quarterly,Real Estate,472,2024-04-16,2704.69,Credit
+473,38,Female,Married,72352,Medium,Stocks,Medium,68,948659,Conservative,2183,Annually,Stocks,473,2024-04-17,2394.51,Debit
+474,41,Male,Single,47402,High,Real Estate,High,56,1381105,Conservative,816,Monthly,Bonds,474,2024-04-18,565.11,Credit
+475,19,Female,Married,107180,Medium,Bonds,Low,60,840428,Conservative,2852,Quarterly,Bonds,475,2024-04-19,6074.51,Debit
+476,23,Male,Single,136184,Low,Bonds,Low,55,1279567,Conservative,2639,Quarterly,Stocks,476,2024-04-20,6503.04,Credit
+477,66,Female,Divorced,118367,Medium,Mutual Funds,High,68,1636808,Balanced,3059,Quarterly,Stocks,477,2024-04-21,1960.66,Debit
+478,43,Male,Married,64799,Low,Bonds,Low,62,792783,Aggressive,2940,Monthly,Stocks,478,2024-04-22,3502.31,Debit
+479,42,Female,Divorced,34974,High,Bonds,Medium,55,701408,Conservative,4272,Monthly,Bank Deposit,479,2024-04-23,3919.28,Debit
+480,25,Male,Married,55620,Low,Mutual Funds,Medium,61,176802,Aggressive,4045,Annually,Bank Deposit,480,2024-04-24,8847.22,Credit
+481,34,Female,Married,51160,High,Stocks,Low,55,1949657,Conservative,3428,Quarterly,Stocks,481,2024-04-25,8036.03,Credit
+482,18,Female,Divorced,96898,High,Stocks,Medium,61,661247,Balanced,2429,Quarterly,Stocks,482,2024-04-26,4068.81,Debit
+483,65,Female,Single,102815,Medium,Mutual Funds,Medium,61,393179,Aggressive,4719,Monthly,Real Estate,483,2024-04-27,3990.31,Credit
+484,27,Female,Divorced,67753,Medium,Bonds,High,66,1124241,Balanced,4566,Annually,Real Estate,484,2024-04-28,7255.5,Credit
+485,67,Female,Single,97459,High,Real Estate,Medium,59,529299,Aggressive,4611,Monthly,Bank Deposit,485,2024-04-29,6879.06,Debit
+486,42,Male,Divorced,33475,High,Real Estate,High,56,1748525,Balanced,4362,Quarterly,Stocks,486,2024-04-30,811.63,Credit
+487,30,Female,Married,67052,High,Mutual Funds,Medium,60,1090024,Conservative,1150,Annually,Stocks,487,2024-05-01,3053.14,Debit
+488,47,Female,Single,122514,High,Mutual Funds,Low,62,1029283,Aggressive,749,Quarterly,Real Estate,488,2024-05-02,4077.93,Debit
+489,44,Male,Married,124626,Low,Real Estate,Medium,66,1612969,Aggressive,2295,Monthly,Stocks,489,2024-05-03,4418.43,Debit
+490,50,Male,Single,128452,Low,Mutual Funds,Medium,55,1786998,Aggressive,1180,Quarterly,Bonds,490,2024-05-04,2216.54,Credit
+491,31,Female,Divorced,149684,High,Mutual Funds,High,61,709450,Conservative,2317,Monthly,Real Estate,491,2024-05-05,4470.83,Debit
+492,48,Male,Divorced,35146,Medium,Real Estate,High,59,1366788,Balanced,3699,Monthly,Bonds,492,2024-05-06,1287.18,Debit
+493,35,Female,Married,94509,Medium,Bonds,Low,59,791197,Conservative,2396,Monthly,Bonds,493,2024-05-07,7804.69,Credit
+494,30,Female,Married,103893,Medium,Mutual Funds,High,63,416392,Aggressive,3497,Annually,Real Estate,494,2024-05-08,5418.81,Debit
+495,53,Male,Divorced,57203,High,Real Estate,Low,66,525036,Aggressive,3412,Quarterly,Stocks,495,2024-05-09,3248.23,Credit
+496,51,Male,Married,71730,Medium,Bonds,Medium,63,1351971,Aggressive,3589,Quarterly,Bonds,496,2024-05-10,8234.93,Debit
+497,41,Female,Divorced,106510,High,Stocks,Low,62,251603,Aggressive,778,Annually,Real Estate,497,2024-05-11,9077.89,Credit
+498,68,Male,Married,70620,Medium,Bonds,Low,64,913964,Conservative,1509,Monthly,Bank Deposit,498,2024-05-12,9793.37,Credit
+499,68,Female,Married,50391,High,Real Estate,High,56,1819311,Balanced,3654,Annually,Real Estate,499,2024-05-13,1883.83,Debit
+500,53,Female,Married,121516,High,Stocks,High,60,1083758,Aggressive,2559,Annually,Stocks,500,2024-05-14,9950.37,Debit
+501,35,Male,Married,126532,High,Bonds,Low,65,1201345,Balanced,3158,Monthly,Bank Deposit,501,2024-05-15,8496.24,Credit
+502,60,Male,Single,95322,High,Bonds,Medium,55,1348799,Aggressive,1633,Annually,Real Estate,502,2024-05-16,2723.97,Debit
+503,69,Male,Married,116703,Low,Mutual Funds,High,64,1090258,Aggressive,3897,Quarterly,Stocks,503,2024-05-17,3750.03,Debit
+504,21,Female,Married,52482,High,Mutual Funds,Medium,61,1599760,Aggressive,2794,Quarterly,Stocks,504,2024-05-18,6372.41,Credit
+505,28,Female,Single,118267,Low,Bonds,Low,64,778207,Aggressive,3516,Annually,Stocks,505,2024-05-19,5467.62,Debit
+506,26,Male,Single,55687,Medium,Mutual Funds,Medium,56,1845044,Aggressive,1979,Monthly,Real Estate,506,2024-05-20,3215.11,Debit
+507,49,Male,Divorced,111980,Low,Stocks,Medium,58,1246991,Conservative,515,Quarterly,Bonds,507,2024-05-21,6816.31,Credit
+508,67,Male,Married,34844,Low,Mutual Funds,Medium,58,1374599,Aggressive,2798,Quarterly,Bonds,508,2024-05-22,1274.85,Debit
+509,56,Male,Married,141150,Medium,Real Estate,Medium,69,639601,Balanced,4840,Monthly,Bank Deposit,509,2024-05-23,8599.18,Debit
+510,60,Male,Single,138527,Medium,Mutual Funds,High,65,1069967,Aggressive,4832,Annually,Bonds,510,2024-05-24,5490.56,Credit
+511,63,Male,Married,116311,High,Mutual Funds,Medium,61,1388326,Balanced,969,Annually,Bonds,511,2024-05-25,3833.96,Credit
+512,69,Female,Divorced,101887,High,Real Estate,Low,64,1838854,Aggressive,2934,Monthly,Real Estate,512,2024-05-26,1055.51,Debit
+513,24,Female,Single,51512,High,Real Estate,High,55,1553566,Balanced,3308,Annually,Real Estate,513,2024-05-27,6635.9,Debit
+514,18,Male,Divorced,64583,Medium,Real Estate,Low,61,1279136,Balanced,4549,Quarterly,Bank Deposit,514,2024-05-28,1549.72,Debit
+515,22,Male,Married,95744,High,Mutual Funds,High,63,592481,Aggressive,1885,Quarterly,Bank Deposit,515,2024-05-29,3028.96,Debit
+516,40,Male,Divorced,54687,Low,Bonds,Medium,63,375541,Balanced,3939,Quarterly,Bonds,516,2024-05-30,4841.81,Credit
+517,38,Male,Single,104772,Medium,Stocks,Medium,67,1323581,Aggressive,3176,Monthly,Bonds,517,2024-05-31,6136.35,Credit
+518,63,Female,Divorced,76556,High,Bonds,Low,67,1946876,Conservative,1217,Quarterly,Bonds,518,2024-06-01,5352.3,Credit
+519,50,Female,Single,123048,Medium,Mutual Funds,Medium,65,1142687,Aggressive,2923,Annually,Real Estate,519,2024-06-02,4220.45,Credit
+520,69,Male,Married,77885,Low,Mutual Funds,Medium,61,250702,Conservative,1427,Quarterly,Bank Deposit,520,2024-06-03,2360.07,Debit
+521,19,Male,Divorced,66700,Medium,Stocks,Low,56,995046,Conservative,3730,Annually,Real Estate,521,2024-06-04,6280.06,Credit
+522,61,Male,Divorced,51078,High,Stocks,Medium,57,562802,Balanced,3364,Annually,Real Estate,522,2024-06-05,9234.6,Credit
+523,67,Female,Single,138851,High,Real Estate,High,55,1127116,Conservative,1880,Quarterly,Bonds,523,2024-06-06,1781.53,Credit
+524,49,Male,Married,99118,High,Bonds,Low,59,467608,Aggressive,4731,Monthly,Bonds,524,2024-06-07,1495.61,Debit
+525,69,Male,Single,32268,High,Bonds,Low,65,1262512,Balanced,733,Quarterly,Real Estate,525,2024-06-08,365.8,Debit
+526,64,Female,Single,49432,Low,Bonds,Medium,59,360408,Balanced,2908,Monthly,Bank Deposit,526,2024-06-09,4952.88,Debit
+527,33,Male,Divorced,84004,High,Bonds,High,55,1525559,Aggressive,1321,Annually,Stocks,527,2024-06-10,3262.85,Credit
+528,33,Female,Divorced,139534,Low,Real Estate,High,61,1747666,Conservative,944,Annually,Bank Deposit,528,2024-06-11,1054.31,Credit
+529,30,Male,Single,127772,Medium,Stocks,High,68,468829,Conservative,3166,Annually,Bonds,529,2024-06-12,2517.1,Credit
+530,52,Male,Married,81604,Medium,Real Estate,Low,61,1625877,Balanced,3538,Monthly,Stocks,530,2024-06-13,1874.75,Credit
+531,54,Female,Divorced,44826,Low,Stocks,Low,69,1674531,Balanced,1841,Annually,Bank Deposit,531,2024-06-14,6049.22,Credit
+532,49,Female,Divorced,144021,High,Bonds,High,60,556723,Balanced,1802,Quarterly,Stocks,532,2024-06-15,654.65,Credit
+533,29,Female,Single,80544,High,Mutual Funds,Medium,64,1909219,Aggressive,4770,Annually,Real Estate,533,2024-06-16,1923.97,Credit
+534,64,Male,Married,105957,Medium,Real Estate,Low,65,1449903,Conservative,1850,Quarterly,Bank Deposit,534,2024-06-17,6000.5,Debit
+535,58,Male,Divorced,118856,Medium,Real Estate,Medium,56,1971839,Aggressive,2269,Quarterly,Bonds,535,2024-06-18,5038.21,Credit
+536,34,Female,Single,142039,Medium,Real Estate,High,56,1204174,Balanced,1830,Quarterly,Bank Deposit,536,2024-06-19,2129.56,Credit
+537,38,Female,Single,35188,Low,Stocks,High,62,1993696,Balanced,4347,Quarterly,Bank Deposit,537,2024-06-20,2645.54,Debit
+538,62,Female,Divorced,121576,Low,Real Estate,Low,65,1358599,Aggressive,4231,Annually,Bank Deposit,538,2024-06-21,2414.26,Credit
+539,21,Male,Single,99077,Medium,Mutual Funds,Medium,57,782192,Aggressive,4702,Quarterly,Bank Deposit,539,2024-06-22,1094.74,Credit
+540,20,Male,Single,135490,Low,Stocks,Low,60,1108706,Aggressive,612,Quarterly,Stocks,540,2024-06-23,559.83,Debit
+541,23,Male,Married,111784,Medium,Stocks,High,59,1433845,Aggressive,4802,Monthly,Bank Deposit,541,2024-06-24,2922.73,Credit
+542,64,Female,Married,70376,High,Mutual Funds,High,62,1000596,Aggressive,1021,Annually,Bank Deposit,542,2024-06-25,1986.72,Credit
+543,64,Male,Single,78914,High,Bonds,Low,64,1359397,Balanced,4665,Quarterly,Stocks,543,2024-06-26,7085.41,Debit
+544,33,Male,Divorced,48349,Medium,Real Estate,Medium,58,1122034,Aggressive,2181,Quarterly,Stocks,544,2024-06-27,1675.65,Debit
+545,47,Male,Single,88262,Low,Real Estate,High,56,1223966,Conservative,4183,Annually,Real Estate,545,2024-06-28,9099.43,Debit
+546,39,Male,Divorced,46218,Medium,Stocks,Low,69,1072738,Aggressive,4983,Monthly,Bonds,546,2024-06-29,3264.05,Credit
+547,20,Female,Married,87604,High,Mutual Funds,Medium,57,329832,Conservative,2763,Annually,Real Estate,547,2024-06-30,3766.12,Credit
+548,29,Male,Divorced,98068,High,Stocks,High,65,442674,Aggressive,1224,Annually,Bank Deposit,548,2024-07-01,2119.93,Credit
+549,29,Female,Married,40602,Low,Real Estate,High,55,1176608,Aggressive,2781,Annually,Stocks,549,2024-07-02,4923.63,Debit
+550,35,Female,Divorced,94288,Low,Stocks,Low,62,749968,Conservative,3954,Quarterly,Stocks,550,2024-07-03,3153.67,Credit
+551,47,Male,Single,74214,Low,Stocks,Low,62,488751,Balanced,4926,Quarterly,Real Estate,551,2024-07-04,8774.23,Credit
+552,54,Male,Single,148834,Medium,Stocks,Medium,68,377021,Balanced,3150,Monthly,Bank Deposit,552,2024-07-05,5443.88,Debit
+553,68,Male,Married,119244,Medium,Stocks,Medium,63,571559,Balanced,4030,Quarterly,Bank Deposit,553,2024-07-06,208.65,Credit
+554,60,Female,Single,51634,Low,Real Estate,High,61,610121,Conservative,2316,Quarterly,Bank Deposit,554,2024-07-07,2367.79,Debit
+555,39,Male,Single,63886,High,Stocks,Medium,57,181753,Aggressive,799,Quarterly,Bank Deposit,555,2024-07-08,2186.0,Debit
+556,42,Male,Divorced,87729,Medium,Stocks,High,64,1672280,Aggressive,4782,Monthly,Bank Deposit,556,2024-07-09,3119.74,Credit
+557,40,Female,Divorced,117346,Low,Real Estate,High,62,1474500,Balanced,606,Monthly,Bank Deposit,557,2024-07-10,9730.54,Debit
+558,35,Female,Single,135460,Low,Bonds,Low,64,1454507,Balanced,3292,Quarterly,Stocks,558,2024-07-11,7114.84,Credit
+559,22,Female,Married,122772,High,Real Estate,Medium,57,1314027,Conservative,3056,Annually,Bonds,559,2024-07-12,4809.95,Debit
+560,32,Male,Single,100624,Medium,Bonds,Medium,66,1794673,Balanced,970,Monthly,Bank Deposit,560,2024-07-13,2839.62,Credit
+561,67,Female,Married,148091,Low,Mutual Funds,Low,58,741291,Aggressive,3702,Annually,Stocks,561,2024-07-14,9516.99,Debit
+562,63,Male,Married,119533,Medium,Stocks,Low,55,1009267,Aggressive,3698,Monthly,Bank Deposit,562,2024-07-15,2007.9,Credit
+563,23,Female,Divorced,32994,Low,Real Estate,Low,57,1641887,Conservative,1688,Annually,Bank Deposit,563,2024-07-16,2811.04,Debit
+564,39,Male,Married,59550,Low,Bonds,High,64,1043584,Aggressive,1744,Annually,Real Estate,564,2024-07-17,327.36,Debit
+565,39,Female,Single,95631,High,Stocks,Medium,62,164416,Balanced,2416,Quarterly,Stocks,565,2024-07-18,1488.25,Debit
+566,32,Male,Married,50135,High,Real Estate,Low,64,678125,Conservative,1476,Monthly,Stocks,566,2024-07-19,7113.14,Credit
+567,40,Male,Divorced,61454,High,Real Estate,Medium,57,1172765,Balanced,2761,Annually,Bonds,567,2024-07-20,381.94,Credit
+568,18,Female,Married,140796,Low,Mutual Funds,Medium,69,1807845,Conservative,522,Annually,Stocks,568,2024-07-21,4080.11,Debit
+569,34,Female,Divorced,120114,Medium,Mutual Funds,Low,56,689581,Balanced,1633,Annually,Bonds,569,2024-07-22,5260.29,Credit
+570,23,Female,Single,98187,Medium,Real Estate,Low,68,901326,Balanced,4409,Quarterly,Real Estate,570,2024-07-23,7154.83,Credit
+571,66,Female,Divorced,88646,High,Mutual Funds,High,69,645705,Balanced,958,Monthly,Bank Deposit,571,2024-07-24,5623.44,Credit
+572,36,Male,Divorced,44530,Low,Mutual Funds,High,55,1073640,Balanced,4123,Monthly,Bonds,572,2024-07-25,5986.0,Debit
+573,64,Female,Divorced,84779,Low,Mutual Funds,High,65,1060439,Balanced,4388,Monthly,Bonds,573,2024-07-26,6517.7,Debit
+574,68,Female,Married,124992,High,Stocks,Low,66,1555631,Aggressive,4929,Quarterly,Bank Deposit,574,2024-07-27,8891.34,Credit
+575,56,Male,Married,49043,Medium,Real Estate,High,68,1839791,Aggressive,906,Quarterly,Bank Deposit,575,2024-07-28,3884.15,Credit
+576,43,Male,Married,31645,High,Bonds,High,55,949710,Conservative,1053,Annually,Bank Deposit,576,2024-07-29,8631.89,Debit
+577,27,Male,Single,34528,High,Stocks,High,62,1553247,Balanced,2790,Quarterly,Bonds,577,2024-07-30,9470.79,Credit
+578,19,Male,Married,51271,Medium,Mutual Funds,Medium,65,1546077,Aggressive,4935,Quarterly,Stocks,578,2024-07-31,1842.5,Credit
+579,32,Male,Single,144539,Low,Mutual Funds,High,62,1436235,Balanced,2389,Monthly,Bank Deposit,579,2024-08-01,5012.21,Debit
+580,44,Male,Single,34698,Low,Bonds,Medium,68,702218,Conservative,1958,Monthly,Stocks,580,2024-08-02,401.96,Debit
+581,19,Male,Married,64039,High,Stocks,Low,66,147816,Aggressive,3391,Annually,Bonds,581,2024-08-03,3602.36,Credit
+582,19,Male,Single,79109,High,Mutual Funds,Low,68,283537,Conservative,4004,Annually,Real Estate,582,2024-08-04,9141.57,Credit
+583,25,Male,Married,125849,Low,Stocks,Low,63,1193720,Aggressive,1975,Annually,Real Estate,583,2024-08-05,8612.29,Debit
+584,57,Male,Married,56349,Medium,Stocks,Medium,69,1817976,Balanced,3168,Annually,Stocks,584,2024-08-06,877.65,Credit
+585,33,Female,Married,34990,Low,Mutual Funds,Low,59,145802,Conservative,1522,Annually,Real Estate,585,2024-08-07,8681.49,Credit
+586,40,Male,Married,101916,Medium,Bonds,High,62,1455439,Aggressive,4696,Monthly,Bank Deposit,586,2024-08-08,6081.31,Credit
+587,18,Female,Married,107243,Low,Mutual Funds,Low,58,1901903,Aggressive,1131,Quarterly,Bonds,587,2024-08-09,600.02,Debit
+588,62,Female,Divorced,77657,High,Stocks,Low,59,1697024,Aggressive,2530,Quarterly,Bonds,588,2024-08-10,2144.77,Credit
+589,51,Male,Single,58206,Low,Real Estate,Medium,61,1788698,Balanced,2567,Monthly,Real Estate,589,2024-08-11,7883.77,Credit
+590,40,Female,Single,100857,Medium,Stocks,High,66,1750778,Balanced,2906,Quarterly,Real Estate,590,2024-08-12,3296.17,Debit
+591,52,Male,Single,65019,High,Mutual Funds,Medium,55,1706631,Conservative,2704,Annually,Real Estate,591,2024-08-13,9738.33,Debit
+592,55,Female,Divorced,93628,Medium,Stocks,Medium,67,1569996,Conservative,3280,Annually,Bonds,592,2024-08-14,5250.84,Debit
+593,38,Female,Married,46248,High,Mutual Funds,High,57,926732,Aggressive,3162,Monthly,Stocks,593,2024-08-15,2918.81,Debit
+594,61,Female,Single,148353,High,Stocks,Medium,69,529724,Aggressive,1948,Quarterly,Bonds,594,2024-08-16,2527.05,Debit
+595,54,Male,Divorced,63619,Medium,Bonds,Medium,58,928665,Balanced,1804,Quarterly,Stocks,595,2024-08-17,691.22,Credit
+596,53,Female,Married,57625,Low,Stocks,Medium,59,1214692,Balanced,1586,Quarterly,Bank Deposit,596,2024-08-18,2942.99,Credit
+597,49,Male,Single,128421,High,Mutual Funds,High,57,514318,Balanced,4491,Monthly,Real Estate,597,2024-08-19,8557.51,Debit
+598,49,Male,Married,136144,Medium,Bonds,Medium,56,359065,Aggressive,4606,Annually,Stocks,598,2024-08-20,1934.04,Credit
+599,42,Female,Single,66810,Medium,Mutual Funds,Low,64,1756756,Aggressive,4313,Monthly,Bank Deposit,599,2024-08-21,5636.16,Credit
+600,42,Male,Divorced,106759,Low,Stocks,Low,67,1173332,Aggressive,4344,Quarterly,Bank Deposit,600,2024-08-22,5388.62,Credit
+601,25,Male,Divorced,48078,High,Real Estate,Low,55,1257224,Balanced,2411,Monthly,Bank Deposit,601,2024-08-23,4466.31,Credit
+602,57,Male,Single,149891,Medium,Mutual Funds,Medium,61,1585466,Aggressive,1221,Monthly,Bank Deposit,602,2024-08-24,4529.4,Credit
+603,53,Female,Married,58577,Low,Mutual Funds,Medium,63,1283535,Conservative,2220,Quarterly,Stocks,603,2024-08-25,5718.5,Credit
+604,38,Female,Divorced,71436,Low,Real Estate,Medium,56,1767014,Balanced,3902,Monthly,Bank Deposit,604,2024-08-26,4483.99,Credit
+605,69,Male,Divorced,141981,Medium,Real Estate,High,69,1033419,Aggressive,4498,Monthly,Bonds,605,2024-08-27,9913.51,Debit
+606,26,Female,Divorced,99888,High,Real Estate,Low,63,1102023,Balanced,3203,Annually,Bonds,606,2024-08-28,2437.9,Debit
+607,41,Male,Married,81726,Low,Real Estate,Medium,64,1567788,Conservative,4444,Quarterly,Real Estate,607,2024-08-29,1477.42,Credit
+608,44,Female,Divorced,64338,Medium,Real Estate,High,57,776030,Aggressive,4604,Quarterly,Bonds,608,2024-08-30,2501.32,Credit
+609,18,Female,Single,42832,High,Stocks,Medium,56,320784,Aggressive,2495,Monthly,Bank Deposit,609,2024-08-31,2846.74,Credit
+610,21,Male,Married,96248,High,Real Estate,High,68,803867,Aggressive,3081,Annually,Bonds,610,2024-09-01,6817.88,Debit
+611,54,Female,Married,52128,Low,Real Estate,Low,64,1512803,Conservative,812,Quarterly,Bonds,611,2024-09-02,60.97,Credit
+612,62,Female,Single,122099,Low,Real Estate,High,62,1752786,Balanced,3354,Monthly,Stocks,612,2024-09-03,243.39,Credit
+613,44,Female,Divorced,91406,Medium,Real Estate,Low,66,655108,Conservative,1801,Quarterly,Bonds,613,2024-09-04,8822.29,Debit
+614,44,Male,Divorced,133096,Medium,Stocks,Low,62,1711176,Aggressive,2602,Quarterly,Bank Deposit,614,2024-09-05,5507.93,Debit
+615,52,Female,Divorced,88128,High,Mutual Funds,High,67,285758,Conservative,2465,Monthly,Stocks,615,2024-09-06,3202.02,Debit
+616,35,Female,Single,69478,Low,Bonds,Medium,56,1711905,Balanced,1887,Quarterly,Real Estate,616,2024-09-07,6076.34,Debit
+617,52,Male,Divorced,118115,High,Mutual Funds,High,58,1070901,Conservative,3799,Quarterly,Real Estate,617,2024-09-08,3036.92,Credit
+618,32,Male,Married,99004,Low,Real Estate,Low,60,185807,Balanced,2110,Quarterly,Real Estate,618,2024-09-09,1145.66,Debit
+619,36,Female,Married,64466,Low,Stocks,Low,61,1976860,Aggressive,4103,Annually,Real Estate,619,2024-09-10,4576.19,Debit
+620,19,Female,Single,81168,High,Real Estate,Medium,61,1255407,Balanced,3886,Quarterly,Bank Deposit,620,2024-09-11,8325.23,Debit
+621,56,Male,Married,85091,High,Bonds,Medium,69,674478,Balanced,4496,Annually,Stocks,621,2024-09-12,780.73,Credit
+622,51,Female,Divorced,78921,High,Mutual Funds,Medium,66,199731,Balanced,1651,Annually,Bank Deposit,622,2024-09-13,4499.93,Credit
+623,29,Female,Divorced,118926,Low,Bonds,Medium,64,102912,Conservative,4524,Quarterly,Real Estate,623,2024-09-14,1324.64,Credit
+624,23,Female,Divorced,54253,Medium,Stocks,Low,64,1789924,Balanced,1000,Monthly,Real Estate,624,2024-09-15,5706.75,Credit
+625,22,Female,Single,39805,Low,Bonds,High,68,712648,Aggressive,2656,Annually,Real Estate,625,2024-09-16,1067.28,Debit
+626,58,Male,Married,82133,High,Mutual Funds,High,63,722763,Balanced,1237,Quarterly,Real Estate,626,2024-09-17,2997.12,Credit
+627,30,Female,Single,129097,Medium,Bonds,Low,66,1351648,Aggressive,1487,Annually,Bank Deposit,627,2024-09-18,7173.71,Credit
+628,35,Male,Married,32220,Medium,Mutual Funds,Medium,68,347657,Aggressive,2419,Annually,Bank Deposit,628,2024-09-19,2592.35,Credit
+629,66,Male,Divorced,115896,High,Bonds,Medium,65,1213154,Aggressive,4630,Annually,Real Estate,629,2024-09-20,5202.73,Debit
+630,48,Male,Single,31695,Low,Stocks,High,68,1138737,Balanced,1060,Monthly,Stocks,630,2024-09-21,7109.55,Debit
+631,39,Female,Divorced,42763,High,Stocks,High,69,1618027,Balanced,917,Monthly,Stocks,631,2024-09-22,6117.59,Credit
+632,32,Male,Single,31909,Low,Bonds,Medium,57,1015349,Aggressive,3093,Quarterly,Bonds,632,2024-09-23,3294.81,Credit
+633,31,Female,Married,120639,Medium,Stocks,High,62,821561,Aggressive,2520,Monthly,Bank Deposit,633,2024-09-24,1135.13,Credit
+634,69,Male,Married,52612,Low,Real Estate,High,58,1664124,Conservative,2309,Quarterly,Bank Deposit,634,2024-09-25,539.72,Credit
+635,25,Male,Single,105936,Low,Real Estate,Medium,60,1290450,Conservative,1440,Annually,Real Estate,635,2024-09-26,8526.18,Credit
+636,32,Female,Divorced,103352,Low,Bonds,Low,55,895256,Balanced,4334,Monthly,Stocks,636,2024-09-27,8465.09,Debit
+637,32,Female,Divorced,118581,High,Mutual Funds,High,65,1863278,Conservative,4037,Annually,Bank Deposit,637,2024-09-28,6029.53,Credit
+638,67,Male,Divorced,30794,High,Real Estate,Low,69,1380843,Balanced,2043,Annually,Real Estate,638,2024-09-29,466.17,Credit
+639,24,Male,Single,142817,High,Real Estate,High,65,1446799,Conservative,1119,Quarterly,Stocks,639,2024-09-30,3458.67,Credit
+640,27,Male,Single,33551,Medium,Mutual Funds,High,56,1103953,Conservative,697,Quarterly,Real Estate,640,2024-10-01,1045.7,Credit
+641,64,Female,Divorced,110133,Low,Bonds,Medium,61,1952374,Conservative,2051,Monthly,Stocks,641,2024-10-02,9790.97,Credit
+642,59,Female,Married,88186,Medium,Real Estate,High,57,822056,Balanced,3586,Annually,Bonds,642,2024-10-03,2878.91,Credit
+643,46,Male,Single,59695,Medium,Real Estate,Medium,68,1266983,Conservative,1725,Monthly,Real Estate,643,2024-10-04,7307.09,Credit
+644,59,Female,Single,92132,Low,Bonds,Medium,59,1847907,Conservative,3316,Quarterly,Bonds,644,2024-10-05,5975.2,Credit
+645,53,Male,Married,132449,High,Mutual Funds,Low,64,188877,Aggressive,3211,Annually,Real Estate,645,2024-10-06,8584.39,Debit
+646,63,Male,Single,36481,Low,Stocks,Medium,66,1617056,Balanced,1501,Annually,Bank Deposit,646,2024-10-07,7156.65,Debit
+647,61,Female,Single,89702,Low,Bonds,Medium,62,1083123,Conservative,928,Quarterly,Bonds,647,2024-10-08,2343.96,Debit
+648,66,Male,Divorced,99440,Low,Real Estate,High,58,786551,Balanced,3010,Annually,Stocks,648,2024-10-09,3823.88,Debit
+649,66,Female,Single,77408,Low,Real Estate,Medium,69,961115,Conservative,1221,Monthly,Stocks,649,2024-10-10,796.14,Debit
+650,56,Male,Single,125430,High,Real Estate,Medium,68,1817466,Aggressive,4945,Quarterly,Stocks,650,2024-10-11,3940.97,Credit
+651,33,Male,Single,55990,High,Mutual Funds,Medium,59,1707309,Aggressive,4237,Quarterly,Real Estate,651,2024-10-12,5576.53,Credit
+652,43,Female,Married,125253,Medium,Real Estate,High,61,730159,Aggressive,2458,Quarterly,Bank Deposit,652,2024-10-13,7850.27,Credit
+653,69,Male,Single,129873,Low,Bonds,Medium,62,776396,Balanced,4916,Quarterly,Real Estate,653,2024-10-14,8150.64,Credit
+654,22,Female,Married,75247,Low,Real Estate,Medium,57,1701955,Balanced,1723,Annually,Bonds,654,2024-10-15,3647.27,Credit
+655,27,Male,Single,89367,Low,Bonds,High,65,470936,Aggressive,1821,Monthly,Stocks,655,2024-10-16,1105.9,Credit
+656,36,Female,Divorced,110891,High,Stocks,High,61,1854681,Aggressive,1476,Monthly,Real Estate,656,2024-10-17,4539.76,Debit
+657,20,Male,Divorced,87698,Medium,Bonds,High,59,1818833,Aggressive,1190,Monthly,Bonds,657,2024-10-18,9706.49,Debit
+658,53,Male,Married,131975,High,Stocks,Low,65,1143216,Conservative,3389,Monthly,Bonds,658,2024-10-19,9538.82,Debit
+659,42,Male,Married,31660,Medium,Mutual Funds,Low,67,156304,Aggressive,3413,Monthly,Real Estate,659,2024-10-20,7404.9,Credit
+660,55,Male,Single,142110,Medium,Mutual Funds,High,63,1564157,Aggressive,1343,Annually,Bank Deposit,660,2024-10-21,6671.44,Debit
+661,18,Male,Divorced,118823,High,Mutual Funds,High,58,1467868,Balanced,3815,Monthly,Bonds,661,2024-10-22,7632.14,Credit
+662,24,Female,Divorced,121198,Medium,Real Estate,Medium,69,1801291,Balanced,1036,Monthly,Bonds,662,2024-10-23,77.75,Debit
+663,42,Male,Single,131946,Medium,Mutual Funds,High,55,1507997,Balanced,739,Quarterly,Bonds,663,2024-10-24,8151.94,Debit
+664,28,Male,Divorced,58147,Medium,Real Estate,High,56,1929569,Aggressive,2906,Quarterly,Real Estate,664,2024-10-25,367.43,Credit
+665,36,Male,Divorced,79931,High,Bonds,High,59,1912809,Conservative,851,Monthly,Stocks,665,2024-10-26,572.44,Credit
+666,51,Female,Married,144768,Medium,Bonds,Medium,65,599692,Aggressive,4704,Annually,Bonds,666,2024-10-27,2388.12,Debit
+667,24,Female,Divorced,120779,High,Bonds,Low,58,1532539,Balanced,2903,Annually,Bank Deposit,667,2024-10-28,1727.71,Credit
+668,65,Male,Married,123467,High,Stocks,Medium,56,1316645,Conservative,1024,Monthly,Stocks,668,2024-10-29,4126.77,Debit
+669,27,Female,Single,96378,Low,Stocks,High,66,1327145,Aggressive,1814,Annually,Real Estate,669,2024-10-30,2157.63,Credit
+670,36,Female,Single,74060,Low,Real Estate,Low,58,1818575,Aggressive,555,Annually,Bonds,670,2024-10-31,4823.38,Debit
+671,45,Female,Married,109011,Low,Bonds,Low,67,1054671,Balanced,2753,Annually,Bonds,671,2024-11-01,4489.1,Debit
+672,56,Male,Single,61612,High,Real Estate,High,64,1925883,Balanced,4581,Monthly,Bank Deposit,672,2024-11-02,1401.27,Credit
+673,45,Female,Married,63132,Medium,Stocks,Low,61,850546,Aggressive,2634,Quarterly,Real Estate,673,2024-11-03,3174.26,Credit
+674,32,Male,Single,130554,Low,Stocks,Medium,68,1925810,Balanced,2325,Monthly,Bank Deposit,674,2024-11-04,7639.4,Debit
+675,65,Male,Single,44850,Medium,Mutual Funds,Medium,67,972330,Conservative,2943,Quarterly,Bank Deposit,675,2024-11-05,4319.34,Debit
+676,40,Female,Married,116129,Medium,Mutual Funds,Medium,65,455486,Balanced,1072,Annually,Real Estate,676,2024-11-06,8558.85,Debit
+677,44,Male,Divorced,76554,High,Mutual Funds,Medium,58,1841401,Conservative,2990,Quarterly,Bonds,677,2024-11-07,3290.16,Credit
+678,25,Male,Divorced,45744,Medium,Stocks,Low,68,413044,Balanced,1442,Quarterly,Bonds,678,2024-11-08,7260.01,Credit
+679,20,Female,Married,132610,Low,Stocks,Low,56,910568,Conservative,2383,Annually,Bonds,679,2024-11-09,5079.42,Credit
+680,52,Female,Married,126733,High,Stocks,Low,55,1443329,Conservative,1285,Annually,Bank Deposit,680,2024-11-10,6766.41,Debit
+681,64,Female,Single,71892,Low,Real Estate,Medium,69,1346023,Aggressive,1418,Quarterly,Stocks,681,2024-11-11,6871.01,Credit
+682,68,Female,Single,109407,High,Real Estate,Low,66,896530,Conservative,1360,Annually,Bank Deposit,682,2024-11-12,1866.48,Credit
+683,60,Male,Married,38516,Low,Stocks,High,55,1594805,Balanced,2320,Annually,Bonds,683,2024-11-13,7509.4,Credit
+684,32,Female,Divorced,52130,Low,Real Estate,Medium,57,759160,Aggressive,4344,Quarterly,Stocks,684,2024-11-14,528.97,Credit
+685,23,Female,Single,101627,Medium,Mutual Funds,Medium,60,730346,Aggressive,1674,Quarterly,Bonds,685,2024-11-15,6203.54,Debit
+686,34,Male,Married,94787,Low,Stocks,Low,67,1018695,Balanced,1104,Quarterly,Bank Deposit,686,2024-11-16,4582.97,Debit
+687,59,Male,Divorced,104876,Medium,Stocks,Low,62,1974266,Conservative,3054,Quarterly,Stocks,687,2024-11-17,3502.35,Debit
+688,29,Female,Married,102692,Medium,Real Estate,Medium,64,164937,Balanced,2011,Monthly,Bank Deposit,688,2024-11-18,1518.87,Debit
+689,64,Male,Single,103876,High,Bonds,Medium,56,1982726,Balanced,651,Quarterly,Stocks,689,2024-11-19,7635.86,Debit
+690,50,Male,Divorced,139157,Low,Real Estate,High,66,650383,Balanced,955,Monthly,Bank Deposit,690,2024-11-20,5800.93,Credit
+691,50,Male,Married,136398,High,Bonds,Medium,56,592753,Conservative,2679,Monthly,Bank Deposit,691,2024-11-21,2577.79,Debit
+692,54,Female,Married,132971,Medium,Real Estate,High,57,1893457,Conservative,887,Quarterly,Bonds,692,2024-11-22,1556.22,Debit
+693,41,Female,Single,37614,Low,Real Estate,Low,59,1208744,Aggressive,4652,Monthly,Stocks,693,2024-11-23,8652.71,Credit
+694,64,Female,Married,118223,Low,Stocks,Medium,66,1700494,Balanced,4294,Monthly,Bonds,694,2024-11-24,6017.24,Credit
+695,57,Female,Single,87007,High,Mutual Funds,Low,62,303268,Conservative,3140,Quarterly,Bonds,695,2024-11-25,6343.08,Debit
+696,38,Male,Single,32510,Low,Mutual Funds,Medium,57,551015,Balanced,4749,Annually,Real Estate,696,2024-11-26,8308.54,Credit
+697,63,Female,Married,132277,High,Bonds,High,62,926573,Balanced,1385,Annually,Real Estate,697,2024-11-27,2776.81,Credit
+698,45,Female,Single,69772,High,Mutual Funds,High,63,1580762,Conservative,3259,Monthly,Real Estate,698,2024-11-28,9221.53,Credit
+699,45,Female,Divorced,85435,Medium,Mutual Funds,Medium,55,1502692,Aggressive,2710,Quarterly,Real Estate,699,2024-11-29,6442.21,Debit
+700,18,Male,Divorced,89112,Medium,Bonds,Low,68,127325,Balanced,1513,Monthly,Bank Deposit,700,2024-11-30,4993.03,Credit
+701,41,Female,Divorced,130581,Low,Stocks,High,63,1964244,Balanced,3829,Monthly,Bonds,701,2024-12-01,8744.08,Credit
+702,42,Female,Single,140814,Medium,Mutual Funds,Low,56,1540341,Balanced,4338,Annually,Real Estate,702,2024-12-02,50.91,Credit
+703,38,Male,Married,47889,Low,Mutual Funds,High,59,1488874,Aggressive,570,Monthly,Bank Deposit,703,2024-12-03,4346.47,Credit
+704,19,Male,Divorced,149917,Medium,Stocks,Medium,66,672482,Conservative,1310,Annually,Bonds,704,2024-12-04,7592.92,Credit
+705,37,Female,Married,140290,High,Mutual Funds,Low,61,537358,Conservative,3986,Annually,Stocks,705,2024-12-05,2839.07,Credit
+706,33,Female,Divorced,91127,Low,Stocks,High,69,1226874,Conservative,2238,Monthly,Bank Deposit,706,2024-12-06,7315.33,Credit
+707,32,Female,Divorced,33136,Low,Mutual Funds,Low,55,170841,Aggressive,1570,Quarterly,Bonds,707,2024-12-07,8497.06,Credit
+708,23,Female,Married,146759,Medium,Stocks,High,65,1716872,Aggressive,3125,Annually,Bank Deposit,708,2024-12-08,2299.18,Debit
+709,37,Male,Divorced,110340,High,Real Estate,Low,66,311581,Balanced,1194,Monthly,Bank Deposit,709,2024-12-09,6426.49,Debit
+710,41,Female,Single,41085,Medium,Stocks,High,62,1967745,Conservative,2305,Quarterly,Real Estate,710,2024-12-10,390.81,Credit
+711,39,Male,Married,41699,Low,Mutual Funds,High,58,577256,Balanced,3097,Annually,Stocks,711,2024-12-11,1167.44,Debit
+712,66,Female,Single,114969,Low,Stocks,Low,58,429501,Aggressive,4288,Monthly,Bank Deposit,712,2024-12-12,3269.62,Credit
+713,53,Female,Divorced,62032,Medium,Bonds,Medium,68,845075,Balanced,3971,Quarterly,Real Estate,713,2024-12-13,8579.19,Credit
+714,52,Female,Married,87107,Medium,Stocks,Low,69,1446712,Conservative,911,Monthly,Stocks,714,2024-12-14,7795.99,Debit
+715,26,Male,Divorced,68928,Low,Bonds,Medium,67,213362,Aggressive,1294,Annually,Stocks,715,2024-12-15,5028.18,Credit
+716,52,Female,Married,109942,Medium,Stocks,Medium,68,1020428,Aggressive,3783,Annually,Bonds,716,2024-12-16,5545.0,Credit
+717,57,Female,Married,120989,High,Real Estate,Low,66,894938,Balanced,3790,Quarterly,Real Estate,717,2024-12-17,3260.11,Credit
+718,36,Female,Single,98347,Medium,Bonds,Low,68,341764,Aggressive,2202,Monthly,Real Estate,718,2024-12-18,6575.8,Debit
+719,33,Male,Divorced,69820,High,Stocks,Medium,56,525183,Balanced,558,Quarterly,Stocks,719,2024-12-19,8136.8,Debit
+720,40,Female,Single,86915,Low,Real Estate,High,65,1719317,Balanced,568,Quarterly,Bank Deposit,720,2024-12-20,2523.57,Credit
+721,36,Female,Divorced,37237,High,Bonds,Medium,64,208654,Aggressive,3186,Monthly,Real Estate,721,2024-12-21,1020.61,Credit
+722,19,Female,Married,108444,Low,Stocks,Low,68,506365,Aggressive,668,Annually,Stocks,722,2024-12-22,9319.69,Debit
+723,28,Male,Single,43186,Medium,Real Estate,Medium,63,1496354,Aggressive,1447,Monthly,Bank Deposit,723,2024-12-23,3068.47,Credit
+724,23,Male,Married,91193,Low,Stocks,High,57,424354,Conservative,645,Annually,Real Estate,724,2024-12-24,4914.89,Credit
+725,44,Female,Single,70279,Medium,Bonds,Low,62,1487220,Aggressive,4492,Monthly,Bonds,725,2024-12-25,6468.33,Debit
+726,63,Male,Single,37469,High,Real Estate,Low,61,652367,Balanced,4964,Annually,Stocks,726,2024-12-26,8615.93,Credit
+727,28,Female,Married,42295,High,Mutual Funds,High,67,1566974,Aggressive,4378,Quarterly,Real Estate,727,2024-12-27,1715.27,Credit
+728,40,Female,Divorced,66828,Low,Stocks,High,62,1119699,Aggressive,1993,Quarterly,Bank Deposit,728,2024-12-28,8160.82,Debit
+729,26,Female,Divorced,137868,High,Real Estate,Low,64,699043,Conservative,2171,Annually,Bank Deposit,729,2024-12-29,4433.52,Credit
+730,69,Female,Single,49807,Medium,Mutual Funds,High,61,1753496,Balanced,2881,Annually,Bank Deposit,730,2024-12-30,2245.08,Credit
+731,45,Female,Single,119192,High,Real Estate,Low,57,280306,Aggressive,3615,Quarterly,Bank Deposit,731,2024-12-31,9120.49,Credit
+732,38,Female,Divorced,84039,High,Mutual Funds,High,58,1167169,Conservative,4158,Annually,Stocks,732,2025-01-01,3429.54,Credit
+733,45,Female,Married,38518,Medium,Bonds,High,59,1877063,Balanced,4488,Monthly,Stocks,733,2025-01-02,396.76,Credit
+734,66,Male,Divorced,67349,Medium,Real Estate,Low,61,1849905,Aggressive,4462,Quarterly,Stocks,734,2025-01-03,909.29,Debit
+735,30,Male,Single,148367,Low,Real Estate,High,62,1087531,Aggressive,789,Annually,Real Estate,735,2025-01-04,8934.54,Credit
+736,36,Male,Married,52894,Medium,Real Estate,High,56,782328,Aggressive,2606,Quarterly,Bank Deposit,736,2025-01-05,1200.82,Credit
+737,53,Male,Single,32942,High,Stocks,Low,59,513005,Balanced,1658,Quarterly,Bank Deposit,737,2025-01-06,3879.19,Credit
+738,68,Male,Divorced,112537,Medium,Stocks,Medium,65,668431,Aggressive,4018,Monthly,Stocks,738,2025-01-07,3918.37,Credit
+739,50,Male,Married,90721,Medium,Real Estate,Medium,58,1216924,Aggressive,1290,Monthly,Real Estate,739,2025-01-08,7988.25,Debit
+740,21,Male,Divorced,86217,High,Stocks,Low,65,257866,Balanced,2644,Annually,Bonds,740,2025-01-09,2884.11,Debit
+741,34,Male,Single,51591,High,Bonds,Low,65,1636557,Conservative,2850,Quarterly,Real Estate,741,2025-01-10,671.52,Debit
+742,44,Female,Single,115567,Medium,Bonds,High,58,396660,Aggressive,4301,Quarterly,Real Estate,742,2025-01-11,8806.54,Debit
+743,31,Female,Divorced,87070,High,Bonds,Low,65,629995,Aggressive,2278,Annually,Stocks,743,2025-01-12,7287.5,Credit
+744,57,Female,Married,116440,Low,Stocks,Low,59,1193579,Aggressive,4425,Annually,Bonds,744,2025-01-13,1630.81,Credit
+745,19,Male,Divorced,144763,Low,Bonds,High,64,1162451,Aggressive,3194,Quarterly,Stocks,745,2025-01-14,4273.52,Debit
+746,34,Female,Single,58923,Medium,Stocks,High,66,1550868,Balanced,3345,Monthly,Real Estate,746,2025-01-15,1934.11,Debit
+747,25,Female,Single,87284,Low,Bonds,High,63,768801,Conservative,1815,Quarterly,Real Estate,747,2025-01-16,9203.03,Debit
+748,41,Female,Married,88960,High,Mutual Funds,Low,67,1795881,Aggressive,568,Annually,Bonds,748,2025-01-17,5687.57,Debit
+749,21,Male,Married,92622,High,Mutual Funds,Medium,63,1275382,Aggressive,3613,Monthly,Stocks,749,2025-01-18,7742.78,Credit
+750,58,Male,Single,74670,Low,Bonds,Medium,68,821358,Conservative,4568,Quarterly,Bank Deposit,750,2025-01-19,1974.28,Debit
+751,61,Male,Divorced,72507,Low,Bonds,Medium,68,712960,Conservative,2863,Annually,Bonds,751,2025-01-20,5694.32,Credit
+752,20,Female,Married,141210,Low,Mutual Funds,Low,57,718154,Conservative,776,Quarterly,Real Estate,752,2025-01-21,8530.12,Credit
+753,47,Male,Single,52715,Medium,Stocks,High,63,519620,Aggressive,1778,Annually,Bank Deposit,753,2025-01-22,6650.22,Credit
+754,38,Male,Married,57505,Medium,Real Estate,Medium,57,1739379,Balanced,4564,Quarterly,Stocks,754,2025-01-23,3443.52,Credit
+755,57,Male,Married,125667,Medium,Stocks,High,58,542059,Aggressive,572,Monthly,Bank Deposit,755,2025-01-24,8546.42,Credit
+756,39,Male,Married,49402,Medium,Mutual Funds,Low,66,743901,Conservative,671,Quarterly,Bank Deposit,756,2025-01-25,6273.03,Debit
+757,28,Female,Single,103816,Medium,Mutual Funds,Low,64,1726361,Conservative,3699,Quarterly,Stocks,757,2025-01-26,2457.11,Credit
+758,40,Male,Married,114502,Medium,Real Estate,Low,56,848674,Aggressive,1843,Monthly,Stocks,758,2025-01-27,4221.7,Credit
+759,68,Female,Married,41359,Low,Stocks,Low,55,1409700,Aggressive,1450,Quarterly,Stocks,759,2025-01-28,3550.83,Credit
+760,19,Male,Divorced,62269,Medium,Mutual Funds,High,60,815840,Conservative,2181,Monthly,Stocks,760,2025-01-29,3763.85,Credit
+761,45,Male,Married,143655,High,Mutual Funds,Medium,65,495207,Aggressive,1714,Annually,Bank Deposit,761,2025-01-30,407.71,Debit
+762,29,Male,Single,80114,High,Real Estate,Medium,67,1632368,Conservative,2164,Monthly,Real Estate,762,2025-01-31,1656.72,Credit
+763,61,Male,Married,100261,High,Stocks,Low,63,1258790,Aggressive,1567,Quarterly,Real Estate,763,2025-02-01,5808.93,Credit
+764,33,Male,Single,75065,Medium,Bonds,High,64,1539458,Aggressive,2028,Annually,Bank Deposit,764,2025-02-02,7453.51,Credit
+765,31,Male,Single,130735,High,Mutual Funds,High,62,895398,Aggressive,4603,Monthly,Real Estate,765,2025-02-03,9772.99,Credit
+766,36,Male,Married,80106,Medium,Mutual Funds,Medium,68,1061019,Aggressive,3604,Quarterly,Stocks,766,2025-02-04,4936.71,Credit
+767,37,Female,Single,106146,Low,Bonds,High,58,1283928,Balanced,4657,Annually,Real Estate,767,2025-02-05,4124.42,Debit
+768,66,Male,Divorced,141049,Medium,Real Estate,High,59,451128,Aggressive,2811,Monthly,Bonds,768,2025-02-06,1660.81,Debit
+769,41,Male,Single,112149,Low,Bonds,Medium,62,1318517,Conservative,784,Monthly,Bonds,769,2025-02-07,5722.97,Debit
+770,26,Male,Married,33908,Low,Stocks,High,62,1545511,Balanced,992,Quarterly,Bank Deposit,770,2025-02-08,5918.86,Credit
+771,53,Female,Married,52051,Low,Real Estate,Low,69,457522,Aggressive,1986,Monthly,Bonds,771,2025-02-09,4156.55,Debit
+772,18,Male,Married,127386,Low,Mutual Funds,Medium,60,371040,Conservative,1746,Annually,Bonds,772,2025-02-10,1910.87,Credit
+773,32,Male,Married,58457,Medium,Mutual Funds,High,65,381242,Conservative,3270,Monthly,Bonds,773,2025-02-11,7108.91,Credit
+774,59,Female,Divorced,117358,High,Real Estate,High,55,357265,Conservative,4592,Quarterly,Real Estate,774,2025-02-12,2108.74,Debit
+775,60,Male,Single,90733,Low,Stocks,Low,68,1870174,Balanced,1488,Monthly,Stocks,775,2025-02-13,5306.83,Debit
+776,35,Male,Married,50630,High,Mutual Funds,Medium,67,1562688,Balanced,2984,Annually,Stocks,776,2025-02-14,6563.79,Debit
+777,54,Female,Divorced,74141,Low,Stocks,Low,58,1474518,Aggressive,1866,Quarterly,Stocks,777,2025-02-15,2195.0,Debit
+778,46,Male,Divorced,117696,Low,Mutual Funds,High,64,513370,Balanced,999,Annually,Bonds,778,2025-02-16,555.24,Debit
+779,60,Female,Single,82296,Low,Bonds,High,58,1692370,Balanced,2649,Annually,Bonds,779,2025-02-17,8008.31,Credit
+780,62,Female,Married,73021,Low,Bonds,Medium,55,760220,Conservative,1332,Quarterly,Bank Deposit,780,2025-02-18,6767.16,Debit
+781,46,Female,Divorced,39006,High,Stocks,Low,65,1714298,Aggressive,2644,Monthly,Stocks,781,2025-02-19,3279.25,Credit
+782,35,Male,Divorced,125624,Low,Real Estate,Medium,62,718323,Conservative,2894,Quarterly,Bonds,782,2025-02-20,4790.32,Credit
+783,69,Male,Married,136427,Medium,Bonds,Low,62,1323976,Balanced,1091,Annually,Stocks,783,2025-02-21,7046.26,Credit
+784,26,Male,Married,71283,Low,Stocks,Medium,69,816355,Aggressive,4494,Monthly,Bonds,784,2025-02-22,9818.28,Credit
+785,52,Male,Married,116327,Medium,Real Estate,Low,67,1663535,Conservative,2096,Annually,Stocks,785,2025-02-23,527.89,Credit
+786,36,Female,Single,34742,Low,Stocks,Low,62,479916,Balanced,4139,Quarterly,Bonds,786,2025-02-24,4745.42,Debit
+787,65,Female,Divorced,80997,Medium,Mutual Funds,Low,55,1004296,Aggressive,3985,Annually,Bonds,787,2025-02-25,4915.96,Debit
+788,42,Male,Single,97877,Medium,Stocks,High,61,198942,Conservative,879,Annually,Real Estate,788,2025-02-26,5242.78,Debit
+789,47,Female,Divorced,68075,Medium,Mutual Funds,High,63,1164818,Aggressive,1062,Quarterly,Bonds,789,2025-02-27,4954.23,Credit
+790,66,Male,Married,109466,Medium,Real Estate,Low,55,1650943,Conservative,3257,Quarterly,Bank Deposit,790,2025-02-28,5283.59,Credit
+791,23,Female,Married,136594,Medium,Bonds,Low,57,1960264,Conservative,1932,Quarterly,Real Estate,791,2025-03-01,9081.35,Debit
+792,55,Male,Divorced,117131,High,Stocks,High,68,202623,Aggressive,4547,Annually,Bank Deposit,792,2025-03-02,3010.55,Credit
+793,32,Female,Divorced,63006,Medium,Mutual Funds,Medium,59,865571,Aggressive,2169,Monthly,Stocks,793,2025-03-03,1881.0,Credit
+794,57,Male,Divorced,76473,Medium,Bonds,Medium,60,150845,Aggressive,2445,Monthly,Real Estate,794,2025-03-04,5821.93,Credit
+795,35,Female,Married,106364,High,Bonds,Low,63,873501,Conservative,4798,Annually,Stocks,795,2025-03-05,1511.38,Credit
+796,21,Male,Married,49000,Medium,Real Estate,Medium,58,877573,Aggressive,3096,Monthly,Stocks,796,2025-03-06,634.98,Credit
+797,28,Female,Divorced,97113,Medium,Stocks,Low,60,405613,Conservative,1743,Monthly,Stocks,797,2025-03-07,9850.85,Credit
+798,42,Female,Divorced,70767,Low,Stocks,Medium,59,328208,Balanced,4526,Monthly,Real Estate,798,2025-03-08,6039.36,Debit
+799,52,Male,Single,48976,Medium,Stocks,Medium,55,1532067,Conservative,787,Quarterly,Bank Deposit,799,2025-03-09,5638.35,Debit
+800,38,Female,Divorced,50368,Medium,Mutual Funds,High,64,295391,Balanced,677,Quarterly,Bonds,800,2025-03-10,3983.54,Debit
+801,56,Female,Single,91270,Low,Stocks,High,61,1834989,Conservative,2748,Quarterly,Stocks,801,2025-03-11,8866.7,Debit
+802,27,Female,Married,76810,Low,Stocks,Low,55,1394719,Aggressive,1701,Annually,Bank Deposit,802,2025-03-12,988.0,Debit
+803,52,Female,Divorced,97546,Low,Bonds,Medium,60,473486,Aggressive,4617,Quarterly,Bank Deposit,803,2025-03-13,2712.23,Credit
+804,23,Male,Married,63071,Medium,Mutual Funds,Low,65,1517133,Conservative,4430,Monthly,Bonds,804,2025-03-14,3360.55,Debit
+805,51,Female,Married,36872,Low,Bonds,Medium,61,431956,Conservative,2900,Quarterly,Bank Deposit,805,2025-03-15,2389.12,Credit
+806,68,Female,Single,49581,Medium,Bonds,Low,69,1113668,Conservative,3626,Annually,Bonds,806,2025-03-16,7417.61,Credit
+807,57,Female,Single,89322,Low,Stocks,High,69,1961329,Conservative,4220,Quarterly,Bank Deposit,807,2025-03-17,1781.81,Debit
+808,65,Female,Married,148113,High,Mutual Funds,Low,60,252699,Balanced,3361,Annually,Real Estate,808,2025-03-18,3073.79,Credit
+809,25,Female,Divorced,39452,Medium,Mutual Funds,Low,57,922978,Conservative,4393,Quarterly,Stocks,809,2025-03-19,2162.07,Debit
+810,43,Male,Married,63706,Low,Real Estate,Medium,68,523690,Balanced,3785,Quarterly,Bank Deposit,810,2025-03-20,8559.83,Credit
+811,18,Male,Married,110387,High,Bonds,Low,64,1407240,Conservative,2594,Quarterly,Bank Deposit,811,2025-03-21,5439.85,Debit
+812,68,Male,Married,110781,High,Mutual Funds,High,55,1170577,Aggressive,2855,Annually,Bank Deposit,812,2025-03-22,6661.67,Debit
+813,55,Male,Married,126652,Medium,Stocks,Medium,68,1597947,Aggressive,988,Monthly,Bank Deposit,813,2025-03-23,8775.85,Debit
+814,53,Male,Divorced,136205,Low,Bonds,High,67,393428,Conservative,3067,Monthly,Bank Deposit,814,2025-03-24,4609.25,Debit
+815,30,Female,Divorced,86945,High,Bonds,Low,56,450774,Balanced,1534,Annually,Real Estate,815,2025-03-25,5143.73,Credit
+816,19,Male,Single,68952,Medium,Stocks,Low,57,1825575,Conservative,3733,Quarterly,Bonds,816,2025-03-26,7467.03,Credit
+817,29,Female,Married,97757,Medium,Bonds,High,58,995635,Conservative,1539,Annually,Real Estate,817,2025-03-27,9090.62,Credit
+818,42,Male,Divorced,120054,Low,Stocks,High,64,392491,Balanced,4009,Annually,Bonds,818,2025-03-28,7080.86,Debit
+819,64,Male,Divorced,102343,Medium,Stocks,Low,65,404936,Aggressive,4677,Quarterly,Bank Deposit,819,2025-03-29,7985.72,Debit
+820,26,Male,Divorced,138349,Low,Mutual Funds,Medium,56,1022430,Balanced,758,Monthly,Bonds,820,2025-03-30,8345.23,Credit
+821,26,Male,Single,115593,Low,Mutual Funds,Low,67,1102323,Conservative,1985,Quarterly,Bank Deposit,821,2025-03-31,1899.64,Credit
+822,53,Male,Single,111423,High,Bonds,Low,57,558283,Balanced,2884,Annually,Bank Deposit,822,2025-04-01,8816.89,Debit
+823,62,Female,Married,129666,High,Stocks,Low,60,604792,Conservative,1553,Quarterly,Bank Deposit,823,2025-04-02,2353.4,Credit
+824,59,Female,Divorced,47443,Medium,Stocks,Medium,58,1069064,Aggressive,2742,Monthly,Stocks,824,2025-04-03,600.33,Debit
+825,49,Male,Divorced,99081,Medium,Bonds,Medium,65,881848,Conservative,4847,Monthly,Bonds,825,2025-04-04,7590.05,Debit
+826,63,Male,Single,78245,High,Mutual Funds,High,63,1568910,Conservative,1011,Monthly,Bank Deposit,826,2025-04-05,9370.42,Debit
+827,34,Male,Married,68085,Low,Real Estate,High,60,258893,Aggressive,1713,Annually,Bonds,827,2025-04-06,6573.66,Credit
+828,55,Male,Single,35078,High,Real Estate,Medium,58,1011379,Conservative,3767,Quarterly,Real Estate,828,2025-04-07,6266.86,Debit
+829,58,Female,Divorced,92276,Low,Real Estate,Low,65,1915728,Conservative,2664,Quarterly,Real Estate,829,2025-04-08,8254.43,Debit
+830,69,Male,Single,46861,Low,Stocks,Low,67,1588894,Aggressive,2815,Monthly,Real Estate,830,2025-04-09,4279.13,Credit
+831,42,Male,Single,66761,Medium,Real Estate,High,68,1513834,Balanced,1082,Monthly,Stocks,831,2025-04-10,8315.11,Debit
+832,68,Female,Married,76821,High,Mutual Funds,Medium,68,1196496,Balanced,1981,Annually,Bonds,832,2025-04-11,5904.63,Debit
+833,51,Female,Married,121790,High,Stocks,Medium,62,1292201,Balanced,3417,Quarterly,Bonds,833,2025-04-12,4142.92,Credit
+834,19,Female,Single,101213,Low,Bonds,High,55,1913501,Conservative,4078,Quarterly,Stocks,834,2025-04-13,7250.15,Debit
+835,42,Female,Married,133501,Low,Bonds,High,57,1093326,Balanced,3521,Annually,Bonds,835,2025-04-14,4342.01,Debit
+836,61,Female,Married,133895,High,Bonds,High,61,1318173,Aggressive,4941,Quarterly,Real Estate,836,2025-04-15,7879.26,Credit
+837,56,Male,Married,91779,Medium,Real Estate,High,57,1638445,Balanced,3341,Quarterly,Real Estate,837,2025-04-16,5028.3,Credit
+838,35,Female,Married,53464,High,Mutual Funds,Medium,59,496459,Balanced,4496,Annually,Real Estate,838,2025-04-17,8492.55,Debit
+839,57,Male,Single,72323,Low,Stocks,High,55,911175,Aggressive,3708,Quarterly,Stocks,839,2025-04-18,9860.98,Credit
+840,18,Male,Single,55379,High,Mutual Funds,Low,58,536124,Balanced,3167,Annually,Bank Deposit,840,2025-04-19,3187.45,Debit
+841,21,Male,Married,134207,Medium,Real Estate,Medium,56,588824,Balanced,3623,Annually,Real Estate,841,2025-04-20,1186.04,Credit
+842,30,Female,Married,134048,Low,Real Estate,High,64,983355,Balanced,4917,Quarterly,Real Estate,842,2025-04-21,4537.73,Debit
+843,60,Male,Married,62121,Medium,Mutual Funds,High,68,331772,Conservative,3398,Annually,Bonds,843,2025-04-22,495.42,Debit
+844,42,Female,Single,123598,Medium,Mutual Funds,Medium,59,478714,Conservative,3062,Quarterly,Real Estate,844,2025-04-23,7771.4,Credit
+845,43,Female,Married,75467,High,Stocks,Low,63,853253,Conservative,2552,Quarterly,Bank Deposit,845,2025-04-24,9013.44,Debit
+846,69,Male,Single,85492,Medium,Stocks,High,65,312079,Balanced,2101,Monthly,Real Estate,846,2025-04-25,9339.13,Debit
+847,33,Female,Married,79383,Medium,Mutual Funds,High,63,472872,Conservative,962,Monthly,Real Estate,847,2025-04-26,7436.52,Debit
+848,54,Female,Married,128711,Medium,Mutual Funds,Medium,58,926621,Balanced,4250,Monthly,Bonds,848,2025-04-27,5683.4,Credit
+849,45,Male,Married,69993,High,Stocks,Low,62,795447,Aggressive,2341,Quarterly,Stocks,849,2025-04-28,5320.56,Credit
+850,51,Female,Married,117653,Medium,Stocks,Medium,69,354141,Conservative,3978,Quarterly,Stocks,850,2025-04-29,9369.36,Credit
+851,39,Female,Married,109193,Medium,Real Estate,Medium,55,884446,Conservative,4912,Quarterly,Real Estate,851,2025-04-30,6096.79,Debit
+852,27,Male,Divorced,87768,Medium,Mutual Funds,Medium,67,217804,Balanced,1596,Annually,Bank Deposit,852,2025-05-01,2069.89,Debit
+853,30,Male,Single,30672,High,Bonds,Low,59,748636,Conservative,2235,Monthly,Bank Deposit,853,2025-05-02,7411.89,Credit
+854,48,Male,Single,144765,Medium,Stocks,Low,61,287691,Aggressive,4242,Annually,Real Estate,854,2025-05-03,385.54,Credit
+855,54,Male,Divorced,130430,Medium,Real Estate,Low,55,1714706,Balanced,3160,Quarterly,Bonds,855,2025-05-04,1659.19,Debit
+856,61,Female,Divorced,38276,High,Mutual Funds,Low,61,1431053,Conservative,3634,Annually,Stocks,856,2025-05-05,8458.6,Debit
+857,55,Female,Divorced,79605,Low,Bonds,High,57,1041379,Conservative,1348,Monthly,Real Estate,857,2025-05-06,9911.73,Debit
+858,48,Male,Married,37169,Low,Stocks,High,55,393177,Aggressive,4656,Monthly,Real Estate,858,2025-05-07,4728.57,Debit
+859,58,Female,Divorced,129809,Medium,Bonds,Medium,57,1827707,Conservative,1699,Annually,Stocks,859,2025-05-08,2187.58,Credit
+860,52,Female,Married,47258,Low,Real Estate,High,56,199033,Balanced,3363,Monthly,Stocks,860,2025-05-09,5537.89,Debit
+861,63,Female,Divorced,102678,High,Real Estate,High,67,1113376,Aggressive,4663,Annually,Bonds,861,2025-05-10,7084.17,Debit
+862,21,Male,Divorced,86080,High,Bonds,Medium,67,1272386,Conservative,3499,Quarterly,Stocks,862,2025-05-11,3200.12,Debit
+863,32,Male,Married,83306,Medium,Stocks,Low,67,943824,Aggressive,4137,Quarterly,Real Estate,863,2025-05-12,7826.39,Debit
+864,40,Male,Single,114509,Medium,Real Estate,High,59,1213753,Aggressive,2137,Monthly,Bonds,864,2025-05-13,9607.61,Debit
+865,27,Male,Married,123301,High,Bonds,Medium,69,345580,Aggressive,2777,Annually,Real Estate,865,2025-05-14,9880.22,Debit
+866,46,Female,Divorced,127620,High,Bonds,Low,67,569891,Aggressive,525,Monthly,Real Estate,866,2025-05-15,7228.98,Credit
+867,31,Female,Married,70723,Medium,Mutual Funds,Medium,61,656025,Balanced,4053,Quarterly,Bonds,867,2025-05-16,8438.03,Credit
+868,39,Male,Single,87224,Medium,Bonds,High,57,1001082,Aggressive,4946,Quarterly,Stocks,868,2025-05-17,5318.87,Credit
+869,23,Female,Single,49011,High,Real Estate,Medium,62,1259193,Aggressive,3994,Quarterly,Bank Deposit,869,2025-05-18,2751.17,Debit
+870,31,Male,Single,123718,Medium,Real Estate,Low,68,1253814,Balanced,3398,Quarterly,Stocks,870,2025-05-19,7246.24,Credit
+871,51,Female,Married,47810,Medium,Stocks,High,60,1998640,Conservative,2927,Quarterly,Bank Deposit,871,2025-05-20,3791.17,Credit
+872,39,Male,Single,143704,Low,Bonds,High,58,1105180,Aggressive,3339,Annually,Bonds,872,2025-05-21,1425.54,Debit
+873,30,Male,Divorced,116658,Medium,Bonds,Low,56,691986,Aggressive,4210,Monthly,Stocks,873,2025-05-22,3569.19,Credit
+874,33,Male,Married,127420,Low,Mutual Funds,Medium,59,534627,Balanced,3263,Annually,Bank Deposit,874,2025-05-23,8355.86,Debit
+875,39,Male,Divorced,134688,Low,Bonds,Medium,62,586091,Conservative,4555,Monthly,Real Estate,875,2025-05-24,3498.12,Credit
+876,22,Female,Single,148856,Low,Mutual Funds,Medium,56,625381,Balanced,4722,Annually,Bank Deposit,876,2025-05-25,1310.49,Credit
+877,30,Female,Single,66199,Medium,Mutual Funds,Low,64,310521,Balanced,1815,Quarterly,Bonds,877,2025-05-26,5352.46,Credit
+878,22,Male,Married,71725,Low,Real Estate,Medium,61,1567271,Balanced,2082,Quarterly,Bank Deposit,878,2025-05-27,6325.7,Credit
+879,67,Male,Married,91727,High,Bonds,Low,62,1322628,Conservative,793,Monthly,Bank Deposit,879,2025-05-28,2769.97,Credit
+880,22,Female,Divorced,114589,Medium,Real Estate,Low,56,1838116,Aggressive,2031,Monthly,Bonds,880,2025-05-29,4128.13,Credit
+881,56,Male,Married,126644,Medium,Real Estate,High,62,1796002,Balanced,1512,Monthly,Real Estate,881,2025-05-30,8343.25,Credit
+882,48,Male,Married,77686,Medium,Stocks,High,58,1280225,Balanced,4107,Quarterly,Real Estate,882,2025-05-31,5378.95,Debit
+883,27,Male,Married,48656,Low,Bonds,Medium,59,826501,Balanced,4883,Quarterly,Stocks,883,2025-06-01,3024.89,Credit
+884,30,Male,Single,97574,Medium,Mutual Funds,Low,64,1964408,Aggressive,4754,Quarterly,Bank Deposit,884,2025-06-02,1117.52,Credit
+885,55,Female,Divorced,88789,Low,Bonds,Medium,66,748239,Conservative,1954,Monthly,Real Estate,885,2025-06-03,5710.3,Debit
+886,29,Male,Single,132588,High,Stocks,Low,69,1562743,Balanced,3436,Monthly,Stocks,886,2025-06-04,3181.54,Debit
+887,22,Female,Single,74432,Medium,Bonds,Medium,56,993740,Aggressive,4922,Annually,Bonds,887,2025-06-05,1831.5,Credit
+888,60,Female,Single,89135,High,Mutual Funds,High,69,1998732,Conservative,3209,Quarterly,Bank Deposit,888,2025-06-06,3226.94,Credit
+889,67,Male,Married,100262,Low,Stocks,Medium,58,167182,Conservative,3504,Monthly,Real Estate,889,2025-06-07,6713.81,Debit
+890,64,Male,Married,67489,Medium,Mutual Funds,High,66,1752275,Balanced,4162,Monthly,Real Estate,890,2025-06-08,7940.92,Credit
+891,65,Male,Married,41619,High,Real Estate,Medium,67,1951496,Aggressive,4482,Quarterly,Stocks,891,2025-06-09,4458.88,Debit
+892,52,Female,Married,71319,Low,Real Estate,Low,59,214237,Conservative,3313,Monthly,Stocks,892,2025-06-10,9576.59,Credit
+893,29,Male,Single,92540,Low,Bonds,Medium,60,1488386,Aggressive,2926,Quarterly,Stocks,893,2025-06-11,7139.65,Debit
+894,49,Male,Divorced,86711,High,Stocks,Low,69,1088321,Balanced,3621,Quarterly,Stocks,894,2025-06-12,2894.01,Credit
+895,21,Female,Married,106968,Low,Real Estate,Low,57,1769151,Conservative,616,Annually,Real Estate,895,2025-06-13,9303.78,Credit
+896,67,Female,Single,77024,Medium,Real Estate,High,56,1467084,Conservative,2553,Monthly,Bank Deposit,896,2025-06-14,5393.2,Credit
+897,65,Male,Married,67388,High,Bonds,Medium,56,445704,Conservative,4375,Monthly,Bonds,897,2025-06-15,4587.33,Debit
+898,50,Male,Divorced,149675,High,Mutual Funds,Low,66,732620,Aggressive,4066,Annually,Real Estate,898,2025-06-16,6905.96,Credit
+899,43,Male,Single,67026,Medium,Mutual Funds,High,67,859079,Aggressive,2302,Annually,Stocks,899,2025-06-17,1351.4,Credit
+900,54,Female,Divorced,111461,Low,Mutual Funds,Medium,66,1549154,Balanced,3899,Quarterly,Stocks,900,2025-06-18,4880.15,Credit
+901,44,Female,Divorced,79215,High,Real Estate,High,66,439306,Conservative,1687,Annually,Bonds,901,2025-06-19,5503.69,Credit
+902,23,Female,Married,38192,Low,Bonds,Medium,56,632378,Aggressive,4690,Quarterly,Real Estate,902,2025-06-20,7436.7,Debit
+903,44,Female,Married,56024,Medium,Mutual Funds,Low,64,1974397,Aggressive,1774,Monthly,Stocks,903,2025-06-21,7878.05,Debit
+904,60,Male,Divorced,66104,Low,Stocks,High,64,625328,Aggressive,1507,Quarterly,Stocks,904,2025-06-22,3365.67,Credit
+905,36,Male,Married,139102,High,Stocks,High,56,1362268,Conservative,659,Monthly,Bonds,905,2025-06-23,1426.61,Debit
+906,22,Male,Married,120191,High,Stocks,High,67,1710774,Aggressive,3728,Quarterly,Bonds,906,2025-06-24,3870.6,Credit
+907,31,Female,Single,72348,High,Stocks,Medium,65,1243154,Conservative,2846,Monthly,Real Estate,907,2025-06-25,6352.04,Credit
+908,27,Male,Single,99072,Low,Stocks,Medium,60,357618,Aggressive,4451,Quarterly,Bank Deposit,908,2025-06-26,9673.14,Credit
+909,51,Female,Single,56848,Medium,Bonds,High,57,612353,Conservative,4577,Quarterly,Real Estate,909,2025-06-27,2440.93,Debit
+910,33,Male,Single,136805,Low,Mutual Funds,Low,59,679244,Conservative,1501,Quarterly,Bonds,910,2025-06-28,3096.13,Credit
+911,38,Male,Single,42038,Medium,Stocks,Medium,57,1388555,Balanced,1174,Monthly,Bank Deposit,911,2025-06-29,7096.48,Debit
+912,33,Male,Divorced,61961,Low,Bonds,Low,57,981016,Aggressive,2099,Monthly,Bank Deposit,912,2025-06-30,3795.0,Credit
+913,41,Male,Single,46627,Low,Bonds,Medium,64,663307,Conservative,4657,Quarterly,Bank Deposit,913,2025-07-01,5932.46,Debit
+914,51,Male,Single,65907,High,Stocks,High,67,1082591,Aggressive,2311,Annually,Real Estate,914,2025-07-02,2248.04,Credit
+915,26,Female,Single,129343,Medium,Stocks,Medium,69,245663,Conservative,2715,Quarterly,Bank Deposit,915,2025-07-03,4353.36,Debit
+916,49,Male,Married,63752,Medium,Bonds,Medium,68,1488367,Conservative,572,Quarterly,Real Estate,916,2025-07-04,1872.03,Credit
+917,25,Male,Divorced,95112,Low,Stocks,High,57,465860,Conservative,1605,Monthly,Bank Deposit,917,2025-07-05,6250.41,Debit
+918,43,Male,Single,83591,Medium,Stocks,Low,67,800773,Balanced,2695,Annually,Stocks,918,2025-07-06,7417.11,Credit
+919,49,Male,Single,50461,Low,Bonds,Low,66,246208,Aggressive,4805,Monthly,Bonds,919,2025-07-07,7583.16,Debit
+920,18,Male,Single,95763,Low,Stocks,Medium,63,627444,Conservative,4660,Annually,Real Estate,920,2025-07-08,5989.09,Credit
+921,37,Male,Married,110363,Medium,Stocks,Medium,58,288479,Balanced,2168,Quarterly,Bank Deposit,921,2025-07-09,2595.97,Debit
+922,69,Female,Divorced,78884,High,Bonds,Medium,57,1731450,Conservative,3283,Quarterly,Bank Deposit,922,2025-07-10,683.29,Debit
+923,59,Male,Single,48545,High,Real Estate,Low,64,421334,Conservative,3775,Quarterly,Bonds,923,2025-07-11,2714.47,Debit
+924,34,Female,Single,33377,High,Bonds,High,69,348527,Aggressive,3319,Monthly,Stocks,924,2025-07-12,5089.44,Credit
+925,38,Female,Single,147285,High,Bonds,Medium,59,1168156,Aggressive,936,Quarterly,Bonds,925,2025-07-13,4987.05,Credit
+926,30,Female,Married,114932,High,Bonds,Low,62,1588937,Aggressive,2288,Quarterly,Bank Deposit,926,2025-07-14,5546.01,Debit
+927,41,Male,Divorced,45601,Low,Bonds,Medium,63,1705490,Conservative,2902,Annually,Bonds,927,2025-07-15,6983.11,Credit
+928,22,Female,Single,55686,Low,Stocks,Medium,66,1453426,Balanced,3683,Quarterly,Bank Deposit,928,2025-07-16,1713.28,Debit
+929,39,Female,Divorced,84495,High,Mutual Funds,High,66,1984945,Balanced,4127,Annually,Bank Deposit,929,2025-07-17,3575.44,Debit
+930,56,Male,Married,84058,Low,Real Estate,High,66,1823161,Balanced,1519,Monthly,Stocks,930,2025-07-18,136.19,Credit
+931,21,Female,Single,145826,High,Bonds,Medium,58,180162,Conservative,4206,Annually,Bonds,931,2025-07-19,6171.22,Debit
+932,65,Male,Married,40756,Medium,Real Estate,Low,56,1835647,Conservative,515,Quarterly,Bank Deposit,932,2025-07-20,4170.73,Debit
+933,56,Male,Married,133741,High,Real Estate,Low,58,1107033,Aggressive,2789,Quarterly,Stocks,933,2025-07-21,5934.36,Debit
+934,31,Male,Divorced,69340,Medium,Real Estate,Medium,60,268466,Aggressive,1791,Quarterly,Stocks,934,2025-07-22,4020.86,Debit
+935,21,Male,Divorced,97792,Low,Mutual Funds,Medium,59,1431334,Balanced,3645,Quarterly,Real Estate,935,2025-07-23,1933.39,Credit
+936,52,Male,Married,77275,High,Real Estate,High,60,629539,Aggressive,3023,Monthly,Bank Deposit,936,2025-07-24,9821.04,Debit
+937,32,Male,Single,43044,High,Real Estate,High,60,491240,Conservative,4318,Quarterly,Bonds,937,2025-07-25,2968.63,Credit
+938,29,Male,Divorced,30852,High,Mutual Funds,High,69,1774554,Aggressive,2531,Quarterly,Stocks,938,2025-07-26,7441.17,Debit
+939,61,Female,Divorced,74007,Low,Mutual Funds,High,64,533620,Conservative,2789,Annually,Stocks,939,2025-07-27,9615.5,Debit
+940,41,Female,Single,31694,Low,Stocks,Low,65,1606986,Balanced,4926,Monthly,Stocks,940,2025-07-28,4498.51,Credit
+941,38,Female,Divorced,85435,Medium,Real Estate,High,60,878460,Aggressive,1563,Quarterly,Real Estate,941,2025-07-29,5981.22,Debit
+942,68,Male,Married,95768,Low,Mutual Funds,Low,60,391964,Balanced,2959,Quarterly,Bank Deposit,942,2025-07-30,877.06,Debit
+943,57,Female,Married,45231,Medium,Real Estate,Low,64,1144345,Aggressive,4064,Quarterly,Real Estate,943,2025-07-31,5467.17,Debit
+944,36,Female,Married,140987,High,Real Estate,Medium,69,1129065,Aggressive,932,Quarterly,Bonds,944,2025-08-01,8313.97,Credit
+945,18,Male,Married,126462,Low,Real Estate,Medium,62,1206022,Aggressive,2713,Quarterly,Real Estate,945,2025-08-02,2770.73,Debit
+946,49,Male,Divorced,116616,High,Bonds,Low,60,384038,Conservative,4239,Monthly,Stocks,946,2025-08-03,5139.22,Debit
+947,50,Male,Married,99461,High,Real Estate,Medium,66,419586,Balanced,1954,Quarterly,Real Estate,947,2025-08-04,7424.48,Credit
+948,31,Female,Divorced,71096,Medium,Real Estate,Low,65,461459,Conservative,2805,Annually,Stocks,948,2025-08-05,9723.85,Debit
+949,29,Female,Divorced,126190,High,Stocks,Medium,66,553079,Balanced,4873,Quarterly,Bank Deposit,949,2025-08-06,8323.6,Debit
+950,19,Female,Divorced,53107,Medium,Stocks,Low,55,633892,Conservative,1260,Annually,Bonds,950,2025-08-07,5797.2,Debit
+951,45,Male,Married,36224,Medium,Stocks,High,69,1533902,Balanced,3012,Quarterly,Stocks,951,2025-08-08,7760.16,Debit
+952,55,Female,Divorced,44998,Low,Mutual Funds,Low,68,1317816,Conservative,1405,Monthly,Bonds,952,2025-08-09,384.16,Debit
+953,54,Female,Married,100870,Low,Mutual Funds,Low,60,1137111,Aggressive,2208,Annually,Bank Deposit,953,2025-08-10,2413.72,Credit
+954,68,Female,Divorced,106917,Low,Stocks,Low,65,1557809,Conservative,1320,Annually,Real Estate,954,2025-08-11,5632.22,Credit
+955,55,Male,Divorced,97738,High,Mutual Funds,High,67,1333467,Balanced,789,Annually,Stocks,955,2025-08-12,3612.03,Credit
+956,20,Male,Single,146545,Low,Mutual Funds,Low,63,1734093,Balanced,4436,Annually,Stocks,956,2025-08-13,1130.28,Debit
+957,21,Male,Divorced,102226,Medium,Mutual Funds,Medium,62,1391184,Aggressive,2256,Monthly,Stocks,957,2025-08-14,8345.07,Credit
+958,43,Male,Married,53496,Medium,Mutual Funds,Low,64,884253,Conservative,3461,Quarterly,Real Estate,958,2025-08-15,3446.16,Credit
+959,55,Female,Single,103600,Low,Real Estate,Low,63,423797,Balanced,3743,Monthly,Stocks,959,2025-08-16,1164.23,Debit
+960,35,Female,Married,42936,Low,Real Estate,High,58,1193762,Aggressive,4549,Annually,Stocks,960,2025-08-17,613.98,Debit
+961,23,Male,Single,122243,Medium,Mutual Funds,Low,63,1377332,Balanced,1642,Quarterly,Stocks,961,2025-08-18,8868.87,Credit
+962,59,Male,Single,91812,Low,Bonds,High,62,1226700,Conservative,4882,Monthly,Bonds,962,2025-08-19,3876.41,Credit
+963,54,Female,Married,104101,Low,Real Estate,Medium,57,1040548,Balanced,1488,Quarterly,Bonds,963,2025-08-20,8740.94,Credit
+964,23,Female,Single,63177,Low,Stocks,Medium,68,620956,Conservative,1733,Monthly,Bonds,964,2025-08-21,5344.85,Credit
+965,41,Male,Married,90002,Medium,Bonds,Medium,58,1802902,Balanced,4139,Annually,Real Estate,965,2025-08-22,6578.81,Debit
+966,51,Female,Married,86251,Low,Mutual Funds,Medium,62,1405287,Aggressive,3686,Annually,Stocks,966,2025-08-23,5557.4,Credit
+967,54,Female,Divorced,97678,Medium,Real Estate,Medium,63,741279,Balanced,3733,Annually,Real Estate,967,2025-08-24,8568.85,Credit
+968,31,Male,Married,111869,Medium,Real Estate,High,65,1011307,Aggressive,2896,Annually,Stocks,968,2025-08-25,1693.01,Debit
+969,42,Male,Single,60899,High,Stocks,Medium,69,1527548,Aggressive,2308,Monthly,Bank Deposit,969,2025-08-26,7051.73,Credit
+970,31,Female,Divorced,126559,High,Mutual Funds,High,62,1513551,Balanced,2011,Quarterly,Bank Deposit,970,2025-08-27,874.66,Credit
+971,56,Female,Married,143918,Low,Bonds,Low,55,278479,Aggressive,4797,Quarterly,Real Estate,971,2025-08-28,4988.96,Credit
+972,28,Female,Divorced,129358,Medium,Real Estate,High,62,855771,Balanced,4715,Quarterly,Real Estate,972,2025-08-29,2451.28,Debit
+973,23,Female,Single,61361,Medium,Stocks,High,63,1598512,Balanced,4317,Monthly,Real Estate,973,2025-08-30,3952.73,Debit
+974,57,Female,Single,58010,High,Bonds,Medium,62,322256,Balanced,4732,Monthly,Bank Deposit,974,2025-08-31,330.58,Debit
+975,67,Female,Divorced,65037,Medium,Mutual Funds,High,68,1241177,Balanced,4794,Monthly,Real Estate,975,2025-09-01,8005.88,Credit
+976,30,Female,Married,74303,High,Bonds,High,61,1219677,Aggressive,2638,Annually,Stocks,976,2025-09-02,8354.81,Debit
+977,29,Male,Divorced,72820,Low,Real Estate,Low,67,1104139,Conservative,780,Quarterly,Bonds,977,2025-09-03,5840.13,Credit
+978,22,Male,Married,43743,Medium,Stocks,Medium,59,1052822,Balanced,1237,Annually,Bank Deposit,978,2025-09-04,1733.18,Credit
+979,30,Female,Divorced,40807,High,Stocks,High,62,1684938,Balanced,2682,Annually,Stocks,979,2025-09-05,3014.09,Credit
+980,32,Male,Married,41613,Medium,Stocks,High,58,1196479,Aggressive,4553,Monthly,Real Estate,980,2025-09-06,2079.35,Credit
+981,54,Female,Divorced,141016,Medium,Mutual Funds,Low,65,1511351,Balanced,1680,Annually,Bonds,981,2025-09-07,6768.2,Debit
+982,60,Male,Married,124788,High,Real Estate,Medium,60,1380217,Conservative,3422,Quarterly,Bonds,982,2025-09-08,2829.93,Debit
+983,37,Male,Married,68430,Medium,Real Estate,Low,61,693938,Aggressive,3782,Monthly,Stocks,983,2025-09-09,9460.24,Debit
+984,30,Male,Married,85133,Low,Real Estate,High,59,545419,Conservative,3453,Monthly,Bank Deposit,984,2025-09-10,3893.66,Credit
+985,50,Female,Divorced,79328,Medium,Stocks,Medium,58,637729,Balanced,2647,Quarterly,Bank Deposit,985,2025-09-11,5178.78,Credit
+986,45,Female,Married,62533,Low,Stocks,High,64,1106019,Conservative,2482,Quarterly,Stocks,986,2025-09-12,1094.72,Credit
+987,31,Male,Married,97492,High,Bonds,Medium,60,1975261,Aggressive,3705,Annually,Stocks,987,2025-09-13,8194.19,Credit
+988,35,Female,Single,127065,Low,Bonds,Low,68,1974632,Aggressive,3978,Quarterly,Stocks,988,2025-09-14,9088.13,Debit
+989,32,Male,Single,49657,High,Bonds,Medium,61,1417207,Balanced,1328,Quarterly,Bonds,989,2025-09-15,2591.62,Debit
+990,52,Female,Married,136713,Low,Mutual Funds,High,69,905550,Aggressive,2035,Annually,Bonds,990,2025-09-16,5861.89,Debit
+991,59,Male,Divorced,55624,Medium,Real Estate,Medium,57,491977,Aggressive,3192,Monthly,Bonds,991,2025-09-17,1019.37,Credit
+992,35,Female,Single,127388,Medium,Bonds,Low,68,1829729,Aggressive,3334,Annually,Bonds,992,2025-09-18,3997.83,Debit
+993,59,Female,Divorced,85116,Low,Bonds,Medium,69,1562150,Balanced,612,Annually,Real Estate,993,2025-09-19,8400.44,Credit
+994,67,Male,Single,71989,High,Mutual Funds,Low,56,191268,Aggressive,3731,Annually,Bonds,994,2025-09-20,3603.07,Credit
+995,34,Female,Single,121796,Low,Bonds,Low,60,1767219,Aggressive,2938,Quarterly,Stocks,995,2025-09-21,3621.6,Credit
+996,44,Male,Single,66763,High,Bonds,Medium,69,1519038,Conservative,4230,Quarterly,Bonds,996,2025-09-22,4311.93,Credit
+997,31,Male,Married,102340,Medium,Bonds,Low,57,1234872,Conservative,1824,Monthly,Bonds,997,2025-09-23,9222.31,Credit
+998,30,Male,Single,114198,High,Stocks,Medium,67,336071,Conservative,2050,Quarterly,Stocks,998,2025-09-24,2774.05,Credit
+999,44,Female,Married,146987,Medium,Stocks,High,63,116636,Aggressive,1207,Annually,Bank Deposit,999,2025-09-25,5662.64,Credit
+1000,58,Male,Single,118960,Low,Stocks,Medium,58,845912,Conservative,4777,Monthly,Bonds,1000,2025-09-26,9419.34,Debit
